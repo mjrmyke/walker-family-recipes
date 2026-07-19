@@ -22,8 +22,20 @@ function sourceLinks(r: Recipe, primaryLabel: string): string {
   return `<div class="links">${parts.join("")}</div>`;
 }
 
+function metaBlock(r: Recipe): string {
+  if (r.postings.length <= 1) {
+    return `<div class="meta">Week ${r.week} · <b>${escapeHtml(r.theme)}</b> · ${fullDate(r.date)} · r/${escapeHtml(r.subreddit)}</div>`;
+  }
+  const rows = r.postings
+    .map((p) =>
+      `<a class="posting" href="${escapeHtml(p.redditUrl)}" target="_blank" rel="noopener">
+         <b>Week ${p.week}</b> · ${escapeHtml(p.theme)} · ${fullDate(p.date)} · r/${escapeHtml(p.subreddit)} ↗</a>`)
+    .join("");
+  return `<div class="meta"><div class="postings-label">Cooked ${r.postings.length} times</div>
+    <div class="postings">${rows}</div></div>`;
+}
+
 export function renderRecipe(container: HTMLElement, r: Recipe): void {
-  const meta = `Week ${r.week} · <b>${escapeHtml(r.theme)}</b> · ${fullDate(r.date)} · r/${escapeHtml(r.subreddit)}`;
 
   let body: string;
   if (r.photoOnly) {
@@ -56,7 +68,7 @@ export function renderRecipe(container: HTMLElement, r: Recipe): void {
       <div class="hero${hasRealImage(r) ? " has-photo" : ""}">${hero(r)}</div>
       <div class="dbody">
         <h2>${escapeHtml(r.dish)}</h2>
-        <div class="meta">${meta}</div>
+        ${metaBlock(r)}
         <p class="desc">${escapeHtml(r.description)}</p>
         ${body}
       </div>

@@ -5,6 +5,15 @@ export interface Ingredient {
   note: string | null;
 }
 
+export interface Posting {
+  week: number;
+  year: number;
+  date: string;
+  theme: string;
+  subreddit: string;
+  redditUrl: string;
+}
+
 export interface Recipe {
   id: string;
   week: number;
@@ -26,4 +35,5 @@ export interface Recipe {
   tags: string[];
   notes: string | null;
   photoOnly: boolean;
+  postings: Posting[];
 }

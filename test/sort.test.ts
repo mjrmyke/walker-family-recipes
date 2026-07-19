@@ -7,7 +7,7 @@ function mk(id: string, dish: string, date: string, week: number): Recipe {
     id, week, year: Number(date.slice(0, 4)), date, theme: "T", title: dish, dish,
     subreddit: "52weeksofcooking", track: null, redditUrl: "", sourceUrl: null,
     description: "", image: "", gallery: [], servings: 4,
-    ingredients: [], steps: [], tags: [], notes: null, photoOnly: false,
+    ingredients: [], steps: [], tags: [], notes: null, photoOnly: false, postings: [],
   };
 }
 

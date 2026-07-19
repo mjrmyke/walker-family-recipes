@@ -9,7 +9,7 @@ function mk(id: string, dish: string, tags: string[], items: string[] = []): Rec
     subreddit: "52weeksofcooking", track: null, redditUrl: "", sourceUrl: null,
     description: "", image: "", gallery: [], servings: 4,
     ingredients: items.map((i) => ({ qty: null, unit: null, item: i, note: null })),
-    steps: [], tags, notes: null, photoOnly: false,
+    steps: [], tags, notes: null, photoOnly: false, postings: [],
   };
 }
 

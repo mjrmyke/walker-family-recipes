@@ -22,7 +22,7 @@ export function recipeCard(r: Recipe): string {
     <div class="cbody">
       <div class="theme">Week ${r.week} · ${escapeHtml(r.theme)}</div>
       <h3>${escapeHtml(r.dish)}</h3>
-      <div class="when">${monthYear(r.date)}</div>
+      <div class="when">${monthYear(r.date)}${r.postings.length > 1 ? ` · cooked ${r.postings.length}×` : ""}</div>
       <p>${escapeHtml(r.description)}</p>
       <div class="cchips">${r.tags.map((t) => `<span>${t}</span>`).join("")}</div>
     </div>
