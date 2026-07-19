@@ -2,6 +2,7 @@ import type { Recipe } from "./types";
 import { formatQty } from "./scale";
 import { fullDate, emojiFor, escapeHtml, hasRealImage, asset } from "./util";
 import { getChecked, setChecked, resetChecked } from "./checklist";
+import { openLightbox } from "./lightbox";
 
 function hero(r: Recipe): string {
   if (hasRealImage(r)) {
@@ -52,7 +53,7 @@ export function renderRecipe(container: HTMLElement, r: Recipe): void {
 
   container.innerHTML = `<a class="back" href="#/">← All recipes</a>
     <div class="detail">
-      <div class="hero">${hero(r)}</div>
+      <div class="hero${hasRealImage(r) ? " has-photo" : ""}">${hero(r)}</div>
       <div class="dbody">
         <h2>${escapeHtml(r.dish)}</h2>
         <div class="meta">${meta}</div>
@@ -60,6 +61,12 @@ export function renderRecipe(container: HTMLElement, r: Recipe): void {
         ${body}
       </div>
     </div>`;
+
+  // Click the hero to view the full (uncropped) image.
+  const heroImg = container.querySelector<HTMLImageElement>(".hero img");
+  if (heroImg) {
+    heroImg.addEventListener("click", () => openLightbox(asset(r.image), r.dish));
+  }
 
   if (r.photoOnly) return;
 
