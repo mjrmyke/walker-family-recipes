@@ -1,0 +1,35 @@
+{
+  "id": "wc-2024-w45",
+  "recipe_url": "https://nourishplate.com/instant-pot-lemon-garlic-chicken/",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Instant Pot Lemon Garlic Chicken",
+  "description": "Easy Instant Pot Lemon Garlic Chicken made in under 30 minutes! This quick and easy recipe is family-friendly and a crowd-pleaser.",
+  "ingredients": [
+    "6 large chicken breasts (boneless and skinless)",
+    "½ teaspoon garlic powder",
+    "½ teaspoon paprika",
+    "½ teaspoon salt",
+    "½ teaspoon ground black pepper (freshly ground)",
+    "2 tablespoons olive oil",
+    "3 tablespoons unsalted butter",
+    "½ medium yellow onion (small)",
+    "4  garlic cloves (minced)",
+    "⅓ cup chicken broth/stock",
+    "2  lemons (1 for juice and zest, and 1 to be sliced)",
+    "parsley (chopped, fresh)"
+  ],
+  "steps": [
+    "Generously season the chicken breasts with garlic powder, paprika, salt, and black pepper. Give the chicken a good rub with your hands to evenly distribute the seasonings all over the chicken.",
+    "Add olive oil into the Instant Pot and press sauté so the oil gets hot. Place chicken breasts (or thighs if using) into the Instant Pot and brown for 3 minutes. Work in batches if needed.",
+    "Flip with tongs and sear the other side until browned - about 3 minutes. When both sides are browned, transfer to a plate and set aside. Then, deglaze the pot. Scrape up any browned bits from the bottom of the pot.",
+    "Add butter and sauté the onions until golden. Add garlic and cook for 30 seconds or a minute until it becomes fragrant.",
+    "Deglaze the pot with the chicken stock or broth, and using a wooden spoon scrape off any bits stuck to the bottom of the pot.",
+    "Return the chicken to the Instant Pot. Secure the lid and make sure that the vent is sealed. Press on manual/pressure cook and set the time at 7 minutes.",
+    "The Instant Pot will come to pressure then cook. When the cooking time is up, allow for natural release of steam for 2-3 minutes, then quickly release the remaining steam.",
+    "Optional: Feel free to thicken the sauce if you like by adding 1 tablespoon of cornstarch mixed with 1 tablespoon of water. Press on saute, add the cornstarch slurry, and whisk until the sauce thickens.",
+    "Add lemon juice, lemon zest and garnish with fresh chopped parsley and lemon slices. Serve warm over white rice or mashed potatoes."
+  ],
+  "servings": 6
+}

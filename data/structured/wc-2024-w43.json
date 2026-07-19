@@ -1,0 +1,112 @@
+{
+  "id": "wc-2024-w43",
+  "description": "Butter chicken is a flavorful chicken curry with heavenly aroma of the garam masala and fenugreek, in a creamy sauce with orangish hue from the red chili powder",
+  "servings": 6,
+  "ingredients": [
+    {
+      "qty": 2.0,
+      "unit": "lb",
+      "item": "boneless skinless chicken thighs",
+      "note": "cut into 2-inch pieces"
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "ghee",
+      "note": "or coconut oil"
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "large  yellow onion",
+      "note": "finely chopped"
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "fresh ginger",
+      "note": "grated"
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "fresh garlic",
+      "note": "minced"
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground turmeric",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "Kashmiri red chili powder",
+      "note": null
+    },
+    {
+      "qty": 3.0,
+      "unit": null,
+      "item": "plum tomatoes",
+      "note": "pureed"
+    },
+    {
+      "qty": 1.0,
+      "unit": "can",
+      "item": "unsweetened full fat coconut milk",
+      "note": "allow these to separate - DO NOT shake. Best if left in fridge overnight"
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "tomato paste",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "garam masala",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "kasoori methi",
+      "note": "dried fenugreek leaves"
+    },
+    {
+      "qty": 2.0,
+      "unit": "tsp",
+      "item": "sugar",
+      "note": "skip for paleo"
+    },
+    {
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "kosher salt",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "cilantro",
+      "note": "chopped, for garnish"
+    }
+  ],
+  "steps": [
+    "Set Instant Pot to Saute mode and heat ghee. Add onions and salt. Cook until onions are soft and translucent for 2-3 minutes (with a glass lid on to speed this process)",
+    "Add ginger, garlic, turmeric, and red chili powder. Mix well and cook until fragrant for 2 minutes.",
+    "Separate the coconut cream and water. Keep the coconut cream aside. Add half a cup of the watery portion of coconut milk and pureed tomatoes mixing with spices. Add chicken and stir well.",
+    "Close the Instant Pot lid with steam release handle to sealing. Pressure cook for 8 minutes followed by quick release. (Note: If using chicken breasts, pressure cook for 5 minutes followed by 5 minutes of natural pressure release)",
+    "Open the Instant Pot, stir in coconut cream, tomato paste, garam masala, fenugreek leaves, sugar, and half of the cilantro. Add more salt if needed.",
+    "Turn the Instant Pot to Sauté mode. Cook without the lid to allow the curry to thicken for 5 minutes. If the sauce starts to splutter, adjust to Saute(Less).",
+    "Garnish with remaining cilantro. Serve the butter chicken with Homemade Parathas and Basmati Rice or Cumin Rice and  Cucumber Raita. For a low-carb meal serve with Cauliflower Cumin Rice."
+  ],
+  "tags": [
+    "chicken"
+  ],
+  "sourceUrl": "https://ministryofcurry.com/instant-pot-butter-chicken/#recipe",
+  "notes": null,
+  "photoOnly": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": "wb-2025-w43",
+  "recipe_url": "https://www.myforkinglife.com/baked-air-fryer-apples/",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Baked Air Fryer Apples",
+  "description": "These delicious baked air fryer apples are the most perfect dessert to enjoy this fall. Filled with walnuts, oats and seasonal spices, this simple sweet treat is best served with a scoop of vanilla ice cream.",
+  "ingredients": [
+    "2  Honeycrisp apples",
+    "4 Tablespoons unsalted butter (softened)",
+    "2 Tablespoons old fashioned oats",
+    "2 Tablespoons packed light brown sugar",
+    "2 Tablespoons chopped walnuts",
+    "½ teaspoon ground cinnamon",
+    "⅛ teaspoon nutmeg",
+    "Pinch of salt",
+    "Vanilla ice cream or whipped cream (for serving)"
+  ],
+  "steps": [
+    "Cut apples in half from stem to bottom and use a paring knife, spoon, or melon scoop to remove the core, stem, and part of the inside to create a hollow opening. Set aside.",
+    "Combine butter, old fashioned oats, brown sugar, walnuts, cinnamon, nutmeg, and salt in a bowl and stir to combine.",
+    "Add mixture evenly into each apple half.",
+    "Air fry at 350°F (177°C) for 20–25 minutes, until the apples are softened and the oat mixture is toasty.",
+    "Serve apples warm and top with vanilla ice cream or whipped cream. Enjoy :)"
+  ],
+  "servings": 4
+}

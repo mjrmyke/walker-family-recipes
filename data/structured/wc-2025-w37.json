@@ -1,0 +1,125 @@
+{
+  "id": "wc-2025-w37",
+  "description": "I’m a former restaurant chef who’s lived in New Mexico on and off for nearly 40 years (as well as Mexico, New Orleans, San Francisco, Lisbon, and a few others),",
+  "servings": 4,
+  "ingredients": [
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "cob",
+      "note": "shucked Roasted corn"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "chopped cilantro and toasted pumpkin seeds Garnish",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "to taste Salt",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "to taste Cumin",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "to taste Black pepper",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "to taste Shaoxing cooking wine",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "to taste Apple cider vinegar",
+      "note": null
+    },
+    {
+      "qty": 5.0,
+      "unit": null,
+      "item": "small",
+      "note": "chopped Fingerling potatoes"
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "handful",
+      "note": "minced Cilantro stalks"
+    },
+    {
+      "qty": 3.0,
+      "unit": "tbsp",
+      "item": "Olive oil",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "cups",
+      "note": "chopped Roasted green chili"
+    },
+    {
+      "qty": 2.0,
+      "unit": "cup",
+      "item": "Shredded chicken",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "quart Chicken stock",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "Butter",
+      "note": null
+    },
+    {
+      "qty": 4.0,
+      "unit": "tbsp",
+      "item": "All-purpose flour",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "healthy pinch Dried oregano",
+      "note": null
+    },
+    {
+      "qty": 3.0,
+      "unit": null,
+      "item": "large cloves",
+      "note": "minced Garlic"
+    }
+  ],
+  "steps": [
+    "Broil the corn and tomatillo (and the chiles, if you haven't bought them pre-roasted); peel the tomatillo (and chiles, with gloves on); shuck the corn",
+    "Heat chicken stock, add chicken, green chili, corn, tomatillo, cilantro, and potatoes. Simmer.",
+    "Soften onion and garlic in olive oil with oregano. I caramelized the onions & garlic a bit.",
+    "Add 4 tablespoons of flour to make a roux, then butter, stirring until medium dark.",
+    "Stir in the roux slowly, cook until potatoes are done.",
+    "Season with vinegar, Shaoxing wine, black pepper, cumin, and salt.",
+    "Garnish with cilantro and pumpkin seeds."
+  ],
+  "tags": [
+    "chicken",
+    "soup"
+  ],
+  "sourceUrl": "https://cookpad.com/eng/recipes/24878714",
+  "notes": null,
+  "photoOnly": false
+}

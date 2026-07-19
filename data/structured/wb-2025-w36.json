@@ -1,0 +1,63 @@
+{
+  "id": "wb-2025-w36",
+  "description": "A pull-apart baguette slathered with black garlic butter and parmesan, then baked.",
+  "servings": 20,
+  "ingredients": [
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "sticks unsalted butter",
+      "note": "softened"
+    },
+    {
+      "qty": 8.0,
+      "unit": "clove",
+      "item": "black garlic",
+      "note": "mashed"
+    },
+    {
+      "qty": 0.75,
+      "unit": "cup",
+      "item": "parmesan cheese",
+      "note": "shredded"
+    },
+    {
+      "qty": 0.25,
+      "unit": "cup",
+      "item": "italian parsley",
+      "note": "finely chopped"
+    },
+    {
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "kosher salt",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "black pepper",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "baguette of french bread",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Preheat the oven temperature to 400F. Line a baking sheet with parchment paper.",
+    "In a small bowl, add the black raw garlic cloves and using a fork, mash the garlic until smooth like a paste. Then add the softened butter, parmesan cheese, salt, and pepper. Mix thoroughly to combine.",
+    "Grab the baguette and place on a cutting board. Cut slits into the bread about ½ inch apart, from one end of the bread to the other, without cutting all the way through.",
+    "Place the cut loaf on a large sheet of aluminum foil. Slather the black garlic butter between each slit, reaching the bottom of each slit, until all cuts are covered.",
+    "Wrap the baguette in the aluminum foil and place on the lined baking tray. Bake for 15 minutes.",
+    "Unwrap the bread from the aluminum foil and place on a wire rack to cool for about 5 minutes. Then place on a serving platter. Pull apart and enjoy!"
+  ],
+  "tags": [
+    "bread"
+  ],
+  "sourceUrl": "https://essenceeats.com/swirled-pesto-bread/",
+  "notes": null,
+  "photoOnly": false
+}

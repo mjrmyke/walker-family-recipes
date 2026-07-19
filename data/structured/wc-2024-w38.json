@@ -1,0 +1,110 @@
+{
+  "id": "wc-2024-w38",
+  "description": "Filipino lumpia are fried spring rolls filled with a savory mixture of pork, cabbage, and other veggies for a deliciously crispy appetizer or side.",
+  "servings": 15,
+  "ingredients": [
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "vegetable oil",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "lb",
+      "item": "ground pork",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "chopped onion",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "clove",
+      "item": "garlic",
+      "note": "crushed"
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "minced carrots",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "chopped green onions",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "thinly sliced green cabbage",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "chopped fresh cilantro",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "ground black pepper",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "salt",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "garlic powder",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "soy sauce",
+      "note": null
+    },
+    {
+      "qty": 30.0,
+      "unit": null,
+      "item": "lumpia wrappers",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "cup",
+      "item": "vegetable oil for frying",
+      "note": "or as needed"
+    }
+  ],
+  "steps": [
+    "Gather all ingredients.",
+    "Heat 1 tablespoon vegetable oil in a wok or large skillet over high heat. Add pork; cook and stir until crumbly and no longer pink, 5 to 7 minutes. Remove pork from the pan and set aside. Drain grease from the pan, leaving just a thin coating.",
+    "Add onion and garlic to the pan; cook and stir until fragrant, about 2 minutes.",
+    "Stir in cooked pork, carrots, green onions, cabbage, and cilantro. Season with pepper, salt, garlic powder, and soy sauce. Remove from the heat, and set aside until cool enough to handle, about 5 minutes.",
+    "To assemble lumpia: Place 3 heaping tablespoons of filling diagonally near one corner of a lumpia wrapper, leaving a 1 ½ inch space at both ends.",
+    "Fold the side along the length of the filling over the filling, tuck in both ends, and roll neatly and tightly to close.",
+    "Moisten the other side of the wrapper with water to seal the edge. Transfer to a plate and cover with plastic wrap to retain moisture. Repeat to assemble remaining lumpia.",
+    "Heat 1/2 inch vegetable oil in a heavy skillet over medium heat for 5 minutes.",
+    "Slide 3 to 4 lumpia into the hot oil, making sure the seams are facing down. Fry, turning occasionally, until all sides are golden brown, 1 to 2 minutes. Transfer to a paper towel-lined plate to drain. Repeat to fry remaining lumpia.",
+    "Serve immediately. Enjoy!"
+  ],
+  "tags": [
+    "pork",
+    "sauce"
+  ],
+  "sourceUrl": "https://www.allrecipes.com/recipe/35151/traditional-filipino-lumpia/",
+  "notes": null,
+  "photoOnly": false
+}

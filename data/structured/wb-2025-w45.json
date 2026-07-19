@@ -1,0 +1,66 @@
+{
+  "id": "wb-2025-w45",
+  "description": "An easy microwave Vanilla Mug Cake (made without eggs) that&#x27;s the fastest way to make dessert for one or two.",
+  "servings": 1,
+  "ingredients": [
+    {
+      "qty": 0.25,
+      "unit": "cup",
+      "item": "+1 1/2 teaspoons all-purpose flour",
+      "note": "(35 g)"
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "sugar",
+      "note": "(25 g)"
+    },
+    {
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "baking powder",
+      "note": "(1 g)"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "dash salt",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "butter",
+      "note": "melted (28 g)"
+    },
+    {
+      "qty": 3.0,
+      "unit": "tbsp",
+      "item": "milk",
+      "note": "(45 ml)"
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "vanilla extract",
+      "note": "(2.5 ml)"
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "sprinkles",
+      "note": "(4 g)"
+    }
+  ],
+  "steps": [
+    "Add flour, sugar, baking powder, and salt to a mug and stir together.",
+    "Stir in milk, melted butter, and vanilla extract until smooth, being sure to scrape the bottom of the mug. Stir in sprinkles.",
+    "Cook in microwave for 70-90 seconds* (until cake is just set, but still barely shiny on top). Allow to rest in microwave for 1 minute before consuming."
+  ],
+  "tags": [
+    "dessert"
+  ],
+  "sourceUrl": "https://tastesbetterfromscratch.com/vanilla-mug-cake/",
+  "notes": null,
+  "photoOnly": false
+}

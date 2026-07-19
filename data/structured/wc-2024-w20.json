@@ -1,0 +1,98 @@
+{
+  "id": "wc-2024-w20",
+  "description": "This spaghetti and meatball recipe is the ultimate weeknight family dinner—quick, easy, and picky eater-approved!",
+  "servings": 4,
+  "ingredients": [
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "large egg",
+      "note": null
+    },
+    {
+      "qty": 3.0,
+      "unit": "tbsp",
+      "item": "finely chopped fresh basil,",
+      "note": "plus more for serving"
+    },
+    {
+      "qty": 3.0,
+      "unit": "tbsp",
+      "item": "finely chopped fresh parsley",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "dried oregano",
+      "note": null
+    },
+    {
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "salt",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "freshly ground black pepper",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "clove",
+      "item": "garlic,",
+      "note": "minced"
+    },
+    {
+      "qty": 0.25,
+      "unit": "cup",
+      "item": "water",
+      "note": null
+    },
+    {
+      "qty": 1.5,
+      "unit": "lb",
+      "item": "ground \"meatloaf mix\"",
+      "note": "(approximately equal parts ground beef, pork, and veal)"
+    },
+    {
+      "qty": 0.75,
+      "unit": "cup",
+      "item": "Italian seasoned breadcrumbs,",
+      "note": "such as Progresso"
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "freshly grated Parmigiano-Reggiano cheese,",
+      "note": "plus more for serving"
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "(32-oz) jar good quality Marinara sauce",
+      "note": "such as Rao&#39;s"
+    },
+    {
+      "qty": 1.0,
+      "unit": "lb",
+      "item": "spaghetti",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 350°F (175°C) and set an oven rack in the middle position.",
+    "In a large bowl, whisk together the egg, basil, parsley, oregano, salt, pepper, garlic and water. Add the meat, breadcrumbs and cheese and mix until just combined (your hands are the best tool). Do not overwork it.",
+    "Roll the mixture into golf ball-sized meatballs and place on an ungreased baking sheet. Bake for about 10 minutes, then remove the baking sheet from oven and use a metal spatula to turn the meatballs (they will stick a bit but should release easily when you scrape under them with the spatula). Put the meatballs back in the oven and cook for another 10 minutes, until they are nicely browned and almost cooked through.",
+    "In the meantime, bring the marinara sauce to a simmer in a large skillet. Taste it and adjust the seasoning if necessary (I usually add a healthy pinch of sugar and some freshly ground black pepper). Transfer the browned meatballs to the marinara sauce, leaving the fat behind. Cover loosely with a lid or foil and simmer for about 10 minutes, until the flavors marry and the meatballs are cooked through. Keep warm until ready to toss with pasta.",
+    "While the meatballs are cooking, bring a large pot of well-salted water to a boil. Add the spaghetti and cook until al dente. Reserve about a cup of the cooking water, then drain. Toss the pasta with the sauce and meatballs (you may find it easier to do this in the pasta pot rather than the skillet, depending on the size of your pans). If the sauce seems dry, add a splash of the reserved pasta water to loosen it. Serve topped with fresh basil and more grated cheese."
+  ],
+  "tags": [
+    "vegetarian"
+  ],
+  "sourceUrl": "https://www.onceuponachef.com/recipes/spaghetti-and-meatballs.html?recipe_print=yes",
+  "notes": null,
+  "photoOnly": false
+}

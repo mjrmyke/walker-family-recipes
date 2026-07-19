@@ -1,0 +1,91 @@
+{
+  "id": "wc-2024-w42",
+  "description": "This pressure cooker green chili chicken (chile verde) recipe is a fast, easy weeknight meal, loaded with peppers, onions, and tender chicken.",
+  "servings": 6,
+  "ingredients": [
+    {
+      "qty": 3.0,
+      "unit": "lb",
+      "item": "bone-in",
+      "note": "skin-on chicken thighs and drumsticks"
+    },
+    {
+      "qty": 1.0,
+      "unit": "lb",
+      "item": "poblano peppers, roughly chopped, seeds and stems discarded",
+      "note": "about 3 peppers"
+    },
+    {
+      "qty": 12.0,
+      "unit": "oz",
+      "item": "tomatillos, husks discarded, quartered",
+      "note": "about 4 tomatillos"
+    },
+    {
+      "qty": 10.0,
+      "unit": "oz",
+      "item": "white onion, roughly chopped",
+      "note": "about 1 medium"
+    },
+    {
+      "qty": 6.0,
+      "unit": "oz",
+      "item": "Anaheim or Cubanelle peppers, roughly chopped, seeds and stems discarded",
+      "note": "about 2 peppers"
+    },
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "Serrano or jalapeño peppers",
+      "note": "roughly chopped, stems discarded"
+    },
+    {
+      "qty": 6.0,
+      "unit": null,
+      "item": "medium cloves garlic",
+      "note": "peeled"
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "whole cumin seeds",
+      "note": "toasted and ground"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Kosher salt",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "loosely packed fresh cilantro leaves and fine stems",
+      "note": "plus more for garnish"
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "Asian fish sauce",
+      "note": "such as Red Boat"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Fresh corn tortillas and lime wedges",
+      "note": "for serving"
+    }
+  ],
+  "steps": [
+    "Combine chicken, poblano peppers, tomatillos, onion, Anaheim peppers, Serrano peppers, garlic, cumin, and a big pinch of salt in a pressure cooker. Heat over high heat until gently sizzling, then seal pressure cooker, bring to high pressure, and cook for 15 minutes. Release pressure.",
+    "Using tongs, transfer chicken pieces to a bowl and set aside. Add cilantro and fish sauce to remaining contents of pressure cooker. Blend with an immersion blender or in a countertop blender and season to taste with salt. Return chicken to sauce, discarding skin and bones and shredding if desired.",
+    "Transfer to a serving platter, garnish with chopped cilantro, and serve immediately with tortillas and lime wedges."
+  ],
+  "tags": [
+    "chicken",
+    "seafood"
+  ],
+  "sourceUrl": "https://www.seriouseats.com/pressure-cooker-fast-and-easy-chicken-chile-verde-recipe",
+  "notes": null,
+  "photoOnly": false
+}

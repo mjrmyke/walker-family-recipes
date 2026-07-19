@@ -1,0 +1,31 @@
+{
+  "id": "wc-2025-w44",
+  "recipe_url": "https://www.alyonascooking.com/plov-recipe/",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Beef Plov Recipe",
+  "description": "Plov (pilaf) is the Ukrainian version of rice pilaf. This savory beef plov recipe is a simple one-pot rice dish made with meat, rice, and vegetables, perfect for weeknight dinners. We load it up with carrots, onions, and aromatic spices like cumin and coriander to impart an earthy, peppery, and slightly sweet flavor.",
+  "ingredients": [
+    "2 lbs beef chuck roast or beef stew meat ((cut into 2-inch chunks) )",
+    "2  onions (diced)",
+    "4  carrots (julienned )",
+    "1/2 cup canola oil",
+    "3 cups Jasmine Rice (rinsed)",
+    "4 cups water",
+    "1 head garlic (sliced crosswise)",
+    "1  tsp ground coriander",
+    "1 tsp ground cumin",
+    "2 tsp Lawrys Seasoned Salt",
+    "1 1/2 tsp salt",
+    "1/2  tsp black pepper",
+    "1 tsp paprika"
+  ],
+  "steps": [
+    "Preheat a 6-quart heavy Dutch oven pot over medium heat. Sear the beef until browned. Add 4 cups of water and bring to a boil. Then reduce the heat to low, cover, and simmer for 1 hour until the beef pieces are tender.",
+    "Remove the beef with a slotted spoon and pour the water into a liter measuring cup. Add additional water to make 4 cups of liquid in total. Set aside for cooking with the rice later.",
+    "Return the pot to the stove. Wipe and clean it; heat to medium heat. Add the oil, carrots, and onion and sauté for 15 minutes. Add the beef pieces back to the pot and add all the spices. Stir well.",
+    "Top with rice and the garlic head. Pour the reserved beef water over the rice and lightly shake to avoid stirring. Bring everything to a light boil, then cover and simmer for 30 minutes."
+  ],
+  "servings": 10
+}

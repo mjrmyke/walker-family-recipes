@@ -1,0 +1,122 @@
+{
+  "id": "wc-2024-w41",
+  "description": "There’s a sandwich in Cape Town as cool as F.",
+  "servings": 4,
+  "ingredients": [
+    {
+      "qty": 500.0,
+      "unit": null,
+      "item": "gr  Steak",
+      "note": "Thinly Sliced Against the Grain"
+    },
+    {
+      "qty": 2.0,
+      "unit": "tsp",
+      "item": "Ginger and Garlic Paste",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "Ground Cumin",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "Ground Coriander",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tsp",
+      "item": "Curry Powder",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "Chilli Powder",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Salt",
+      "note": "to taste"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "A Glug of Oil",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "Medium Onions",
+      "note": "Thinly Sliced"
+    },
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "Tomatoes",
+      "note": "Peeled &amp; Grated"
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "Large Soft Baguette",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Fresh Fried Chips",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Handful of Shredded Lettuce",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Sliced Tomato",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Peri-Peri Sauce",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Grated Mango Pickle",
+      "note": "Optional"
+    }
+  ],
+  "steps": [
+    "Combine all the spices and rub into the meat.",
+    "Heat a glug of oil in a saucepan.",
+    "Add the onion and braise until soft and translucent.",
+    "Add the meat and cook with the lid on over medium heat for about 30 minutes or until the meat is tender.",
+    "Add the tomato and cook for another 10 minutes until most of the liquid has evaporated.",
+    "Cut the baguette in half lengthwise, but not all the way through.",
+    "Spread some mango pickle if using or sauce of your choice on both sides of the baguette.",
+    "Add a layer of lettuce and tomato then pack half of the chips on top of that.",
+    "Add steak to the bottom half of the baguette making sure that it fills the baguette completely.",
+    "Add more chips across the baguette and top with some hot sauce.",
+    "Close the sandwich if you are able to and enjoy!"
+  ],
+  "tags": [
+    "beef"
+  ],
+  "sourceUrl": "https://tastyrecipessa.com/masala-steak-gatsby-sandwich/",
+  "notes": null,
+  "photoOnly": false
+}

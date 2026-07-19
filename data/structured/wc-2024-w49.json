@@ -1,0 +1,97 @@
+{
+  "id": "wc-2024-w49",
+  "description": "Light, nutritious tilapia fillets are seasoned with garlic, butter, and lemon and baked to perfection.",
+  "servings": 4,
+  "ingredients": [
+    {
+      "qty": 4.0,
+      "unit": null,
+      "item": "tilapia fillets",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Salt and freshly ground black pepper,",
+      "note": "to taste"
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "paprika",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried thyme",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried oregano",
+      "note": null
+    },
+    {
+      "qty": 4.0,
+      "unit": "tbsp",
+      "item": "butter,",
+      "note": "melted"
+    },
+    {
+      "qty": 4.0,
+      "unit": "clove",
+      "item": "garlic,",
+      "note": "minced"
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "lemon juice",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "lemon zest",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "lemon,",
+      "note": "sliced into rounds, for garnish"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Red pepper flakes,",
+      "note": "for garnish"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Chopped fresh parsley,",
+      "note": "for garnish"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Lemon slices,",
+      "note": "for garnish"
+    }
+  ],
+  "steps": [
+    "Preheat oven to 400°F. Season tilapia with salt, pepper, paprika, thyme, and oregano; arrange fish in a 9x13 baking dish.",
+    "In a mixing bowl, whisk together melted butter, garlic, lemon juice, and lemon zest; pour over tilapia.",
+    "Bake tilapia for 10 to 12 minutes, or until fish flakes and is fork-tender.",
+    "Garnish with pepper flakes, parsley, and lemon slices. Serve."
+  ],
+  "tags": [
+    "vegetarian"
+  ],
+  "sourceUrl": "https://diethood.com/garlic-butter-oven-baked-tilapia/",
+  "notes": null,
+  "photoOnly": false
+}

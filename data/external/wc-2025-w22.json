@@ -1,0 +1,28 @@
+{
+  "id": "wc-2025-w22",
+  "recipe_url": "https://www.loveandlemons.com/dill-pickles-recipe/",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Dill Pickles",
+  "description": null,
+  "ingredients": [
+    "12 to 14 Persian cucumbers or 8 to 10 pickling cucumbers",
+    "4 garlic cloves halved",
+    "2 teaspoons mustard seeds",
+    "2 teaspoons peppercorns",
+    "Fresh dill sprigs a few per jar",
+    "2 cups water",
+    "2 cups distilled white vinegar",
+    "¼ cup cane sugar",
+    "2 tablespoons sea salt"
+  ],
+  "steps": [
+    "To make dill pickle spears, slice the cucumbers lengthwise into quarters. To make dill pickle chips, thinly slice them horizontally.",
+    "Divide the cucumbers among 4 ( 8-ounce ) or 2 ( 16-ounce ) jars. Divide the garlic, mustard seeds, peppercorns, and dill sprigs among each jar.",
+    "Heat the water, vinegar, sugar, and salt in a medium saucepan over medium heat. Stir until the sugar and salt dissolve, about 1 minute. Let cool slightly and pour over the cucumbers. Set aside to cool to room temperature, then store the pickles in the fridge.",
+    "Pickle spears will be lightly pickled in 2 days, but their best flavor will start to develop around day 5 or 6. Pickle chips will be lightly pickled in 1 day, and will become more flavorful every day after that. Store in the fridge for several weeks."
+  ],
+  "servings": 16,
+  "extractor": "wprm"
+}

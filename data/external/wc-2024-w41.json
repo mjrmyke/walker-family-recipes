@@ -1,0 +1,41 @@
+{
+  "id": "wc-2024-w41",
+  "recipe_url": "https://tastyrecipessa.com/masala-steak-gatsby-sandwich/",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Masala Steak Gatsby Sandwich",
+  "description": "There’s a sandwich in Cape Town as cool as F. Scott Fitzgerald’s ‘The Great Gatsby’, with a back story as interesting as that of the novel&#039;s lead character Jay. In fact it’s called the Gatsby. The sandwich is iconic in Cape Town, as famous there, as the Bunny Chow is in Durban. Legend goes that it was invented by Athlone-based fish shop owner Rashaad Pandy back in 1976 when he filled a large Portuguese roll with some slap chips (hot chips) and leftovers which he cut up and shared between workers who had been helping him clean his building.One of the workers loved it so much he declared it was a ‘Gatsby’, meaning that he rated it as a smash-hit just like the movie of the time, starring Robert Redford.While there are different variations on the Gatsby (masala steak, chicken, polony, vienna sausage, calamari, fish, chargrilled steak, salad and a variety of sauces) the rules state it MUST always contain slap chips…or it isn’t a Gatsby! And it should always be shared.In America a similar sandwich (without always including slap chips) is called the American hoagie. In France it’s called an American (and does include the chips), and in the UK it’s named the Chip Butty.The Gatsby sandwich is popular by day with workers and by night with party-goers.The Gatsby consists of a firm and fresh and not too crusty foot-long french loaf that is sliced open and filled with various ingredients — the only constants are either French fries or slap chips and hot sauce, either atchar (typically mango pickle) or some hot sauce.It should also include small amount of veggies thanks to some crispy iceberg lettuce and sliced tomatoes.The recipe below is for the extremely popular masala (mixed spice) steak.",
+  "ingredients": [
+    "500gr  Steak (Thinly Sliced Against the Grain)",
+    "2 Tsps Ginger and Garlic Paste",
+    "1 Tsp Ground Cumin",
+    "1 Tsp Ground Coriander",
+    "2 Tsps Curry Powder",
+    "1 Tsp Chilli Powder",
+    "Salt to Taste",
+    "A Glug of Oil",
+    "2 Medium Onions (Thinly Sliced)",
+    "2   Tomatoes  (Peeled &amp; Grated)",
+    "1 Large Soft Baguette",
+    "Fresh Fried Chips",
+    "Handful of Shredded Lettuce",
+    "Sliced Tomato",
+    "Peri-Peri Sauce",
+    "Grated Mango Pickle  (Optional)"
+  ],
+  "steps": [
+    "Combine all the spices and rub into the meat.",
+    "Heat a glug of oil in a saucepan.",
+    "Add the onion and braise until soft and translucent.",
+    "Add the meat and cook with the lid on over medium heat for about 30 minutes or until the meat is tender.",
+    "Add the tomato and cook for another 10 minutes until most of the liquid has evaporated.",
+    "Cut the baguette in half lengthwise, but not all the way through.",
+    "Spread some mango pickle if using or sauce of your choice on both sides of the baguette.",
+    "Add a layer of lettuce and tomato then pack half of the chips on top of that.",
+    "Add steak to the bottom half of the baguette making sure that it fills the baguette completely.",
+    "Add more chips across the baguette and top with some hot sauce.",
+    "Close the sandwich if you are able to and enjoy!"
+  ],
+  "servings": 4
+}

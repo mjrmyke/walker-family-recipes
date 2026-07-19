@@ -1,0 +1,116 @@
+{
+  "id": "wc-2024-w18",
+  "description": "General Tso&#039;s Chicken is a favorite on Chinese restaurant menus everywhere!",
+  "servings": 4,
+  "ingredients": [
+    {
+      "qty": 1.5,
+      "unit": "lb",
+      "item": "boneless",
+      "note": "skinless chicken thighs (about 8 thighs), cut into bite-sized pieces"
+    },
+    {
+      "qty": 2.0,
+      "unit": "tsp",
+      "item": "reduced sodium soy sauce",
+      "note": "or tamari if gluten free"
+    },
+    {
+      "qty": 3.0,
+      "unit": "tbsp",
+      "item": "cornstarch",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tsp",
+      "item": "vegetable oil or other neutral-flavored oil",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "ginger",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "garlic",
+      "note": null
+    },
+    {
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "red pepper flakes",
+      "note": null
+    },
+    {
+      "qty": 3.0,
+      "unit": "tbsp",
+      "item": "reduced sodium soy sauce",
+      "note": "or tamari if gluten free"
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "Hoisin sauce",
+      "note": "can use gluten-free Hoisin sauce"
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "rice wine vinegar",
+      "note": null
+    },
+    {
+      "qty": 0.75,
+      "unit": "cup",
+      "item": "reduced sodium chicken stock",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "brown sugar",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "toasted sesame oil",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "cornstarch + 1 tablespoon water",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "scallions,",
+      "note": "sliced"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Sesame seeds for garnish",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Preheat air fryer to 400°F.",
+    "Mix the chicken with 2 teaspoons soy sauce and let it sit for a few minutes to marinate.  Then, toss the chicken and cornstarch together in a large zip topped plastic bag until the chicken pieces are fully coated.",
+    "Spray or brush the air fryer rack with oil and arrange the chicken pieces on the rack in a single layer.  Do not overcrowd the pan (you may have to cook the chicken in batches).  Cook 8-10 minutes until chicken is cooked through.  Shake the basket halfway through.  Remove the chicken and place on a plate.  Cook the remaining chicken.",
+    "To make the sauce, heat the vegetable oil in a medium saucepan over medium heat.  Add the ginger, garlic and red pepper flakes. Cook 30 seconds until fragrant.  Add the soy sauce, Hoisin sauce, chicken stock, vinegar, brown sugar, and sesame oil and simmer 2-3 minutes.  Mix the cornstarch with 1 tablespoon water and add it to the saucepan.  Simmer another minute or two until thickened.  Remove from heat.",
+    "Remove chicken from the air fryer and toss with the sauce.  Garnish with scallions and sesame seeds.  Serve with brown rice."
+  ],
+  "tags": [
+    "chicken"
+  ],
+  "sourceUrl": "https://thefoodiephysician.com/air-fryer-general-tsos-chicken/",
+  "notes": null,
+  "photoOnly": false
+}

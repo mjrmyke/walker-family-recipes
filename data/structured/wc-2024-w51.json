@@ -1,0 +1,75 @@
+{
+  "id": "wc-2024-w51",
+  "description": "&lt;em&gt;This buttery, savory Haluski Egg Noodle recipe is filled with the perfect combination of bacon, kielbasa and fried cabbage!",
+  "servings": 8,
+  "ingredients": [
+    {
+      "qty": 16.0,
+      "unit": "oz",
+      "item": "egg noodles",
+      "note": null
+    },
+    {
+      "qty": 16.0,
+      "unit": "oz",
+      "item": "bacon",
+      "note": "chopped into bite sized pieces"
+    },
+    {
+      "qty": 4.0,
+      "unit": null,
+      "item": "garlic cloves",
+      "note": "minced"
+    },
+    {
+      "qty": 13.0,
+      "unit": "oz",
+      "item": "kielbasa",
+      "note": "sliced to your liking"
+    },
+    {
+      "qty": 0.5,
+      "unit": null,
+      "item": "head of cabbage",
+      "note": "chopped into slices"
+    },
+    {
+      "qty": 3.0,
+      "unit": "tbsp",
+      "item": "butter",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "garlic salt",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "black pepper",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "onion powder",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Cook noodles according to package instructions",
+    "While noodles are cooking, fry the bacon pieces in a large skillet on medium heat until browned all around",
+    "Add the minced garlic and sliced kielbasa to the skillet. Fry for 3 more minutes, stirring continuously to prevent the bacon from burning",
+    "Add the chopped cabbage, mix until everything is well combined. Fry for another 3-5 minutes",
+    "Add the cooked noodles, butter, garlic salt, pepper and onion powder to the skillet. Stir until the butter melts and everything is mixed well",
+    "Serve with more butter as desired​"
+  ],
+  "tags": [
+    "pork"
+  ],
+  "sourceUrl": "https://eyesclosedcooking.com/blog/haluski-egg-noodles-with-bacon-kielbasa-fried-cabbage#wpzoom-recipe-card",
+  "notes": null,
+  "photoOnly": false
+}

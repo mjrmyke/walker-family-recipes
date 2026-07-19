@@ -1,0 +1,30 @@
+{
+  "id": "wc-2026-w28",
+  "recipe_url": "https://www.lecremedelacrumb.com/best-super-moist-cornbread/",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "BEST Super Moist Cornbread",
+  "description": "This Super Moist Cornbread recipe is the only way to go if you’re a cornbread lover! Great with chili, roast chicken, turkey, pork, soups, stews, or even jams and jellies. Top it with honey or butter for an extra dose of YUM.",
+  "ingredients": [
+    "2 cups flour",
+    "1 cup cornmeal",
+    "1 cup sugar",
+    "1 ½ tablespoons baking powder",
+    "1 teaspoon salt",
+    "½ cup (8 tablespoons) butter (melted)",
+    "½ cup oil",
+    "1 ¼ cups milk",
+    "3  large eggs",
+    "honey and extra butter for serving (optional)"
+  ],
+  "steps": [
+    "Preheat oven to 350 degrees and grease a 9x13 inch pan.",
+    "In a large bowl whisk together flour, cornmeal, sugar, baking powder, and salt.",
+    "In a medium bowl mix together butter, oil, milk, and eggs.",
+    "Add wet ingredients to dry ingredients and mix until combined.",
+    "Transfer batter to your prepared pan. Bake for 35-45 minutes until golden and a toothpick inserted in the middle comes out clean or with only a few crumbs (no wet batter).",
+    "Allow to cool for 15-20 minutes in the pan before cutting into squares and serving. Serve with butter and honey if desired. Store in airtight container at room temperature up to 3 days or in the fridge for 1 week."
+  ],
+  "servings": 16
+}

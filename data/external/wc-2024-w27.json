@@ -1,0 +1,29 @@
+{
+  "id": "wc-2024-w27",
+  "recipe_url": "https://www.gimmesomeoven.com/roasted-tomato-soup/",
+  "ok": true,
+  "extractor": "webfetch",
+  "name": "Roasted Tomato Soup",
+  "description": "A creamy, smoky tomato soup made by roasting tomatoes then blending with sauteed onion, garlic, broth, and basil.",
+  "ingredients": [
+    "3 1/2 pounds ripe tomatoes (any small- to medium-sized tomatoes will do)",
+    "3 tablespoons olive oil, divided",
+    "fine sea salt and freshly-cracked black pepper",
+    "1 large white or yellow onion, diced",
+    "5 cloves garlic, minced",
+    "3/4 teaspoon smoked paprika",
+    "1/4 teaspoon crushed red pepper flakes",
+    "2 1/2 cups vegetable broth",
+    "1/2 cup loosely-packed fresh basil leaves",
+    "optional toppings: freshly-grated Parmesan, drizzle of heavy cream or olive oil, croutons, sour cream or fresh basil"
+  ],
+  "steps": [
+    "Heat oven to 450°F. Quarter the tomatoes and arrange cut-side-up on a baking sheet. Drizzle with 2 tablespoons olive oil and season with salt and pepper. Bake for 30 to 40 minutes until softened.",
+    "Heat remaining 1 tablespoon olive oil in a large pot over medium-high heat. Sauté diced onion for 5 minutes, then add garlic, smoked paprika, and crushed red pepper flakes. Sauté 2 more minutes.",
+    "Add broth, basil, and roasted tomatoes with their juices to the pot and stir to combine.",
+    "Using an immersion blender, purée the soup until reaching desired texture.",
+    "Taste and season with extra salt, pepper, and/or smoked paprika as needed.",
+    "Serve warm with desired toppings."
+  ],
+  "servings": 5
+}

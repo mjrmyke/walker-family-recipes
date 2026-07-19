@@ -1,0 +1,30 @@
+{
+  "id": "wc-2025-w43",
+  "recipe_url": "https://www.cupofzest.com/halloween-7-layer-dip/",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "​​Blood Splatter 7 Layer Dip (Halloween Recipe!)",
+  "description": "This Spicy Halloween 7 Layer Dip is simply spooktacular! Made with extra spice and topped with a creepy hot sauce blood splatter, no Halloween party is complete without this loaded dip.",
+  "ingredients": [
+    "16 ounce can refried beans",
+    "¼ cup hot sauce (divided (like Cholula))",
+    "1 cup chopped tomatoes (about two romas)",
+    "½ cup chopped jalapeños  (about 2 large jalapeños)",
+    "½ cup sliced olives",
+    "¼ cup thinly sliced green onion",
+    "16 ounces guacamole",
+    "2 cups shredded pepper jack cheese",
+    "16 ounces sour cream",
+    "4 drops red food coloring (optional)"
+  ],
+  "steps": [
+    "Mix together the beans and 3  tablespoons hot sauce in a medium bowl.",
+    "Layer the beans on the bottom of a  2 quart serving dish, then follow with tomatoes, jalapenos, olives, guacamole, cheeese and sour cream.",
+    "Using an offset spatula smooth the sour cream out as much as possible.",
+    "Mix the remaining 2 tablespoons hot sauce with 4 drops red food coloring (if using).",
+    "Using a spoon, splatter the hot sauce ontop of the sour cream to create a spooky effect.",
+    "Serve with chips."
+  ],
+  "servings": 16
+}

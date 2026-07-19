@@ -1,0 +1,29 @@
+{
+  "id": "wc-2025-w2",
+  "recipe_url": "https://www.deliciousmagazine.co.uk/recipes/cock-a-leekie-traybake/",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Cock-a-leekie traybake with croutons",
+  "description": "Cock-a-leekie is a traditional Scottish soup, typically consisting of leek and chicken stock. This tasty cock-a-leekie traybake is a fun twist on the classic recipe &#8211; it&#8217;s brimming with flavour but requires less than 15 minutes of prep. It&#8217;s also a great way to use up leftover vegetables. Want to introduce more vegetables to your diet? Then try this vegetarian traybake – a weeknight winner that replaces meat with spiced cauliflower &#8216;steaks&#8217;. &nbsp;",
+  "ingredients": [
+    "8 free-range chicken thighs",
+    "2 large carrots, chopped",
+    "3 leeks, sliced in half lengthways",
+    "2 fennel bulbs, sliced into 1cm pieces",
+    "3 clementines or easy peelers, 2 cut into slices, 2 juiced",
+    "200ml white wine or chicken stock",
+    "Grated zest and juice 1 lemon",
+    "2 tbsp wholegrain mustard",
+    "5 tbsp olive oil",
+    "Bunch fresh thyme",
+    "2 large pieces sourdough, torn"
+  ],
+  "steps": [
+    "Heat the oven to 220°C/200°C fan/gas 7. In a large roasting tin, mix the chicken, veg and clementine slices.",
+    "Mix the wine or stock with the clementine and lemon juice, mustard and 2 tbsp of the oil, then pour over the chicken. Tuck thyme sprigs under the chicken, season and roast for 35 minutes or until cooked through.",
+    "Meanwhile, mix the bread with the remaining oil and the lemon zest and season well. Transfer to a baking tray and cook in the oven for 10-15 minutes, while the chicken is cooking, until crispy and toasted.",
+    "Discard the thyme and serve the chicken sprinkled with croutons."
+  ],
+  "servings": 4
+}

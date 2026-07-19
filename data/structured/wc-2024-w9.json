@@ -1,0 +1,82 @@
+{
+  "id": "wc-2024-w9",
+  "description": "Chipa guazú (sometimes spelled \"chipa guasú\") is one of the many varieties of chipa (bread or cake) consumed by Paraguayans.",
+  "servings": 6,
+  "ingredients": [
+    {
+      "qty": 8.0,
+      "unit": null,
+      "item": "ears of corn",
+      "note": "hulled"
+    },
+    {
+      "qty": 4.0,
+      "unit": null,
+      "item": "eggs",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "milk",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "sunflower oil",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "small onions",
+      "note": "chopped"
+    },
+    {
+      "qty": 10.0,
+      "unit": null,
+      "item": "oz. queso paraguayo",
+      "note": "(Paraguayan cheese)"
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "salt",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Pepper",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Stand mixer",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Square pan",
+      "note": "(8 inches / 20cm)"
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 400 F (200˚C).",
+    "Blend the corn until it reaches the consistency of oatmeal.",
+    "Heat 3 tablespoons of oil in a frying pan and fry the onions for 5 minutes or until they become translucent.",
+    "In the bowl of a stand mixer with the beater attachment, combine the eggs, milk, cheese, onions, salt and pepper (to taste) to obtain a smooth and slightly foamy consistency.",
+    "Add the blended corn and remaining oil and mix well.",
+    "Grease an 8-inch (20 cm) square pan and pour the mixture.",
+    "Bake and cook for about 30 to 40 minutes or until golden brown."
+  ],
+  "tags": [
+    "vegetarian"
+  ],
+  "sourceUrl": "https://www.196flavors.com/paraguay-chipa-guazu/",
+  "notes": null,
+  "photoOnly": false
+}

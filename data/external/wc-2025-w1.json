@@ -1,0 +1,32 @@
+{
+  "id": "wc-2025-w1",
+  "recipe_url": "https://cooking.nytimes.com/recipes/4424-chicken-in-mustard-sauce",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Chicken in Mustard Sauce",
+  "description": "This healthy yet elegant weeknight chicken dish came to The Times in 1988, courtesy of Jacques Pépin. It's simple but loaded with flavor, and you can throw it together in about a half hour. Just sauté the chicken until golden, then make a quick sauce from onions, water and mustard and reduce until thick. Serve with rice to soak up the sauce, and a crisp green salad. If white meat is not your thing, it would be equally delicious made with boneless chicken thighs (just be sure to add a few minutes of cooking time).",
+  "ingredients": [
+    "8 5-ounce chicken breasts, skinless and boneless",
+    "½ teaspoon salt",
+    "½ teaspoon freshly ground black pepper",
+    "1 tablespoon vegetable oil",
+    "1 cup onion, finely chopped",
+    "2 tablespoons flour",
+    "2 cups water",
+    "1 ½ teaspoons dry mustard",
+    "1 tablespoon Dijon mustard"
+  ],
+  "steps": [
+    "Sprinkle the meat with the salt and pepper.",
+    "Heat the oil in a large skillet over medium-high heat. When it is hot, brown the chicken for one-and-a-half minutes on each side.",
+    "Mix in the onion and continue cooking for one minute.",
+    "Sprinkle the flour on the chicken pieces, turning them so that all the pieces are coated. Cook one minute to lightly brown the flour.",
+    "Add the water and stir to dissolve the flour until the mixture comes to a boil. Lower the heat, cover the skillet and boil gently for five minutes.",
+    "Remove the meat to a serving platter and keep warm.",
+    "Cook the sauce to reduce it to about one-and-a-half cups. Mix the dry mustard with the Dijon mustard and stir until smooth. Stir the mustard mixture into the sauce and heat, but do not allow the sauce to boil after the mustard has been added.",
+    "Place the chicken pieces in the sauce and warm over low heat for 10 to 15 minutes to develop the flavor.",
+    "Serve the chicken with the sauce."
+  ],
+  "servings": 8
+}

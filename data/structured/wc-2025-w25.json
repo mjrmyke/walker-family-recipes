@@ -1,0 +1,151 @@
+{
+  "id": "wc-2025-w25",
+  "description": "This homemade Ramen recipe has savory noodles and juicy chicken in the most flavorful broth with vegetables and seasonings.",
+  "servings": 4,
+  "ingredients": [
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "olive oil",
+      "note": "divided"
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "butter",
+      "note": "divided"
+    },
+    {
+      "qty": 8.0,
+      "unit": null,
+      "item": "oz. mushrooms",
+      "note": "I used sliced baby bella"
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "large boneless/skinless chicken breast",
+      "note": "about ¾ lb."
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Salt/Pepper",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "dry white wine",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "butter",
+      "note": null
+    },
+    {
+      "qty": 3.0,
+      "unit": "clove",
+      "item": "garlic",
+      "note": "minced"
+    },
+    {
+      "qty": 6.0,
+      "unit": "cup",
+      "item": "low sodium chicken broth",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "low sodium soy sauce",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tsp",
+      "item": "hot sauce",
+      "note": "I use Frank’s hot sauce"
+    },
+    {
+      "qty": 2.0,
+      "unit": "tsp",
+      "item": "honey",
+      "note": null
+    },
+    {
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "toasted sesame seed oil",
+      "note": null
+    },
+    {
+      "qty": 6.0,
+      "unit": null,
+      "item": "leaves Bok Choy",
+      "note": "roughly chopped"
+    },
+    {
+      "qty": 0.75,
+      "unit": "tsp",
+      "item": "EACH: onion powder",
+      "note": "mustard powder"
+    },
+    {
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground ginger",
+      "note": null
+    },
+    {
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "white pepper",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "pinch",
+      "item": "red pepper flakes",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Green Onions",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Roughly chopped honey roasted peanuts",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Soft boiled eggs",
+      "note": "see notes"
+    }
+  ],
+  "steps": [
+    "Heat 1 tablespoon olive oil and 1 tablespoon of butter in a large soup pot over medium-high heat. Add the mushrooms. Sauté until golden, about 4 minutes. Remove and set aside so that they retain the color, flavor, and texture.",
+    "Slice the chicken in half lengthwise to create 2 thinner slices. Cover with saran wrap and use the textured side of a meat mallet to pound it to ½ inch thick.",
+    "Pat the chicken dry and season each side with salt and pepper.",
+    "Heat remaining olive oil and butter in a large soup pot over medium-high heat. Sear the chicken in batches for 4-5 minutes per side, until a golden crust has developed. Set aside turn the heat off. Let the chicken rest for 10 minutes, then cut into strips of desired size.",
+    "Add the wine and set the heat to medium. Use a silicone spatula to “clean” the bottom and sides of the skillet. Let the wine bubble gently and reduce by half, 4-5 minutes.",
+    "Add the butter and garlic and cook for 2 minutes.",
+    "Add the chicken broth, soy sauce, hot sauce, honey, sesame oil, and soup seasonings. Bring to a gentle boil and let the broth reduce and concentrate for 10 minutes while you soft boil eggs for serving (see notes for instructions).",
+    "Bring the soup to a more rapid boil, add the Ramen, and cook for 1 minute. Reduce to a gentle simmer and add the Bok Choy along with the cooked mushrooms and chicken. Simmer until the noodles are done, about 3 minutes.",
+    "Transfer to serving bowls and top with green onions, roughly chopped peanuts, and a soft-boiled egg."
+  ],
+  "tags": [
+    "chicken",
+    "japanese"
+  ],
+  "sourceUrl": "https://thecozycook.com/homemade-ramen/",
+  "notes": null,
+  "photoOnly": false
+}

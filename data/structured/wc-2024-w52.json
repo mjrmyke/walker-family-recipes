@@ -1,0 +1,84 @@
+{
+  "id": "wc-2024-w52",
+  "description": "A pressure cooker provides a nifty shortcut to perfect pulled pork.",
+  "servings": 8,
+  "ingredients": [
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "garlic powder",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "onion powder",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tsp",
+      "item": "hot or sweet smoked paprika",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tsp",
+      "item": "kosher salt",
+      "note": "plus more to taste"
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "black pepper",
+      "note": "plus more to taste"
+    },
+    {
+      "qty": 3.0,
+      "unit": null,
+      "item": "to 4 pounds boneless pork shoulder",
+      "note": "trimmed of skin and excess fat and cut into 4 large chunks"
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "vegetable oil",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "yellow onion",
+      "note": "chopped"
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "(12-ounce) can dark soda",
+      "note": "like Dr Pepper, root beer, cola or birch beer"
+    },
+    {
+      "qty": 0.5,
+      "unit": null,
+      "item": "to 1 ½ cups homemade or store-bought barbecue sauce",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Hot sauce",
+      "note": "optional"
+    }
+  ],
+  "steps": [
+    "Mix the garlic and onion powders, smoked paprika, salt and pepper in a large bowl. Add the pork and turn to coat in the spice mix. Put the oil in a 6- or 8-quart electric pressure cooker and turn on the sauté setting to warm the oil. (Use the “normal” heat setting if your pressure cooker has that option.) Working in batches, add the pork and brown on two sides, about 2 minutes per side. If the bottom of the pan gets too dark or you get a “hot” or “burn” warning, turn the heat down to “less,” if your pot has that option, or turn it off entirely and allow the pork to continue searing. Turn it back on if the pot cools too much.",
+    "Add the onion to the pot. Add the soda and stir to thoroughly scrape up the browned bits at the bottom of the pot. Close the lid and cook on high pressure for one hour. Turn off the pressure cooker and allow the pressure to release naturally for 15 minutes. Open the lid. Using tongs or a slotted spoon, remove the pork and onion bits to a large serving bowl. Using two forks, coarsely shred the meat. Add ½ cup barbecue sauce and a few spoonfuls of the cooking liquid to moisten. (Discard remaining cooking liquid.) Taste and add salt, pepper, hot sauce, and more barbecue sauce as you like. Serve with soft rolls and extra sauce on the side."
+  ],
+  "tags": [
+    "grill",
+    "pork"
+  ],
+  "sourceUrl": "https://cooking.nytimes.com/recipes/1020485-pressure-cooker-bbq-pulled-pork",
+  "notes": null,
+  "photoOnly": false
+}

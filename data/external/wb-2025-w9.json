@@ -1,0 +1,29 @@
+{
+  "id": "wb-2025-w9",
+  "recipe_url": "https://www.allrecipes.com/recipe/98554/brazilian-cheese-bread-pao-de-queijo/",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Brazilian Cheese Bread (Pao de Queijo)",
+  "description": "Pao de queijo are yummy, fragrant, and easy to make. These cheese-flavored breads use tapioca flour instead of wheat flour, so they&#39;re gluten free.",
+  "ingredients": [
+    "0.5 cup olive oil or butter",
+    "0.33333334326744 cup water",
+    "0.33333334326744 cup milk or soy milk",
+    "1 teaspoon salt",
+    "2 cups tapioca flour",
+    "2 teaspoons minced garlic",
+    "0.66666668653488 cup freshly grated Parmesan cheese",
+    "2 beaten eggs"
+  ],
+  "steps": [
+    "Preheat the oven to 375 degrees F (190 degrees C). Combine olive oil, water, milk, and salt in a large saucepan and place over high heat.",
+    "Bring to a boil and immediately remove from the heat.",
+    "Stir in tapioca flour and garlic, stirring until smooth. Set aside to rest for 10 to 15 minutes.",
+    "Stir cheese and eggs into tapioca mixture until combined; the dough will be chunky, like cottage cheese.",
+    "Drop dough by 1/4 cup-size balls onto an ungreased baking sheet.",
+    "Bake in the preheated oven until the tops are lightly browned, 15 to 20 minutes.",
+    "Serve and enjoy!"
+  ],
+  "servings": 6
+}

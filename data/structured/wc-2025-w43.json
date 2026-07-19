@@ -1,0 +1,82 @@
+{
+  "id": "wc-2025-w43",
+  "description": "This Spicy Halloween 7 Layer Dip is simply spooktacular!",
+  "servings": 16,
+  "ingredients": [
+    {
+      "qty": 16.0,
+      "unit": "oz",
+      "item": "can refried beans",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "cup",
+      "item": "hot sauce",
+      "note": "divided (like Cholula)"
+    },
+    {
+      "qty": 1.0,
+      "unit": "cup",
+      "item": "chopped tomatoes",
+      "note": "about two romas"
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "chopped jalapeños",
+      "note": "about 2 large jalapeños"
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "sliced olives",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "cup",
+      "item": "thinly sliced green onion",
+      "note": null
+    },
+    {
+      "qty": 16.0,
+      "unit": "oz",
+      "item": "guacamole",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "cup",
+      "item": "shredded pepper jack cheese",
+      "note": null
+    },
+    {
+      "qty": 16.0,
+      "unit": "oz",
+      "item": "sour cream",
+      "note": null
+    },
+    {
+      "qty": 4.0,
+      "unit": null,
+      "item": "drops red food coloring",
+      "note": "optional"
+    }
+  ],
+  "steps": [
+    "Mix together the beans and 3  tablespoons hot sauce in a medium bowl.",
+    "Layer the beans on the bottom of a  2 quart serving dish, then follow with tomatoes, jalapenos, olives, guacamole, cheeese and sour cream.",
+    "Using an offset spatula smooth the sour cream out as much as possible.",
+    "Mix the remaining 2 tablespoons hot sauce with 4 drops red food coloring (if using).",
+    "Using a spoon, splatter the hot sauce ontop of the sour cream to create a spooky effect.",
+    "Serve with chips."
+  ],
+  "tags": [
+    "sauce",
+    "vegetarian"
+  ],
+  "sourceUrl": "https://www.cupofzest.com/halloween-7-layer-dip/",
+  "notes": null,
+  "photoOnly": false
+}

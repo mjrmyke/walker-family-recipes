@@ -1,0 +1,97 @@
+{
+  "id": "wc-2025-w7",
+  "description": "Two creamy Greek yogurt sauces — classic cucumber tzatziki and a cucumber-free garlic sauce — for dressing chicken gyros.",
+  "servings": 4,
+  "ingredients": [
+    {
+      "qty": 1.0,
+      "unit": "cup",
+      "item": "Greek yogurt",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": null,
+      "item": "cucumber",
+      "note": "grated and squeezed dry"
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "lemon juice",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "clove",
+      "item": "garlic",
+      "note": "minced"
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "fresh dill",
+      "note": "chopped"
+    },
+    {
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "salt",
+      "note": null
+    },
+    {
+      "qty": 0.667,
+      "unit": "cup",
+      "item": "nonfat plain Greek yogurt",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "clove",
+      "item": "garlic",
+      "note": "grated"
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "olive oil",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "lemon juice",
+      "note": null
+    },
+    {
+      "qty": 3.0,
+      "unit": "tbsp",
+      "item": "almond milk or skim milk",
+      "note": "3-4 tbsp"
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "kosher salt",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "black pepper",
+      "note": null
+    }
+  ],
+  "steps": [
+    "For the tzatziki, stir together the Greek yogurt, grated cucumber, lemon juice, garlic, dill, and salt in a bowl until well combined.",
+    "For the garlic sauce (a cucumber-free alternative), whisk together the nonfat Greek yogurt, grated garlic, olive oil, lemon juice, almond milk (or skim milk), salt, and pepper until smooth.",
+    "Chill both sauces before serving alongside chicken gyros."
+  ],
+  "tags": [
+    "chicken",
+    "sauce"
+  ],
+  "sourceUrl": null,
+  "notes": "servings estimated; comment only gives the two yogurt sauces, not the chicken/gyro assembly",
+  "photoOnly": false
+}

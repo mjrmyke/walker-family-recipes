@@ -1,0 +1,39 @@
+{
+  "id": "wc-2024-w4",
+  "description": "With just a few simple ingredients, you can turn scraps of lemon rinds into sweet, zesty candied lemon peel.",
+  "servings": 9,
+  "ingredients": [
+    {
+      "qty": 7.0,
+      "unit": null,
+      "item": "lemons",
+      "note": "preferably organic"
+    },
+    {
+      "qty": 2.625,
+      "unit": "cup",
+      "item": "granulated sugar",
+      "note": "divided use"
+    },
+    {
+      "qty": 1.125,
+      "unit": "cup",
+      "item": "water",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Rinse lemons. Slice off the top and bottom of each and score the skin into quarters.",
+    "Remove peels from lemons and slice into strips about ¼”-⅜” wide.",
+    "Place strips of lemon peel in a medium saucepan and add water to cover. Bring water to a boil over high heat. Once boiling, use a metal colander to carefully strain water from peel. Repeat this process at least 3 times to remove the bitter flavor present in the peel.",
+    "Setting peel aside, combine 2 1/4 cups (447 g) sugar with 1 1/8 cups (255 g) water in the same saucepan used for step 3. Heat over medium-low, whisking occasionally just until the sugar dissolves. Cease whisking and simmer mixture for 8-10 minutes, adjusting the heat as needed, until the temperature of the syrup reaches 230°F-235°F.",
+    "Add peels to the sugar syrup and cook at a simmer until the peel is mostly translucent. For me, this takes anywhere from 15-30 minutes, but the timing can vary greatly. Avoid stirring the mixture or letting the syrup boil during this process.",
+    "Use a slotted spoon to remove the candied peels from the syrup, saving it for another use. Transfer peel in a single layer to a wire cooling rack set over a large piece of parchment (to collect drips). Let cool for about 15 minutes. Toss the peel in the remaining ¼ - ⅜ cup (50-74 g) sugar as needed to coat. Transfer back to wire rack to finish drying - at least a few hours - before storing."
+  ],
+  "tags": [
+    "vegetarian"
+  ],
+  "sourceUrl": "https://www.brighteyedbaker.com/diy-candied-citrus-peel/",
+  "notes": null,
+  "photoOnly": false
+}

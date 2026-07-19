@@ -1,0 +1,61 @@
+{
+  "id": "wc-2025-w20",
+  "description": "This fresh pineapple salsa recipe will be a big hit at your next party!",
+  "servings": 3,
+  "ingredients": [
+    {
+      "qty": 3.0,
+      "unit": "cup",
+      "item": "diced fresh pineapple",
+      "note": "about 1 medium"
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "red bell pepper",
+      "note": "chopped"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "&frac12; cup chopped red onion",
+      "note": "about &frac12; small onion"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "&frac14; cup chopped fresh cilantro",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "medium jalapeño*",
+      "note": "seeds and ribs removed, finely chopped"
+    },
+    {
+      "qty": 3.0,
+      "unit": "tbsp",
+      "item": "lime juice (from about 1 &frac12; limes)",
+      "note": "or more if needed"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "&frac14; teaspoon fine sea salt",
+      "note": null
+    }
+  ],
+  "steps": [
+    "In a medium serving bowl, combine the pineapple, bell pepper, onion, cilantro, and jalapeño. Add the lime juice and salt, and stir to combine.",
+    "Season to taste with additional lime juice (for zing) and/or salt (for more overall flavor) if it doesn’t taste amazing just yet.",
+    "For best flavor, let the pico de gallo rest for 10 minutes or longer before serving. It’s best served fresh but keeps well, chilled, for up to 4 days."
+  ],
+  "tags": [
+    "beef",
+    "mexican"
+  ],
+  "sourceUrl": "https://cookieandkate.com/fresh-pineapple-salsa-recipe/",
+  "notes": null,
+  "photoOnly": false
+}

@@ -1,0 +1,36 @@
+{
+  "id": "wc-2025-w42",
+  "description": "We&#039;ve been serving this Fluffy Marshmallow Fruit Dip at parties for years, and inevitably someone will ask for the recipe.",
+  "servings": 12,
+  "ingredients": [
+    {
+      "qty": 9.0,
+      "unit": "oz",
+      "item": "(226 g) package cream cheese",
+      "note": "softened"
+    },
+    {
+      "qty": 8.0,
+      "unit": "oz",
+      "item": "(198 g) marshmallow cream",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "fresh fruit for serving",
+      "note": "(strawberries, watermelon, cantaloupe, honeydew, pineapple, bananas, kiwi, etc.)"
+    }
+  ],
+  "steps": [
+    "Whisk softened cream cheese until smooth.  Add marshmallow cream and whisk again to combine well.  This can also be done using a handheld electric mixer.",
+    "Dollop into serving bowl and serve with fresh fruit."
+  ],
+  "tags": [
+    "sauce",
+    "vegetarian"
+  ],
+  "sourceUrl": "https://www.letthemeatgfcake.com/fluffy-marshmallow-fruit-dip/#recipe",
+  "notes": null,
+  "photoOnly": false
+}

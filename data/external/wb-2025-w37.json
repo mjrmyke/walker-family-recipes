@@ -1,0 +1,19 @@
+{
+  "id": "wb-2025-w37",
+  "recipe_url": "https://www.justapinch.com/recipes/dessert/fruit-dessert/baked-pears-a-medieval-treat.html",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Baked Pears (a medieval treat!)",
+  "description": "I really enjoy cooking and medieval history so I thought I would divulge into medieval cookery. This being my first attempt at medieval cooking I decided to start of with something easy. And boy did I find something super easy ... these pears are wonderful baked and so simple to make. Juicy, slightly soft but definitely still crunchy and their sweetness is enhanced by the sugar and cinnamon. Try it and enjoy this medieval treat!\n\nHistory Bit: This recipe comes from 14th century France, Chiquart's \"On Cookery\". Baked pears were believed to have medicinal properties and were often given to the ill.",
+  "ingredients": [
+    "3 - pears",
+    "- sugar cinnamon mixture"
+  ],
+  "steps": [
+    "Preheat oven to 400F (200C).",
+    "Cut pears in half and core. Place in an oven dish and bake for 35 minutes. Pears should be slightly browned when done. Mix sugar and cinnamon together adjusting amounts of each to suit your taste (I used 2tsp sugar and 1tsp cinnamon)",
+    "Sprinkle with sugar and cinnamon mixture to taste and serve"
+  ],
+  "servings": 6
+}

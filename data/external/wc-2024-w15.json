@@ -1,0 +1,31 @@
+{
+  "id": "wc-2024-w15",
+  "recipe_url": "https://natashaskitchen.com/sloppy-joe-recipe/",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Sloppy Joes",
+  "description": "The BEST recipe for a homemade Sloppy Joe! Ground beef in a hearty tomato sauce on toasted hamburger buns. A family favorite that&#039;s perfect for lunch or dinner.",
+  "ingredients": [
+    "15 oz can tomato sauce",
+    "1/4 cup ketchup*",
+    "1 Tbsp Worcestershire sauce",
+    "1 1/2 tsp yellow mustard (or to taste)",
+    "2-3 tsp brown sugar (or to taste*)",
+    "1 Tbsp extra light olive oil (or any high-heat cooking oil)",
+    "1 lb lean ground beef (85%-90% lean)",
+    "½ tsp fine sea salt (or to taste)",
+    "¼ tsp freshly ground black pepper (or to taste)",
+    "1  small onion (finely chopped)",
+    "1/2  small green bell pepper (seeded and finely diced, or use 1/2 cup grated carrot)",
+    "3  garlic cloves (minced)",
+    "5  hamburger buns (toasted if desired)"
+  ],
+  "steps": [
+    "Make the Sauce - In a medium bowl, combine the tomato sauce, ketchup, Worcestershire sauce, mustard, and brown sugar, and set it aside.",
+    "Cook the Beef - Place a large skillet or dutch oven over medium/high heat. Add olive oil and ground beef. Saute the beef for about 5 minutes until cooked through and no longer pink, breaking it up with a spatula. If you see extra fat on the bottom, tilt the pan and spoon it out or blot it up with paper towels. Season with salt and pepper.",
+    "Add vegetables -  Stir in the diced peppers and onion. Cook another 5 minutes until the veggies are tender and beef is browned. Add garlic and saute 30 seconds until fragrant, stirring constantly.",
+    "Add the sauce and bring to a light boil. Reduce heat to low and simmer uncovered for about 10-15 minutes or until thickened to your liking. Adjust the seasoning taste* and add water if you prefer a looser consistency. Serve on toasted buns for Sloppy Joe Sandwiches."
+  ],
+  "servings": 5
+}

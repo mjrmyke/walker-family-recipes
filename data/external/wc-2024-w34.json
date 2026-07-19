@@ -1,0 +1,27 @@
+{
+  "id": "wc-2024-w34",
+  "recipe_url": "https://www.loveandlemons.com/remoulade-sauce/#wprm-recipe-container-64691",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Remoulade Sauce",
+  "description": null,
+  "ingredients": [
+    "½ cup mayonnaise or vegan mayo",
+    "1 tablespoon mustard",
+    "1 teaspoon hot sauce",
+    "½ teaspoon paprika",
+    "2 garlic cloves grated",
+    "1 scallion finely chopped",
+    "1 teaspoon fresh lemon juice",
+    "⅛ teaspoon onion powder",
+    "Pinch of cayenne",
+    "Chives for sprinkling optional"
+  ],
+  "steps": [
+    "In a small bowl, stir together the mayonnaise, mustard, hot sauce, paprika, garlic, scallion, lemon juice, onion powder, and cayenne.",
+    "See the blog post above for remoulade serving suggestions."
+  ],
+  "servings": 4,
+  "extractor": "wprm"
+}

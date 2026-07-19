@@ -1,0 +1,38 @@
+{
+  "id": "wb-2025-w18",
+  "recipe_url": "https://greensnchocolate.com/strawberry-puff-pastry-turnovers/",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Strawberry Puff Pastry Turnovers",
+  "description": "An easy semi-homemade recipe for strawberry turnovers with an easy homemade strawberry filling and store-bought puff pastry.",
+  "ingredients": [
+    "3 cups strawberries, stems removed and quartered",
+    "3 tbsp sugar",
+    "3 tbsp water",
+    "2 tbsp cornstarch",
+    "1 tsp pure vanilla extract",
+    "2  puff pastry sheets (typically 2 sheets come in one package)",
+    "1  egg white",
+    "1 cup powdered sugar",
+    "2-3 tbsp milk",
+    "1/2 tsp pure vanilla extract",
+    "dash of salt"
+  ],
+  "steps": [
+    "Set the puff pastry out from the freezer for about 15 minutes prior to using them.",
+    "Preheat the oven to 400 degrees F and line a baking sheet with parchment paper.",
+    "In a medium saucepan, add the strawberries, sugar, water, cornstarch, and vanilla over medium heat.",
+    "Cook for about 5 minutes, breaking it up as it cooks with a fork.  The strawberries should break down as they cook and the mixture with thicken up as it cooks.",
+    "Lay out both puff pastry sheets on a flour dusted surface.  Lightly roll them out with a rolling pin to flatten out the creases.",
+    "Cut each sheet into four squares.",
+    "Add ~2 tablespoons of filling to the middle of each square.  Dip your finger in a bowl of water and run it along the edges of the puff pastry and then fold one corner over to form a triangle.",
+    "Use a fork to seal the edges and place on parchment paper lined baking sheet.",
+    "Using a pastry or silicone brush, brush the egg white lightly over each turnover.",
+    "Bake in the preheated oven for about 15 minutes - until golden.",
+    "Make the glaze by whisking together the powdered sugar, milk, vanilla and salt.",
+    "Drizzle the glaze over the turnovers.",
+    "Enjoy!"
+  ],
+  "servings": 8
+}

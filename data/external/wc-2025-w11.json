@@ -1,0 +1,33 @@
+{
+  "id": "wc-2025-w11",
+  "recipe_url": "https://www.skinnytaste.com/lighter-baked-macaroni-and-cheese/",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Healthy Mac and Cheese Recipe",
+  "description": "This healthy mac and cheese recipe is a lighter version of the classic recipe with added fiber from spinach. It&#039;s comfort food at it&#039;s finest!",
+  "ingredients": [
+    "12 ounces elbow macaroni (wheat, whole wheat, high protein or gluten-free)",
+    "2 tablespoons butter",
+    "1/4 cup flour (or gluten-free flour mix)",
+    "1/4 cup minced onion",
+    "2 cups skim milk (use rice milk for dairy-free)",
+    "1 cup chicken or vegetable broth",
+    "8 ounces reduced-fat cheddar (for best results shred yourself. Use Violife for dairy-free)",
+    "kosher salt (and black pepper, to taste)",
+    "4 cups baby spinach",
+    "2 tablespoons grated Parmesan",
+    "1/4 cup seasoned whole wheat bread crumbs",
+    "olive oil spray"
+  ],
+  "steps": [
+    "Cook pasta in salted water according to package directions. Spray a baking dish with oil.",
+    "Preheat oven to 375F.",
+    "In a large, heavy skillet, melt butter. Add flour and cook over low heat stirring with a whisk.",
+    "Add onion and cook another 2 minutes. Add milk and chicken broth and continue whisking, raising heat to medium-high until it comes to a boil and becomes smooth and thick. Season with salt and pepper.",
+    "Once it becomes thick, remove from heat, add cheese 1/4 cup at a time and mix well until cheese is melted. Adjust salt and pepper to taste, add cooked macaroni and baby spinach.",
+    "Pour into baking dish. Top with grated cheese and breadcrumbs. Spray a little more oil on top.",
+    "Bake for 15-20 minutes, then broil for a few minutes to get the breadcrumbs golden."
+  ],
+  "servings": 8
+}

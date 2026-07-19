@@ -1,0 +1,89 @@
+{
+  "id": "wc-2026-w18",
+  "description": "Easy Spicy Ramen recipe with a rich homemade spicy broth and instant noodles.",
+  "servings": 4,
+  "ingredients": [
+    {
+      "qty": 4.0,
+      "unit": "cup",
+      "item": "chicken broth",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "hoisin sauce",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "low sodium soy sauce",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "Sriracha",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "sesame oil",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "ginger",
+      "note": "finely minced"
+    },
+    {
+      "qty": 3.0,
+      "unit": "clove",
+      "item": "garlic",
+      "note": "finely minced"
+    },
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "packages ramen",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "large eggs",
+      "note": "soft boiled"
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "sesame seeds",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "cup",
+      "item": "green onions",
+      "note": "thinly sliced"
+    }
+  ],
+  "steps": [
+    "Add the chicken broth, hoisin sauce, soy sauce, sriracha, sesame oil, ginger and garlic to a large pot on medium heat.",
+    "Bring to a simmer.",
+    "Add in the ramen noodles (discard the packets).",
+    "Boil for 4-5 minutes.",
+    "Serve in a bowl.",
+    "Cut the soft boiled eggs in half and place cut side up in the soup.",
+    "Top with sesame seeds, green onions and a bit more Sriracha if desired."
+  ],
+  "tags": [
+    "chicken",
+    "japanese"
+  ],
+  "sourceUrl": "https://dinnerthendessert.com/spicy-ramen/",
+  "notes": null,
+  "photoOnly": false
+}

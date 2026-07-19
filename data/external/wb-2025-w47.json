@@ -1,0 +1,35 @@
+{
+  "id": "wb-2025-w47",
+  "recipe_url": "https://rouxgirl.substack.com/p/tinis-famous-mac-and-cheese",
+  "ok": true,
+  "extractor": "webfetch",
+  "name": "Tini's Famous Mac and Cheese",
+  "description": "A three-cheese baked mac and cheese (\"cheese with noods\") made with cavatappi and a creamy stovetop cheese sauce.",
+  "ingredients": [
+    "1 lb. cavatappi pasta, cooked",
+    "16 ounces of mozzarella cheese, grated",
+    "16 ounces of Colby jack cheese, grated",
+    "8 ounces of cheddar cheese, grated",
+    "1 teaspoon of garlic powder",
+    "1 teaspoon of smoked paprika",
+    "1/2 teaspoon of salt",
+    "1/2 teaspoon of pepper",
+    "3 Tablespoons of butter",
+    "3 Tablespoons of flour",
+    "1 can Carnation Evaporated Milk",
+    "2 cups heavy cream",
+    "1 Tablespoon Dijon mustard"
+  ],
+  "steps": [
+    "Preheat oven to 350°F and grease a 9 x 13 inch baking dish.",
+    "Cook cavatappi per package directions, drain and set aside.",
+    "Combine all three shredded cheeses; divide half into another bowl.",
+    "Mix garlic powder, paprika, salt, and pepper; divide in half.",
+    "Melt butter, add half the seasoning and flour to form a paste; whisk in evaporated milk, heavy cream, remaining seasoning, and mustard until thick; slowly add half the cheese.",
+    "Stir pasta into cheese sauce until coated.",
+    "Layer pasta and remaining cheese alternately in the baking dish.",
+    "Bake 25-30 minutes until bubbly.",
+    "Broil 2 minutes until golden brown."
+  ],
+  "servings": null
+}

@@ -1,0 +1,22 @@
+{
+  "id": "wc-2024-w26",
+  "recipe_url": "https://detoxinista.com/wprm_print/homemade-jello",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Homemade Jello",
+  "description": null,
+  "ingredients": [
+    "3 ½ cups 100% fruit juice (divided)",
+    "2 tablespoons grass-fed gelatin",
+    "½ cup boiled water (or use boiled fruit juice)"
+  ],
+  "steps": [
+    "Add ½ cup fruit juice to a large bowl and sprinkle the gelatin over the top. Use a whisk to briefly mix; it should thicken quickly.",
+    "Pour the boiled water into the bowl, and whisk until smooth. There should be no visible chunks, and bubbles will start to form on top. Whisk in the remaining 3 cups of fruit juice.",
+    "Prepare an 8-inch square baking dish by lightly spraying it with oil, then press a piece of parchment paper into the bottom of the pan. Pour the jello liquid into the pan and use a slotted spoon to remove as many bubbles from the top as possible. (This is just for looks, so no need to be perfect about it.)",
+    "Place the pan on a flat shelf in the fridge to chill until firm, about 4 hours. Once it feels firm to the touch in the center, you can slice it into squares and serve. Leftovers can be stored in an airtight container in the fridge for up to 2 weeks."
+  ],
+  "servings": 16,
+  "extractor": "wprm"
+}

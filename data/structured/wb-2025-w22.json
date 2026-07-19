@@ -1,0 +1,85 @@
+{
+  "id": "wb-2025-w22",
+  "description": "Apple Crumble — a Vegan week recipe.",
+  "servings": 4,
+  "ingredients": [
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "small apples, peeled and chopped",
+      "note": "1 large apples works too"
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "water",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "brown sugar",
+      "note": "you can adjust this to taste"
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "corn flour mixed with 1 teaspoon water",
+      "note": null
+    },
+    {
+      "qty": 4.0,
+      "unit": "tbsp",
+      "item": "plain flour",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "oats",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "brown sugar",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground cinnamon",
+      "note": null
+    },
+    {
+      "qty": 25.0,
+      "unit": "g",
+      "item": "unsalted butter",
+      "note": "melted"
+    }
+  ],
+  "steps": [
+    "Start by pre-heating your oven to 190c/375f.",
+    "In a pot add in all the ingredients for the apple filing, except the corn flour/water mixture.",
+    "Mix all this together then place the pot on medium heat. You want to keep heating this until the apples go soft. The softness of the apples is up to you, cook them until they are as soft as you like them.",
+    "Pour the corn flour/water mixture into this, mix this in. Then heat, whiles stirring, until the mixture thickens. This will only take around 30 seconds.",
+    "Leave this aside.",
+    "In a small bowl, add all the ingredients except the butter. Mix these together.",
+    "Pour in the melted butter and mix until you get a crumbly mixture.",
+    "In a ramekin, or any small dish that is oven safe, add the apple filling. Then add the crumble on top.",
+    "Bake this for around 15 minutes, or until the crumble has turned golden brown.",
+    "Let this cool down for a few minutes, then top with custard or ice cream and enjoy!"
+  ],
+  "tags": [
+    "dessert"
+  ],
+  "sourceUrl": "https://ashbaber.com/single-serve-apple-crumble/",
+  "notes": "servings estimated",
+  "photoOnly": false
+}

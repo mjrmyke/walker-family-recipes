@@ -1,0 +1,97 @@
+{
+  "id": "wc-2025-w5",
+  "description": "The combination of crunchy peanuts, creamy avocados, and spicy ginger make for a dish full of complex flavors, yet simple to execute.",
+  "servings": 4,
+  "ingredients": [
+    {
+      "qty": 1.0,
+      "unit": "cup",
+      "item": "short grain <a href=\"https://www.saveur.com/perfect-brown-rice-recipe/\">brown rice</a>",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Kosher salt",
+      "note": "to taste"
+    },
+    {
+      "qty": 3.0,
+      "unit": null,
+      "item": "<sup>1</sup>⁄<sub>2</sub> tbsp. dark soy sauce",
+      "note": null
+    },
+    {
+      "qty": 3.0,
+      "unit": null,
+      "item": "<sup>1</sup>⁄<sub>2</sub> tbsp. mirin",
+      "note": null
+    },
+    {
+      "qty": 3.0,
+      "unit": null,
+      "item": "<sup>1</sup>⁄<sub>2</sub> tbsp. sake",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "tbsp. sugar",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "cup",
+      "item": "cilantro leaves and tender stems",
+      "note": "plus more for garnish"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "<sup>1</sup>⁄<sub>2</sub> cup peanuts",
+      "note": "toasted and roughly chopped"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "<sup>1</sup>⁄<sub>4</sub> cup pickled ginger",
+      "note": "thinly sliced"
+    },
+    {
+      "qty": 4.0,
+      "unit": null,
+      "item": "scallions",
+      "note": "thinly sliced"
+    },
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "avocados",
+      "note": "peeled, pitted, and thinly sliced"
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "English cucumber",
+      "note": "peeled, seeded, halved lengthwise and sliced into 1/4” pieces"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Zest and juice of 1 lime",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Rinse rice in a strainer under cold running water for 30 seconds. Bring 12 cups water to a boil in a large pot with a tight-fitting lid over high heat. Add the rice, stir it once, and boil, uncovered, for 30 minutes. Pour the rice into a strainer over the sink; cool to room temperature. (For more information on making the perfect brown rice, check out our recipe.",
+    "Combine soy sauce, mirin, sake, and sugar in a 2-qt saucepan over medium-high; cook until sugar has dissolved, 3-5 minutes. Cool teriyaki sauce slightly.",
+    "Combine rice, teriyaki sauce, the cilantro, peanuts, ginger, scallions, avocados, cucumber, and zest and juice in a bowl; transfer to a serving platter and garnish with cilantro."
+  ],
+  "tags": [
+    "salad",
+    "vegetarian"
+  ],
+  "sourceUrl": "https://www.saveur.com/brown-rice-salad-avocado/",
+  "notes": null,
+  "photoOnly": false
+}

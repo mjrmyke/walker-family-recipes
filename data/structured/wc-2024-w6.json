@@ -1,0 +1,71 @@
+{
+  "id": "wc-2024-w6",
+  "description": "Thin crepes folded into triangles and served with a simple buttery orange sauce.",
+  "servings": 12,
+  "ingredients": [
+    {
+      "qty": 1.5,
+      "unit": "cup",
+      "item": "milk",
+      "note": null
+    },
+    {
+      "qty": 0.6666666666666666,
+      "unit": "cup",
+      "item": "all purpose flour",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "salt",
+      "note": null
+    },
+    {
+      "qty": 3.0,
+      "unit": null,
+      "item": "eggs",
+      "note": null
+    },
+    {
+      "qty": 0.3333333333333333,
+      "unit": "cup",
+      "item": "orange juice",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "cup",
+      "item": "butter",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "sugar",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "grated orange peel",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Combine all crepe ingredients in a blender and pulse for 10 seconds. Optionally refrigerate for 1 hour to allow bubbles to subside.",
+    "Heat a 7\" and 10\" frying pan over medium heat for about 5 minutes. Butter the 7\" pan.",
+    "Pour 1/4 cup batter into the 7\" pan and swirl to spread evenly.",
+    "Cook for 2 minutes until the top is set, then loosen and flip into the buttered 10\" pan.",
+    "Cook for another 30 seconds and transfer to a plate.",
+    "Once cooled, fold each crepe in half twice to form a triangle.",
+    "For the sauce: combine all sauce ingredients in a 10\" skillet over medium-low heat until butter melts and sauce thickens, about 5 minutes.",
+    "Serve crepes with sauce drizzled over or by soaking each crepe in sauce for about 30 seconds. Optionally top with vanilla ice cream."
+  ],
+  "tags": [
+    "vegetarian"
+  ],
+  "sourceUrl": "https://www.tipsfromatypicalmomblog.com/2014/05/crepes-suzette-crepes-orange-sauce.html",
+  "notes": null,
+  "photoOnly": false
+}

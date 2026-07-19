@@ -1,0 +1,49 @@
+{
+  "id": "wb-2025-w38",
+  "description": "Fruity Pebbles Rice Crispy Treats are sweet and fruity with the gooey yumminess of the marshmallows!",
+  "servings": 12,
+  "ingredients": [
+    {
+      "qty": 8.0,
+      "unit": "tbsp",
+      "item": "Butter",
+      "note": null
+    },
+    {
+      "qty": 16.0,
+      "unit": "oz",
+      "item": "Mini Marshmallows",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "Vanilla Extract",
+      "note": null
+    },
+    {
+      "qty": 11.0,
+      "unit": "oz",
+      "item": "Fruity Pebbles Cereal",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Grease a 9 x 13 baking dish with the stick of butter and set aside.",
+    "In a medium saucepan add your butter. Mix the butter on low to medium heat on the stove for 2-3 minutes or until melted.",
+    "Once melted add the marshmallows. Mix for 3-4 minutes or until melted.",
+    "Remove from the heat.",
+    "Add the vanilla to the saucepan and mix until fully incorporated.",
+    "Add the fruity pebbles to the saucepan. Mix until the cereal is completely coated.",
+    "Scoop the cereal mixture into the prepared baking dish.",
+    "With the spatula gently press the cereal mixture into the baking dish. Don’t press too hard as you want to keep the treats airy.",
+    "Place the rice crispy treats on the counter for 30 minutes or in the fridge for 15 minutes or until cool.",
+    "Cut into 12 squares."
+  ],
+  "tags": [
+    "vegetarian"
+  ],
+  "sourceUrl": "https://thesaltymarshmallow.com/fruity-pebbles-rice-crispy-treats/",
+  "notes": null,
+  "photoOnly": false
+}

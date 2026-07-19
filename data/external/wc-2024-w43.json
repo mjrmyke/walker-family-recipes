@@ -1,0 +1,36 @@
+{
+  "id": "wc-2024-w43",
+  "recipe_url": "https://ministryofcurry.com/instant-pot-butter-chicken/#recipe",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Instant Pot Butter Chicken",
+  "description": "Butter chicken is a flavorful chicken curry with heavenly aroma of the garam masala and fenugreek, in a creamy sauce with orangish hue from the red chili powder and turmeric",
+  "ingredients": [
+    "2 pounds boneless skinless chicken thighs (cut into 2-inch pieces)",
+    "2 tablespoons ghee (or coconut oil)",
+    "1 large  yellow onion (finely chopped)",
+    "1 tablespoon fresh ginger (grated)",
+    "1 tablespoon fresh garlic (minced)",
+    "½ teaspoon ground turmeric",
+    "1 tablespoon Kashmiri red chili powder",
+    "3  plum tomatoes  (pureed)",
+    "1 can unsweetened full fat coconut milk (allow these to separate - DO NOT shake. Best if left in fridge overnight)",
+    "2 tablespoons tomato paste",
+    "1 teaspoon garam masala",
+    "2 tablespoons kasoori methi (dried fenugreek leaves)",
+    "2 teaspoons sugar (skip for paleo)",
+    "1½ teaspoon kosher salt",
+    "½ cup cilantro (chopped, for garnish)"
+  ],
+  "steps": [
+    "Set Instant Pot to Saute mode and heat ghee. Add onions and salt. Cook until onions are soft and translucent for 2-3 minutes (with a glass lid on to speed this process)",
+    "Add ginger, garlic, turmeric, and red chili powder. Mix well and cook until fragrant for 2 minutes.",
+    "Separate the coconut cream and water. Keep the coconut cream aside. Add half a cup of the watery portion of coconut milk and pureed tomatoes mixing with spices. Add chicken and stir well.",
+    "Close the Instant Pot lid with steam release handle to sealing. Pressure cook for 8 minutes followed by quick release. (Note: If using chicken breasts, pressure cook for 5 minutes followed by 5 minutes of natural pressure release)",
+    "Open the Instant Pot, stir in coconut cream, tomato paste, garam masala, fenugreek leaves, sugar, and half of the cilantro. Add more salt if needed.",
+    "Turn the Instant Pot to Sauté mode. Cook without the lid to allow the curry to thicken for 5 minutes. If the sauce starts to splutter, adjust to Saute(Less).",
+    "Garnish with remaining cilantro. Serve the butter chicken with Homemade Parathas and Basmati Rice or Cumin Rice and  Cucumber Raita. For a low-carb meal serve with Cauliflower Cumin Rice."
+  ],
+  "servings": 6
+}

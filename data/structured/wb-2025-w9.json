@@ -1,0 +1,70 @@
+{
+  "id": "wb-2025-w9",
+  "description": "Pao de queijo are yummy, fragrant, and easy to make.",
+  "servings": 6,
+  "ingredients": [
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "olive oil or butter",
+      "note": null
+    },
+    {
+      "qty": 0.33333334326744,
+      "unit": "cup",
+      "item": "water",
+      "note": null
+    },
+    {
+      "qty": 0.33333334326744,
+      "unit": "cup",
+      "item": "milk or soy milk",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "salt",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "cup",
+      "item": "tapioca flour",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tsp",
+      "item": "minced garlic",
+      "note": null
+    },
+    {
+      "qty": 0.66666668653488,
+      "unit": "cup",
+      "item": "freshly grated Parmesan cheese",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "beaten eggs",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 375 degrees F (190 degrees C). Combine olive oil, water, milk, and salt in a large saucepan and place over high heat.",
+    "Bring to a boil and immediately remove from the heat.",
+    "Stir in tapioca flour and garlic, stirring until smooth. Set aside to rest for 10 to 15 minutes.",
+    "Stir cheese and eggs into tapioca mixture until combined; the dough will be chunky, like cottage cheese.",
+    "Drop dough by 1/4 cup-size balls onto an ungreased baking sheet.",
+    "Bake in the preheated oven until the tops are lightly browned, 15 to 20 minutes.",
+    "Serve and enjoy!"
+  ],
+  "tags": [
+    "vegetarian"
+  ],
+  "sourceUrl": "https://www.allrecipes.com/recipe/98554/brazilian-cheese-bread-pao-de-queijo/",
+  "notes": null,
+  "photoOnly": false
+}

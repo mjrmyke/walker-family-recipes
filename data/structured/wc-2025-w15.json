@@ -1,0 +1,135 @@
+{
+  "id": "wc-2025-w15",
+  "description": "Ground beef seasoned with Puerto Rican-inspired flavors and served taco-style in tortillas with fresh toppings.",
+  "servings": 4,
+  "ingredients": [
+    {
+      "qty": 1.0,
+      "unit": "lb",
+      "item": "ground beef",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "small onion",
+      "note": "finely chopped"
+    },
+    {
+      "qty": 2.0,
+      "unit": "clove",
+      "item": "garlic",
+      "note": "minced"
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "small bell pepper, finely chopped",
+      "note": "green or red"
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "olive oil",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "tomato paste",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "ground cumin",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "dried oregano",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "paprika",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Salt and pepper",
+      "note": "to taste"
+    },
+    {
+      "qty": 0.25,
+      "unit": "cup",
+      "item": "water",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Sliced olives, capers, or raisins for added Puerto Rican flair",
+      "note": "optional"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Soft corn or flour tortillas",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Shredded lettuce",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Chopped fresh tomatoes",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Sliced avocado",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Sour cream",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Grated cheese",
+      "note": "queso fresco or cheddar work well"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Hot sauce or salsa",
+      "note": "optional"
+    }
+  ],
+  "steps": [
+    "Heat olive oil in a large skillet over medium-high heat. Add onion and bell pepper; sauté 2-3 minutes until softened. Add garlic and sauté 30 seconds until fragrant.",
+    "Place ground beef in skillet. Break apart with spatula and cook until browned and cooked through.",
+    "Stir in tomato paste, cumin, oregano, paprika, salt, and pepper. Add olives, capers, or raisins if desired.",
+    "Pour in water and stir well. Reduce heat to low and simmer 5-7 minutes, allowing flavors to meld. Adjust seasonings as needed.",
+    "Warm tortillas in a dry skillet or microwave. Assemble tacos by placing beef filling in center of each tortilla. Top with lettuce, tomatoes, avocado, sour cream, and cheese."
+  ],
+  "tags": [
+    "beef",
+    "mexican"
+  ],
+  "sourceUrl": "https://caribbeantrading.com/the-best-puerto-rican-tacos-recipes-to-try-at-home/",
+  "notes": "servings estimated",
+  "photoOnly": false
+}

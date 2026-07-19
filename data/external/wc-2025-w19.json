@@ -1,0 +1,40 @@
+{
+  "id": "wc-2025-w19",
+  "recipe_url": "https://alittleandalot.com/spanish-potato-soup/",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Spanish Potato Soup",
+  "description": "This creamy, cheesy Spanish Potato Soup is pure cozy comfort in a bowl. The soup includes buttery potatoes and tender pork carnitas swimming in a rich broth flavored with onion, red pepper, garlic, cumin, oregano, and paprika.",
+  "ingredients": [
+    "1 tablespoon extra virgin olive oil (or vegetable, canola, avocado, or coconut oil)",
+    "1 tablespoon butter",
+    "1 large yellow onion, peeled and diced",
+    "1 red bell pepper, seeds and stem removed, and diced",
+    "1 tablespoon diced garlic (3-4 cloves)",
+    "2 teaspoons ground cumin",
+    "2 teaspoons dried oregano",
+    "1 teaspoon paprika",
+    "1/8 teaspoon cayenne pepper, more to taste",
+    "2 teaspoons kosher salt, more to taste (Or, 1 teaspoon table salt)",
+    "1 teaspoon ground black pepper",
+    "2 tablespoons all-purpose flour",
+    "4-6 cups chicken or vegetable broth, OR Better Than Bouillon vegetable or chicken base combined with water",
+    "3 pounds Yukon gold potatoes, peeled and cut into 1 to 1 &amp; ½ inch chunks",
+    "1 cup sour cream",
+    "1 1/2 cups grated sharp cheddar cheese",
+    "2-3 cups Pork Carnitas (See note below for substitutions)",
+    "1 cup chopped fresh cilantro"
+  ],
+  "steps": [
+    "Add the oil and butter to a large heavy bottomed saucepan or dutch oven and set over medium heat. When the butter has melted, add the diced onion and red pepper. Cook until softened, stirring frequently, about 5 minutes.",
+    "Add the garlic, cumin, oregano, paprika, cayenne, salt and pepper to the vegetables and cook, stirring constantly, for 1 minute longer.",
+    "Sprinkle in the flour and cook, stirring constantly, for 1 - 2 minutes.",
+    "Pour the broth in slowly, stirring constantly to prevent lumps from forming. Start by adding 4 cups of broth then add as much more as you like to achieve the consistency you desire. Add less broth for a thick soup or add more broth for a brothy soup. Turn up the heat to medium-high and bring to a boil.",
+    "Add the potatoes and turn down the heat to medium-low. Let the potatoes simmer gently until they are fork tender, about 10 minutes.",
+    "Remove the saucepan from the heat. Ladle about 1 cup of liquid from the soup pot into a bowl. Slowly stir in the sour cream until completely incorporated. Stir back into the soup pot.",
+    "Add the cheese, and stir until melted and completely incorporated into the soup. Stir in the Carnitas. Set back over low heat and cook, stirring, just until the carnitas are heated through.",
+    "Sprinkle with the chopped cilantro and serve."
+  ],
+  "servings": 6
+}

@@ -1,0 +1,94 @@
+{
+  "id": "wc-2025-w11",
+  "description": "This healthy mac and cheese recipe is a lighter version of the classic recipe with added fiber from spinach.",
+  "servings": 8,
+  "ingredients": [
+    {
+      "qty": 12.0,
+      "unit": "oz",
+      "item": "elbow macaroni",
+      "note": "wheat, whole wheat, high protein or gluten-free"
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "butter",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "cup",
+      "item": "flour",
+      "note": "or gluten-free flour mix"
+    },
+    {
+      "qty": 0.25,
+      "unit": "cup",
+      "item": "minced onion",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "cup",
+      "item": "skim milk",
+      "note": "use rice milk for dairy-free"
+    },
+    {
+      "qty": 1.0,
+      "unit": "cup",
+      "item": "chicken or vegetable broth",
+      "note": null
+    },
+    {
+      "qty": 8.0,
+      "unit": "oz",
+      "item": "reduced-fat cheddar",
+      "note": "for best results shred yourself. Use Violife for dairy-free"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "kosher salt",
+      "note": "and black pepper, to taste"
+    },
+    {
+      "qty": 4.0,
+      "unit": "cup",
+      "item": "baby spinach",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "grated Parmesan",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "cup",
+      "item": "seasoned whole wheat bread crumbs",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "olive oil spray",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Cook pasta in salted water according to package directions. Spray a baking dish with oil.",
+    "Preheat oven to 375F.",
+    "In a large, heavy skillet, melt butter. Add flour and cook over low heat stirring with a whisk.",
+    "Add onion and cook another 2 minutes. Add milk and chicken broth and continue whisking, raising heat to medium-high until it comes to a boil and becomes smooth and thick. Season with salt and pepper.",
+    "Once it becomes thick, remove from heat, add cheese 1/4 cup at a time and mix well until cheese is melted. Adjust salt and pepper to taste, add cooked macaroni and baby spinach.",
+    "Pour into baking dish. Top with grated cheese and breadcrumbs. Spray a little more oil on top.",
+    "Bake for 15-20 minutes, then broil for a few minutes to get the breadcrumbs golden."
+  ],
+  "tags": [
+    "chicken"
+  ],
+  "sourceUrl": "https://www.skinnytaste.com/lighter-baked-macaroni-and-cheese/",
+  "notes": null,
+  "photoOnly": false
+}

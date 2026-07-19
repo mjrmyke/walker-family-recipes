@@ -1,0 +1,113 @@
+{
+  "id": "wc-2025-w4",
+  "description": "Golden roasted cauliflower steaks brushed with smoky spices and topped with a bright, herby chimichurri sauce.",
+  "servings": 4,
+  "ingredients": [
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "large head of cauliflower",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "olive oil",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "garlic powder",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "smoked paprika",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cumin",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "salt",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "black pepper",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "cup",
+      "item": "fresh parsley",
+      "note": "finely chopped"
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "fresh cilantro",
+      "note": "finely chopped"
+    },
+    {
+      "qty": 3.0,
+      "unit": "tbsp",
+      "item": "red wine vinegar",
+      "note": null
+    },
+    {
+      "qty": 3.0,
+      "unit": "tbsp",
+      "item": "olive oil",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "clove",
+      "item": "garlic",
+      "note": "minced"
+    },
+    {
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "red chili flakes",
+      "note": "optional"
+    },
+    {
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "salt",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "black pepper",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Preheat your oven to 425°F (220°C).",
+    "Remove the outer leaves and trim the stem of the cauliflower, keeping the head intact. Slice it into 1-inch-thick steaks, saving any florets that break off for roasting.",
+    "Mix the olive oil, garlic powder, smoked paprika, cumin, salt, and pepper in a small bowl, then brush both sides of the cauliflower steaks and florets with the mixture.",
+    "Arrange the cauliflower steaks and florets on a parchment-lined baking sheet and roast for 20-25 minutes, flipping halfway through, until golden brown and tender.",
+    "For the chimichurri sauce, combine the parsley, cilantro, red wine vinegar, olive oil, garlic, red chili flakes, salt, and black pepper in a bowl. Mix well and adjust seasoning to taste.",
+    "Plate the roasted cauliflower steaks and drizzle generously with chimichurri sauce. Serve as a main dish or pair with a protein like grilled chicken or chickpeas."
+  ],
+  "tags": [
+    "vegetarian",
+    "main",
+    "sauce"
+  ],
+  "sourceUrl": null,
+  "notes": null,
+  "photoOnly": false
+}
