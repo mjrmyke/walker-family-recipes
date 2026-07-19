@@ -3,7 +3,9 @@ from pipeline.tags import TAG_VOCAB
 
 _REQUIRED = ["id", "week", "year", "date", "theme", "title", "dish", "subreddit",
              "track", "redditUrl", "sourceUrl", "description", "image", "gallery",
-             "servings", "ingredients", "steps", "tags", "notes", "photoOnly"]
+             "servings", "ingredients", "steps", "tags", "notes", "photoOnly", "postings"]
+
+_POSTING_KEYS = {"week", "year", "date", "theme", "subreddit", "redditUrl"}
 
 def validate_recipe(r: dict) -> None:
     for f in _REQUIRED:
@@ -11,6 +13,11 @@ def validate_recipe(r: dict) -> None:
             raise ValueError(f"missing field: {f}")
     if not isinstance(r["photoOnly"], bool):
         raise ValueError("photoOnly must be a bool")
+    if not r["postings"]:
+        raise ValueError("postings must be non-empty")
+    for p in r["postings"]:
+        if not _POSTING_KEYS.issubset(p):
+            raise ValueError(f"posting missing keys: {p}")
     for t in r["tags"]:
         if t not in TAG_VOCAB:
             raise ValueError(f"unknown tag: {t}")

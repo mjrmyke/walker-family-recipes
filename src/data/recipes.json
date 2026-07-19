@@ -17,9 +17,23 @@
     "servings": 0,
     "ingredients": [],
     "steps": [],
-    "tags": [],
+    "tags": [
+      "bread",
+      "main",
+      "spicy"
+    ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 1,
+        "year": 2024,
+        "date": "2024-01-08",
+        "theme": "Beans",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/191cpab/week_1_beans_chilli_and_cornbread/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w2",
@@ -40,10 +54,21 @@
     "ingredients": [],
     "steps": [],
     "tags": [
-      "sauce"
+      "chinese",
+      "main"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 2,
+        "year": 2024,
+        "date": "2024-01-15",
+        "theme": "Year of the Dragon",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1970fkg/week_2_year_of_the_dragon_potstickers_with/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w3",
@@ -193,10 +218,23 @@
       "Transfer to a serving bowl, garnish with thinly sliced ginger strips and serve with plain rice or a choice of flatbread."
     ],
     "tags": [
-      "chicken"
+      "chicken",
+      "indian",
+      "main",
+      "spicy"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 3,
+        "year": 2024,
+        "date": "2024-01-22",
+        "theme": "Kashmiri",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/19cmz4c/week_3_kashmiri_garlic_chilli_chicken_curry/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w4",
@@ -243,10 +281,21 @@
       "Use a slotted spoon to remove the candied peels from the syrup, saving it for another use. Transfer peel in a single layer to a wire cooling rack set over a large piece of parchment (to collect drips). Let cool for about 15 minutes. Toss the peel in the remaining ¼ - ⅜ cup (50-74 g) sugar as needed to coat. Transfer back to wire rack to finish drying - at least a few hours - before storing."
     ],
     "tags": [
-      "vegetarian"
+      "dessert",
+      "quick"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 4,
+        "year": 2024,
+        "date": "2024-01-29",
+        "theme": "Peeling",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1adnkvq/week_4_peeling_lemons_lemons_lemons/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w5",
@@ -372,10 +421,21 @@
       "Immediately sprinkle candy chips over top. Allow frosting to harden (about 1 hour) before cutting and eating (this can be sped up if you place the brownies in the refrigerator for about 15 minutes)."
     ],
     "tags": [
+      "baked",
       "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 5,
+        "year": 2024,
+        "date": "2024-02-02",
+        "theme": "Celestial",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1agwrft/week_5_celestial_cosmic_brownies/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w6",
@@ -454,10 +514,21 @@
       "Serve crepes with sauce drizzled over or by soaking each crepe in sauce for about 30 seconds. Optionally top with vanilla ice cream."
     ],
     "tags": [
-      "vegetarian"
+      "dessert",
+      "french"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 6,
+        "year": 2024,
+        "date": "2024-02-10",
+        "theme": "Normandy",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1anr5uh/week_6_normandy_crepes_suzette/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w7",
@@ -478,10 +549,22 @@
     "ingredients": [],
     "steps": [],
     "tags": [
+      "beef",
+      "main",
       "mexican"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 7,
+        "year": 2024,
+        "date": "2024-02-15",
+        "theme": "Discontinued",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1ar71z4/week_7_discontinued_taco_bells_double_decker_taco/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w8",
@@ -502,10 +585,22 @@
     "ingredients": [],
     "steps": [],
     "tags": [
-      "middle-eastern"
+      "middle-eastern",
+      "spicy",
+      "vegetarian"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 8,
+        "year": 2024,
+        "date": "2024-02-26",
+        "theme": "Bulbs",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1b088rx/week_8_bulbs_spicy_garlic_hummus/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w9",
@@ -595,10 +690,22 @@
       "Bake and cook for about 30 to 40 minutes or until golden brown."
     ],
     "tags": [
+      "baked",
+      "side",
       "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 9,
+        "year": 2024,
+        "date": "2024-03-04",
+        "theme": "Paraguay",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1b62m7j/week_9_paraguay_chipa_guazú/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w10",
@@ -670,10 +777,21 @@
       "Freeze: Place mochi back in the freezer with the twisted plastic wrap side down. Continue with remaining dough and ice cream. Freeze mochi ice cream for at least 1 hour before eating. Once frozen, store it, still wrapped in the plastic wrap, in a freezer safe bag or container in the freezer for up to 3 months.  Allow the dough to slightly thaw before eating."
     ],
     "tags": [
-      "dessert"
+      "dessert",
+      "japanese"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 10,
+        "year": 2024,
+        "date": "2024-03-11",
+        "theme": "Balling",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1bbumxz/week_10_balling_mochi_ice_cream/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w11",
@@ -772,10 +890,21 @@
       "Bake until bubbling around edges, about 30 minutes. Remove from oven and carefully remove foil. Sprinkle with remaining 1/2 cup Colby-Jack and return to oven. Increase oven temperature to broil; broil until cheese is browned in spots, 4 to 5 minutes. Remove from oven. Let cool until pasta mixture is set and firm, about 10 minutes. Serve warm."
     ],
     "tags": [
+      "main",
       "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 11,
+        "year": 2024,
+        "date": "2024-03-18",
+        "theme": "Cream",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1bht6qs/week_11_cream_mac_n_cheese/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w12",
@@ -821,10 +950,22 @@
       "Remove eggs carefully and place on plate. Place ham on plate and season accordingly."
     ],
     "tags": [
+      "breakfast",
+      "egg",
       "pork"
     ],
     "notes": "servings estimated",
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 12,
+        "year": 2024,
+        "date": "2024-03-24",
+        "theme": "Poetic",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1bmx4pr/week_12_poetic_green_eggs_and_ham/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w13",
@@ -905,10 +1046,20 @@
       "Pour chocolate into a small zip-top bag, cut a very small piece of the corner of the bag, and use the bag to pipe the eyes and nose on each marshmallow. Enjoy!"
     ],
     "tags": [
-      "vegetarian"
+      "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 13,
+        "year": 2024,
+        "date": "2024-03-31",
+        "theme": "Knifework",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1bs19wl/week_13_knifework_homemade_peeps/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w14",
@@ -933,115 +1084,17 @@
       "salad"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
-  },
-  {
-    "id": "wc-2024-w15",
-    "week": 15,
-    "year": 2024,
-    "date": "2024-04-15",
-    "theme": "Out of the Box",
-    "title": "Week 15: Out of the Box - Sloppy Joe",
-    "dish": "Sloppy Joe",
-    "subreddit": "52weeksofcooking",
-    "track": null,
-    "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1c4ces7/week_15_out_of_the_box_sloppy_joe/",
-    "sourceUrl": "https://natashaskitchen.com/sloppy-joe-recipe/",
-    "description": "The BEST recipe for a homemade Sloppy Joe!",
-    "image": "images/sloppy-joe-wc-2024-w15.webp",
-    "gallery": [],
-    "servings": 5,
-    "ingredients": [
+    "photoOnly": true,
+    "postings": [
       {
-        "qty": 15.0,
-        "unit": "oz",
-        "item": "can tomato sauce",
-        "note": null
-      },
-      {
-        "qty": 0.25,
-        "unit": "cup",
-        "item": "ketchup*",
-        "note": null
-      },
-      {
-        "qty": 1.0,
-        "unit": "tbsp",
-        "item": "Worcestershire sauce",
-        "note": null
-      },
-      {
-        "qty": 1.5,
-        "unit": "tsp",
-        "item": "yellow mustard",
-        "note": "or to taste"
-      },
-      {
-        "qty": 2.0,
-        "unit": "tsp",
-        "item": "brown sugar",
-        "note": "or to taste*"
-      },
-      {
-        "qty": 1.0,
-        "unit": "tbsp",
-        "item": "extra light olive oil",
-        "note": "or any high-heat cooking oil"
-      },
-      {
-        "qty": 1.0,
-        "unit": "lb",
-        "item": "lean ground beef",
-        "note": "85%-90% lean"
-      },
-      {
-        "qty": 0.5,
-        "unit": "tsp",
-        "item": "fine sea salt",
-        "note": "or to taste"
-      },
-      {
-        "qty": 0.25,
-        "unit": "tsp",
-        "item": "freshly ground black pepper",
-        "note": "or to taste"
-      },
-      {
-        "qty": 1.0,
-        "unit": null,
-        "item": "small onion",
-        "note": "finely chopped"
-      },
-      {
-        "qty": 0.5,
-        "unit": null,
-        "item": "small green bell pepper",
-        "note": "seeded and finely diced, or use 1/2 cup grated carrot"
-      },
-      {
-        "qty": 3.0,
-        "unit": null,
-        "item": "garlic cloves",
-        "note": "minced"
-      },
-      {
-        "qty": 5.0,
-        "unit": null,
-        "item": "hamburger buns",
-        "note": "toasted if desired"
+        "week": 14,
+        "year": 2024,
+        "date": "2024-04-08",
+        "theme": "Local Produce",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1bymngd/week_14_local_produce_miso_orange_salad/"
       }
-    ],
-    "steps": [
-      "Make the Sauce - In a medium bowl, combine the tomato sauce, ketchup, Worcestershire sauce, mustard, and brown sugar, and set it aside.",
-      "Cook the Beef - Place a large skillet or dutch oven over medium/high heat. Add olive oil and ground beef. Saute the beef for about 5 minutes until cooked through and no longer pink, breaking it up with a spatula. If you see extra fat on the bottom, tilt the pan and spoon it out or blot it up with paper towels. Season with salt and pepper.",
-      "Add vegetables -  Stir in the diced peppers and onion. Cook another 5 minutes until the veggies are tender and beef is browned. Add garlic and saute 30 seconds until fragrant, stirring constantly.",
-      "Add the sauce and bring to a light boil. Reduce heat to low and simmer uncovered for about 10-15 minutes or until thickened to your liking. Adjust the seasoning taste* and add water if you prefer a looser consistency. Serve on toasted buns for Sloppy Joe Sandwiches."
-    ],
-    "tags": [
-      "beef"
-    ],
-    "notes": null,
-    "photoOnly": false
+    ]
   },
   {
     "id": "wc-2024-w16",
@@ -1179,10 +1232,22 @@
     ],
     "tags": [
       "chicken",
+      "grilled",
+      "main",
       "middle-eastern"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 16,
+        "year": 2024,
+        "date": "2024-04-22",
+        "theme": "Egyptian",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1ca0123/week_16_egyptian_chicken_shawarma/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w17",
@@ -1204,10 +1269,21 @@
     "steps": [],
     "tags": [
       "beef",
-      "grill"
+      "grilled",
+      "main"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 17,
+        "year": 2024,
+        "date": "2024-04-29",
+        "theme": "Tea",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1cfpkj0/week_17_tea_bbq_burgers_and_a_cold_tea/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w18",
@@ -1331,10 +1407,23 @@
       "Remove chicken from the air fryer and toss with the sauce.  Garnish with scallions and sesame seeds.  Serve with brown rice."
     ],
     "tags": [
-      "chicken"
+      "chicken",
+      "chinese",
+      "main",
+      "spicy"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 18,
+        "year": 2024,
+        "date": "2024-05-06",
+        "theme": "Eponymous",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1cl8cbq/week_18_eponymous_general_tsos_chicken/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w19",
@@ -1425,10 +1514,21 @@
       "Serve warm with a scoop of vanilla ice cream."
     ],
     "tags": [
-      "vegetarian"
+      "baked",
+      "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 19,
+        "year": 2024,
+        "date": "2024-05-12",
+        "theme": "Pennsylvania Dutch",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1cq1pne/week_19_pennsylvania_dutch_apple_dumplings/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w20",
@@ -1534,10 +1634,23 @@
       "While the meatballs are cooking, bring a large pot of well-salted water to a boil. Add the spaghetti and cook until al dente. Reserve about a cup of the cooking water, then drain. Toss the pasta with the sauce and meatballs (you may find it easier to do this in the pasta pot rather than the skillet, depending on the size of your pans). If the sauce seems dry, add a splash of the reserved pasta water to loosen it. Serve topped with fresh basil and more grated cheese."
     ],
     "tags": [
-      "vegetarian"
+      "beef",
+      "italian",
+      "main",
+      "pork"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 20,
+        "year": 2024,
+        "date": "2024-05-20",
+        "theme": "Wrapping",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1cw5a73/week_20_wrapping_moms_spaghetti/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w21",
@@ -1557,34 +1670,22 @@
     "servings": 0,
     "ingredients": [],
     "steps": [],
-    "tags": [],
-    "notes": "Recipe not fully captured — see the source link.",
-    "photoOnly": true
-  },
-  {
-    "id": "wc-2024-w22",
-    "week": 22,
-    "year": 2024,
-    "date": "2024-06-03",
-    "theme": "Yucatecan",
-    "title": "Week 22: Yucatecan - Carne Asada Tacos",
-    "dish": "Carne Asada Tacos",
-    "subreddit": "52weeksofcooking",
-    "track": null,
-    "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1d6v1e1/week_22_yucatecan_carne_asada_tacos/",
-    "sourceUrl": null,
-    "description": "Carne Asada Tacos — a Yucatecan week recipe.",
-    "image": "images/carne-asada-tacos-wc-2024-w22.webp",
-    "gallery": [],
-    "servings": 0,
-    "ingredients": [],
-    "steps": [],
     "tags": [
-      "beef",
-      "mexican"
+      "breakfast",
+      "egg"
     ],
-    "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "notes": "Recipe not fully captured — see the source link.",
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 21,
+        "year": 2024,
+        "date": "2024-05-27",
+        "theme": "Anthony Bourdain",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1d1g3qe/week_21_anthony_bourdain_scrambled_eggs/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w23",
@@ -1659,10 +1760,22 @@
       "Remove from the oven and serve with your favorite sides!"
     ],
     "tags": [
+      "grilled",
+      "main",
       "pork"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 23,
+        "year": 2024,
+        "date": "2024-06-10",
+        "theme": "Smoked",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1dcbe6l/week_23_smoked_country_style_ribs/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w24",
@@ -1683,10 +1796,21 @@
     "ingredients": [],
     "steps": [],
     "tags": [
-      "baked"
+      "breakfast",
+      "quick"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 24,
+        "year": 2024,
+        "date": "2024-06-16",
+        "theme": "Berries",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1dhhmq2/week_24_berries_blueberry_waffles/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w25",
@@ -1807,10 +1931,20 @@
     ],
     "tags": [
       "chicken",
-      "seafood"
+      "main"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 25,
+        "year": 2024,
+        "date": "2024-06-24",
+        "theme": "Hawaiian",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1dn4xli/week_25_hawaiian_huli_huli_chicken_and_pineapple/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w26",
@@ -1855,10 +1989,21 @@
       "Place the pan on a flat shelf in the fridge to chill until firm, about 4 hours. Once it feels firm to the touch in the center, you can slice it into squares and serve. Leftovers can be stored in an airtight container in the fridge for up to 2 weeks."
     ],
     "tags": [
-      "vegetarian"
+      "dessert",
+      "quick"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 26,
+        "year": 2024,
+        "date": "2024-07-01",
+        "theme": "Gelling",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1dsksga/week_26_gelling_homemade_raspberry_jello/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w27",
@@ -1951,7 +2096,17 @@
       "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 27,
+        "year": 2024,
+        "date": "2024-07-08",
+        "theme": "Tomatoes",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1dxzegb/week_27_tomatoes_roasted_tomato_soup/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w28",
@@ -1972,10 +2127,21 @@
     "ingredients": [],
     "steps": [],
     "tags": [
+      "baked",
       "dessert"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 28,
+        "year": 2024,
+        "date": "2024-07-13",
+        "theme": "Just Desserts",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1e21lf7/week_28_just_desserts_smash_cake/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w29",
@@ -1996,10 +2162,21 @@
     "ingredients": [],
     "steps": [],
     "tags": [
-      "sauce"
+      "sauce",
+      "spicy"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 29,
+        "year": 2024,
+        "date": "2024-07-22",
+        "theme": "Emulsification",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1e94vld/week_29_emulsification_spicy_garlic_aioli/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w30",
@@ -2025,7 +2202,17 @@
       "salad"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 30,
+        "year": 2024,
+        "date": "2024-07-29",
+        "theme": "Coriander",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1eep6wj/week_30_coriander_carne_asada_taco_salad/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w31",
@@ -2046,10 +2233,21 @@
     "ingredients": [],
     "steps": [],
     "tags": [
-      "mexican"
+      "mexican",
+      "side"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 31,
+        "year": 2024,
+        "date": "2024-08-05",
+        "theme": "Inspired By Sports",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1ekd664/week_31_inspired_by_sports_nachos/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w32",
@@ -2121,10 +2319,21 @@
       "Las patatas a lo pobre **son similares en aspecto a las patatas a la panadera**, solo que las últimas se cocinan en el horno y las primeras se hacen en la sartén. En unas y otras, se busca una patata confitada y suave más que una patata frita y crujiente.\n\n**Para elaborar esta guarnición**, pelamos las [patatas](https://www.directoalpaladar.com/tag/patatas) y las cortamos en rodajas de unos 3 mm de grosor -similares a las panaderas-, cortamos los pimientos en pedazos de tamaño mediano y picamos las [cebollas](https://www.directoalpaladar.com/tag/cebolla) en juliana fina. \n\n**En una sartén ponemos aceite abundante** y echamos todos los ingredientes partiendo de aceite en frío. Así conseguimos que todo se fría muy lentamente o mejor dicho, que se vaya confitando. No os preocupéis por todo ese aceite que **luego lo colaremos y lo podremos aprovechar** para mil y una recetas, frituras y guisos.\n\n\n\n\n**Tras unos quince minutos a fuego lento** comenzará a haber movimiento en la sartén y veremos las primeras burbujas, momento en el que podemos sazonar y subir el fuego para dorar ligeramente las patatas, una vez hayamos comprobado que éstas ya empiezan a estar blandas al haberse confitado. \n\nCon otros cinco o diez minutos más a fuego medio **tendremos listas las patatas a lo pobre**. Para dorarlas un poco más, retiramos el aceite de freír y dejamos que se tuesten un minuto en la sartén. Tened cuidado para que no se partan, en la medida de lo posible.\n\nUna vez hechas las patatas, las escurriremos bien en un colador para retirar todo el exceso de aceite. Al servirlas, se suelen espolvorear con perejil picado y hay quien recomienda añadir unas **gotas de vinagre de vino blanco**.\n\n\n\n## Con qué acompañar las patatas a lo pobre\n\nLas **patatas a lo pobre** están buenísimas como acompañamiento de guisos como el del [guiso de conejo](https://www.directoalpaladar.com/recetas-de-carnes-y-aves/guiso-de-conejo-con-champinones-al-vino-blanco-receta), los guisos de pollo o con unos simples huevos fritos, que son probablemente la mejor compañía para esta guarnición que por mérito propio, podría ser un plato principal."
     ],
     "tags": [
+      "side",
       "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 32,
+        "year": 2024,
+        "date": "2024-08-12",
+        "theme": "Andalusian",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1eq44u7/week_32_andalusian_patatas_a_lo_pobre/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w33",
@@ -2250,11 +2459,22 @@
       "1. Preheat the oven to 425° F.2. Arrange the corn, poblano, zucchini, onions, and garlic on a baking sheet. Drizzle with olive oil and season with salt and pepper. Bake for 15-25 minutes, until the vegetables have a light char. 3. Remove the corn kernels from the cob, de-seed the poblano pepper and cut into slices, and chop the onions and garlic. Add everything back to the baking sheet and toss with 1 cup salsa verde, the chipotle, paprika, honey, half the cheese, the cilantro, and basil. 4. Pour 1 cup of the salsa verde onto the bottom of a 9x13 inch baking dish. Spoon the vegetable filling down the center of each tortilla, tuck, and roll. Place the tortillas, seam side down, into the baking dish. Pour the remaining salsa verde over top of the enchiladas. Top with the remaining cheese. Bake for 10-15 minutes, until the cheese has melted. Top as desired and enjoy warm!"
     ],
     "tags": [
+      "main",
       "mexican",
       "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 33,
+        "year": 2024,
+        "date": "2024-08-19",
+        "theme": "Corn",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1ew1rw6/week_33_corn_cheesy_poblano_corn_enchiladas/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w34",
@@ -2339,10 +2559,21 @@
       "See the blog post above for remoulade serving suggestions."
     ],
     "tags": [
+      "side",
       "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 34,
+        "year": 2024,
+        "date": "2024-08-26",
+        "theme": "Fairs & Festivals",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1f1cxkm/week_34_fairs_festivals_fried_pickles/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w35",
@@ -2362,9 +2593,22 @@
     "servings": 0,
     "ingredients": [],
     "steps": [],
-    "tags": [],
+    "tags": [
+      "side",
+      "vegetarian"
+    ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 35,
+        "year": 2024,
+        "date": "2024-09-02",
+        "theme": "Romanian",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1f6uedv/week_35_romanian_cascaval_cheese/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w38",
@@ -2481,11 +2725,21 @@
       "Serve immediately. Enjoy!"
     ],
     "tags": [
-      "pork",
-      "sauce"
+      "main",
+      "pork"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 38,
+        "year": 2024,
+        "date": "2024-09-23",
+        "theme": "Filipino",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1fnaw8g/week_38_filipino_pancit_lumpia_dipping_sauce/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w39",
@@ -2505,9 +2759,23 @@
     "servings": 0,
     "ingredients": [],
     "steps": [],
-    "tags": [],
+    "tags": [
+      "beef",
+      "grilled",
+      "main"
+    ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 39,
+        "year": 2024,
+        "date": "2024-09-30",
+        "theme": "Basting",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1fslwz9/week_39_basting_garlic_butter_basted_tritip/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w40",
@@ -2527,9 +2795,22 @@
     "servings": 0,
     "ingredients": [],
     "steps": [],
-    "tags": [],
+    "tags": [
+      "side",
+      "vegetarian"
+    ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 40,
+        "year": 2024,
+        "date": "2024-10-07",
+        "theme": "Fungi",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1fxw6uj/week_40_fungi_sautéed_mushrooms/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w41",
@@ -2659,10 +2940,22 @@
       "Close the sandwich if you are able to and enjoy!"
     ],
     "tags": [
-      "beef"
+      "beef",
+      "main",
+      "spicy"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 41,
+        "year": 2024,
+        "date": "2024-10-14",
+        "theme": "Southern Africa",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1g36fqu/week_41_southern_africa_steak_gatsby_sandwich/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w42",
@@ -2761,10 +3054,22 @@
     ],
     "tags": [
       "chicken",
-      "seafood"
+      "main",
+      "mexican",
+      "spicy"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 42,
+        "year": 2024,
+        "date": "2024-10-21",
+        "theme": "Under Pressure",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1g8g6lg/week_42_under_pressure_chicken_chile_verde/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w43",
@@ -2884,10 +3189,22 @@
       "Garnish with remaining cilantro. Serve the butter chicken with Homemade Parathas and Basmati Rice or Cumin Rice and  Cucumber Raita. For a low-carb meal serve with Cauliflower Cumin Rice."
     ],
     "tags": [
-      "chicken"
+      "chicken",
+      "indian",
+      "main"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 43,
+        "year": 2024,
+        "date": "2024-10-28",
+        "theme": "Curry",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1gdtg51/week_43_curry_butter_chicken/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w44",
@@ -2907,9 +3224,23 @@
     "servings": 0,
     "ingredients": [],
     "steps": [],
-    "tags": [],
+    "tags": [
+      "baked",
+      "italian",
+      "main"
+    ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 44,
+        "year": 2024,
+        "date": "2024-11-04",
+        "theme": "Haitian",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1gj6gu2/week_44_haitian_haitian_baked_ziti/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w45",
@@ -3013,10 +3344,21 @@
       "Add lemon juice, lemon zest and garnish with fresh chopped parsley and lemon slices. Serve warm over white rice or mashed potatoes."
     ],
     "tags": [
-      "chicken"
+      "chicken",
+      "main"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 45,
+        "year": 2024,
+        "date": "2024-11-11",
+        "theme": "Freezing",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1gok5j8/week_45_freezing_lemon_garlic_chicken/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w46",
@@ -3122,10 +3464,22 @@
       "Serve with carrots, celery and dressing on side."
     ],
     "tags": [
-      "chicken"
+      "chicken",
+      "main",
+      "spicy"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 46,
+        "year": 2024,
+        "date": "2024-11-18",
+        "theme": "Bones",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1gtvsy4/week_46_bones_hot_wings/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w47",
@@ -3146,10 +3500,21 @@
     "ingredients": [],
     "steps": [],
     "tags": [
+      "grilled",
       "japanese"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 47,
+        "year": 2024,
+        "date": "2024-11-22",
+        "theme": "Izakaya",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1gwzo31/week_47_izakaya_yakitori_edamame_and_gyoza/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w48",
@@ -3255,10 +3620,23 @@
       "Bake in the preheated oven until bubbly and cheese is melted, 55 to 60 minutes. Let stand for 10 minutes before serving."
     ],
     "tags": [
-      "chicken"
+      "baked",
+      "chicken",
+      "main",
+      "mexican"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 48,
+        "year": 2024,
+        "date": "2024-12-02",
+        "theme": "Vintage",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1h4kx4w/week_48_vintage_texmex_chicken_casserole/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w49",
@@ -3363,10 +3741,22 @@
       "Garnish with pepper flakes, parsley, and lemon slices. Serve."
     ],
     "tags": [
-      "vegetarian"
+      "baked",
+      "main",
+      "seafood"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 49,
+        "year": 2024,
+        "date": "2024-12-09",
+        "theme": "Seafood",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1ha0lod/week_49_seafood_garlic_butter_oven_baked_tilapia/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w50",
@@ -3387,10 +3777,21 @@
     "ingredients": [],
     "steps": [],
     "tags": [
-      "beef"
+      "beef",
+      "main"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 50,
+        "year": 2024,
+        "date": "2024-12-16",
+        "theme": "Giftable",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1hf9yt8/week_50_giftable_to_err_is_cumin_burger/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w51",
@@ -3473,10 +3874,21 @@
       "Serve with more butter as desired​"
     ],
     "tags": [
+      "main",
       "pork"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 51,
+        "year": 2024,
+        "date": "2024-12-23",
+        "theme": "Polish",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1hkf3cu/week_51_polish_haluski/"
+      }
+    ]
   },
   {
     "id": "wc-2024-w52",
@@ -3567,11 +3979,21 @@
       "Add the onion to the pot. Add the soda and stir to thoroughly scrape up the browned bits at the bottom of the pot. Close the lid and cook on high pressure for one hour. Turn off the pressure cooker and allow the pressure to release naturally for 15 minutes. Open the lid. Using tongs or a slotted spoon, remove the pork and onion bits to a large serving bowl. Using two forks, coarsely shred the meat. Add ½ cup barbecue sauce and a few spoonfuls of the cooking liquid to moisten. (Discard remaining cooking liquid.) Taste and add salt, pepper, hot sauce, and more barbecue sauce as you like. Serve with soft rolls and extra sauce on the side."
     ],
     "tags": [
-      "grill",
+      "main",
       "pork"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 52,
+        "year": 2024,
+        "date": "2024-12-30",
+        "theme": "Carbonated",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1hpctu6/week_52_carbonated_bbq_pulled_pork/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w1",
@@ -3658,10 +4080,21 @@
     ],
     "tags": [
       "chicken",
-      "sauce"
+      "french",
+      "main"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 1,
+        "year": 2025,
+        "date": "2025-01-05",
+        "theme": "Jacques Pépin",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1hu0iac/week_1_jacques_pépin_chicken_in_mustard_sauce/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w1",
@@ -3682,11 +4115,22 @@
     "ingredients": [],
     "steps": [],
     "tags": [
+      "beef",
       "bread",
-      "baked"
+      "main"
     ],
     "notes": "Comment is a personal reflection on starting the new baking challenge — no recipe or ingredient list was posted.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 1,
+        "year": 2025,
+        "date": "2025-01-04",
+        "theme": "New Year, New Recipe",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1ht60rg/week_1_new_year_new_recipe_bierocks_meta_mommy/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w2",
@@ -3779,10 +4223,21 @@
       "Discard the thyme and serve the chicken sprinkled with croutons."
     ],
     "tags": [
-      "chicken"
+      "chicken",
+      "main"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 2,
+        "year": 2025,
+        "date": "2025-01-13",
+        "theme": "Scotland",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1i05jce/week_2_scotland_cockaleekie_traybake_meta_mindful/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w2",
@@ -3912,11 +4367,23 @@
       "Remove from the oven and top with basil leaves before serving."
     ],
     "tags": [
+      "baked",
       "italian",
+      "main",
       "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 2,
+        "year": 2025,
+        "date": "2025-01-09",
+        "theme": "Great British Bake-off Technical",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1hx4da2/week_2_great_british_bakeoff_technical_prue/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w3",
@@ -4028,12 +4495,22 @@
       "Serve the rolls with the peanut dipping sauce."
     ],
     "tags": [
+      "quick",
       "seafood",
-      "side",
-      "quick"
+      "side"
     ],
     "notes": "servings estimated",
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 3,
+        "year": 2025,
+        "date": "2025-01-21",
+        "theme": "Stretching",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1i69kwy/week_3_stretching_vietnamese_summer_rolls_meta/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w3",
@@ -4140,11 +4617,21 @@
       "Slice the cooled mini cakes in half lengthwise, spread or pipe the cream filling on the bottom half, and place the top half back on."
     ],
     "tags": [
-      "dessert",
-      "baked"
+      "baked",
+      "dessert"
     ],
     "notes": "servings estimated",
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 3,
+        "year": 2025,
+        "date": "2025-01-18",
+        "theme": "Recreated",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1i3yzri/week_3_recreated_little_debbie_banana_twins_meta/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w4",
@@ -4263,12 +4750,22 @@
       "Plate the roasted cauliflower steaks and drizzle generously with chimichurri sauce. Serve as a main dish or pair with a protein like grilled chicken or chickpeas."
     ],
     "tags": [
-      "vegetarian",
+      "baked",
       "main",
-      "sauce"
+      "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 4,
+        "year": 2025,
+        "date": "2025-01-27",
+        "theme": "Cruciferous",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1iaz2sz/week_4_cruciferous_roasted_cauliflower_steaks/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w4",
@@ -4359,10 +4856,22 @@
       "Bake until golden brown and an instant-read thermometer inserted in center registers at least 190°F (88°C), about 15 minutes. Let cool on pans for 10 minutes before serving."
     ],
     "tags": [
-      "bread"
+      "baked",
+      "bread",
+      "chinese"
     ],
     "notes": "servings estimated",
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 4,
+        "year": 2025,
+        "date": "2025-01-26",
+        "theme": "Lunar New Year",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1ia4uv2/week_4_lunar_new_year_pineapple_buns_meta_mommy/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w5",
@@ -4475,10 +4984,22 @@
       "Bake the Cornish pasties on the middle rack for 40-50 minutes until golden in color.  Remove from the oven and let them sit for about 10 minutes (they will be very hot inside) before eating.  They can be reheated in the oven (recommended for a crispier crust) or microwave.  NOTE:  Depending on how full you stuff the pasties you may have leftover filling.  No worries, just fry it up together or add it to soup and enjoy it as a separate meal."
     ],
     "tags": [
-      "beef"
+      "baked",
+      "beef",
+      "main"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 5,
+        "year": 2025,
+        "date": "2025-02-03",
+        "theme": "Something Old",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1iggo7g/week_5_something_old_cornish_pasty_meta_mommy/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w5",
@@ -4582,11 +5103,22 @@
       "Combine rice, teriyaki sauce, the cilantro, peanuts, ginger, scallions, avocados, cucumber, and zest and juice in a bowl; transfer to a serving platter and garnish with cilantro."
     ],
     "tags": [
+      "japanese",
       "salad",
       "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 5,
+        "year": 2025,
+        "date": "2025-02-03",
+        "theme": "Aotearoa",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1iggpbj/week_5_aotearoa_brown_rice_salad_with_avocado/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w6",
@@ -4652,10 +5184,21 @@
       "Serve warm immediately."
     ],
     "tags": [
+      "baked",
       "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 6,
+        "year": 2025,
+        "date": "2025-02-09",
+        "theme": "Something New",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1ilongs/week_6_something_new_banana_donut_holes_meta/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w6",
@@ -4732,10 +5275,21 @@
     ],
     "tags": [
       "beef",
+      "french",
       "main"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 6,
+        "year": 2025,
+        "date": "2025-02-09",
+        "theme": "A Technique You’re Intimidated By",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1il83y9/week_6_a_technique_youre_intimidated_by_flambé/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w7",
@@ -4756,10 +5310,21 @@
     "ingredients": [],
     "steps": [],
     "tags": [
-      "baked"
+      "baked",
+      "breakfast"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 7,
+        "year": 2025,
+        "date": "2025-02-18",
+        "theme": "Something Borrowed",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1iskksn/week_7_something_borrowed_banana_muffins_meta/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w7",
@@ -4864,10 +5429,21 @@
     ],
     "tags": [
       "chicken",
-      "sauce"
+      "main",
+      "middle-eastern"
     ],
     "notes": "servings estimated; comment only gives the two yogurt sauces, not the chicken/gyro assembly",
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 7,
+        "year": 2025,
+        "date": "2025-02-17",
+        "theme": "Yogurt",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1iram79/week_7_yogurt_chicken_gyros_with_tzatziki_sauce/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w8",
@@ -4888,10 +5464,22 @@
     "ingredients": [],
     "steps": [],
     "tags": [
-      "chicken"
+      "chicken",
+      "grilled",
+      "main"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 8,
+        "year": 2025,
+        "date": "2025-02-24",
+        "theme": "Animated",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1iwtgju/week_8_animated_world_of_warcraft_skewered_peanut/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w9",
@@ -4969,10 +5557,22 @@
       "Serve and enjoy!"
     ],
     "tags": [
+      "baked",
+      "bread",
       "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 9,
+        "year": 2025,
+        "date": "2025-03-03",
+        "theme": "Brazilian Carnival",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1j2adnn/week_9_brazilian_carnival_pao_de_queijo_meta/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w9",
@@ -5062,10 +5662,21 @@
     ],
     "tags": [
       "chicken",
-      "grill"
+      "grilled",
+      "main"
     ],
     "notes": "servings estimated",
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 9,
+        "year": 2025,
+        "date": "2025-03-03",
+        "theme": "Caramelizing",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1j2af0t/week_9_caramelizing_caramelized_pineapple_chicken/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w10",
@@ -5156,10 +5767,21 @@
       "Remove from oven. Cool just 2 minutes then use a fork to help remove and place on cooling rack. Cool completely before icing with frosting of choice (Note 11 for ideas), or cream and fresh berries or jam."
     ],
     "tags": [
+      "baked",
       "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 10,
+        "year": 2025,
+        "date": "2025-03-10",
+        "theme": "Floral",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1j7qjzd/week_10_floral_cupcake_bouquet_meta_mommy_mini/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w10",
@@ -5259,10 +5881,21 @@
       "Serve warm and top with a fried egg and more green onions. Enjoy!"
     ],
     "tags": [
+      "main",
       "pork"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 10,
+        "year": 2025,
+        "date": "2025-03-09",
+        "theme": "Rice",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1j6ytkf/week_10_rice_filipino_adobo_fried_rice_meta/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w11",
@@ -5395,10 +6028,21 @@
       "Cover leftover cake tightly and store in the refrigerator for up to 5 days. I like using a cake carrier for storing and transporting."
     ],
     "tags": [
+      "baked",
       "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 11,
+        "year": 2025,
+        "date": "2025-03-17",
+        "theme": "Dust it Off",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1jdjjja/week_11_dust_it_off_chocolate_cake_meta_mommy/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w11",
@@ -5500,10 +6144,22 @@
       "Bake for 15-20 minutes, then broil for a few minutes to get the breadcrumbs golden."
     ],
     "tags": [
-      "chicken"
+      "baked",
+      "main",
+      "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 11,
+        "year": 2025,
+        "date": "2025-03-17",
+        "theme": "Nostalgic",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1jd38yw/week_11_nostalgic_baked_macaroni_and_cheese_meta/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w12",
@@ -5631,10 +6287,21 @@
     ],
     "tags": [
       "baked",
-      "vegetarian"
+      "breakfast",
+      "quick"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 12,
+        "year": 2025,
+        "date": "2025-03-31",
+        "theme": "Fast and Furious",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1jnw77l/week_12_fast_and_furious_apple_zucchini_muffins/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w12",
@@ -5746,10 +6413,22 @@
       "Slice steaks against the grain ¼\" thick and transfer to a platter. Top with most of kachumber; serve remaining kachumber alongside."
     ],
     "tags": [
-      "beef"
+      "beef",
+      "grilled",
+      "main"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 12,
+        "year": 2025,
+        "date": "2025-03-24",
+        "theme": "Tanzanian",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1jih20q/week_12_tanzanian_mishkakistyle_strip_steak_with/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w13",
@@ -5826,10 +6505,21 @@
       "Let cookies cool on a baking sheet for 15 minutes before transferring onto a cooling rack to cool more. As cookies cool, you will see delicious grooves covering chocolate chips like a blanket appearing."
     ],
     "tags": [
+      "baked",
       "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 13,
+        "year": 2025,
+        "date": "2025-04-06",
+        "theme": "Low Sugar",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1jsosf7/week_13_low_sugar_chocolate_chip_cookies_meta/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w13",
@@ -5886,10 +6576,21 @@
     ],
     "tags": [
       "italian",
+      "main",
       "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 13,
+        "year": 2025,
+        "date": "2025-03-31",
+        "theme": "Homemade Pasta",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1jnw5wj/week_13_homemade_pasta_hidden_veggie_fettuccine/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w14",
@@ -5910,11 +6611,20 @@
     "ingredients": [],
     "steps": [],
     "tags": [
-      "dessert",
-      "baked"
+      "dessert"
     ],
     "notes": "Comment only expresses anticipation about cutting into the cake — no recipe or ingredient list was posted.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 14,
+        "year": 2025,
+        "date": "2025-04-08",
+        "theme": "Inspired by a Game",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1ju4zlm/week_14_inspired_by_a_game_stardew_valley_pink/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w14",
@@ -5992,10 +6702,22 @@
       "Slice the steak against the grain, then drizzle with more of the butter and garlic . Serve and enjoy."
     ],
     "tags": [
-      "beef"
+      "beef",
+      "grilled",
+      "main"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 14,
+        "year": 2025,
+        "date": "2025-04-08",
+        "theme": "DINOSAURS",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1ju4x72/week_14_dinosaurs_tomahawk_steak_mashed_potato/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w15",
@@ -6129,10 +6851,22 @@
       "Preheat oven to 350 degrees. Bake for about 18 to 20 minutes, or until lightly golden brown. Allow to cool. Serve with hot chocolate or coffee. "
     ],
     "tags": [
-      "vegetarian"
+      "baked",
+      "bread",
+      "mexican"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 15,
+        "year": 2025,
+        "date": "2025-04-19",
+        "theme": "Longitude",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1k2o2ol/week_15_longitude_mexican_pan_dulce_meta_mommy/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w15",
@@ -6275,10 +7009,21 @@
     ],
     "tags": [
       "beef",
+      "main",
       "mexican"
     ],
     "notes": "servings estimated",
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 15,
+        "year": 2025,
+        "date": "2025-04-14",
+        "theme": "Puerto Rican",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1jyonyh/week_15_puerto_rican_tacos_and_toddler_tacos_meta/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w16",
@@ -6384,10 +7129,21 @@
     ],
     "tags": [
       "japanese",
+      "side",
       "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 16,
+        "year": 2025,
+        "date": "2025-04-23",
+        "theme": "Battered",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1k5q583/week_16_battered_tempura_veggies_meta_mindful/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w17",
@@ -6512,10 +7268,21 @@
       "Keep uneaten cookies in an airtight container at room temperature."
     ],
     "tags": [
+      "baked",
       "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 17,
+        "year": 2025,
+        "date": "2025-05-01",
+        "theme": "Subreddit Baking",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1kcdtsb/week_17_subreddit_baking_spacethemed_cookies_meta/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w17",
@@ -6535,9 +7302,22 @@
     "servings": 0,
     "ingredients": [],
     "steps": [],
-    "tags": [],
+    "tags": [
+      "beef",
+      "main"
+    ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 17,
+        "year": 2025,
+        "date": "2025-04-29",
+        "theme": "On Sale",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1kaeukh/week_17_on_sale_tritip_rice_bowl_meta_mindful/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w18",
@@ -6603,10 +7383,22 @@
       "Heat oil in a wok or a large skillet over medium-high heat. Add garlic and ginger; cook and stir for about 30 seconds. Add cabbage and chile pepper; stir quickly, mixing in garlic and ginger. Stir-fry until cabbage becomes translucent and volume is reduced by half, but without it losing texture, 3 to 4 minutes. Stir in rice vinegar and season with salt."
     ],
     "tags": [
-      "chicken"
+      "chicken",
+      "main",
+      "spicy"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 18,
+        "year": 2025,
+        "date": "2025-05-06",
+        "theme": "Taiwanese",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1kfump2/week_18_taiwanese_three_cup_chicken_stirfried/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w18",
@@ -6708,10 +7500,21 @@
       "Enjoy!"
     ],
     "tags": [
-      "vegetarian"
+      "baked",
+      "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 18,
+        "year": 2025,
+        "date": "2025-05-02",
+        "theme": "Polarity Baking 1",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1kcu5e1/week_18_polarity_baking_1_strawberry_and/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w19",
@@ -6754,7 +7557,17 @@
       "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 19,
+        "year": 2025,
+        "date": "2025-05-17",
+        "theme": "1970s",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1koipkh/week_19_1970s_jello_poke_cake_meta_mommy_mini_chef/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w19",
@@ -6893,12 +7706,21 @@
       "Sprinkle with the chopped cilantro and serve."
     ],
     "tags": [
-      "chicken",
       "pork",
       "soup"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 19,
+        "year": 2025,
+        "date": "2025-05-12",
+        "theme": "Tempering",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1kkkmcp/week_19_tempering_spanish_potato_soup_meta/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w20",
@@ -6983,82 +7805,23 @@
       "Bake for 35 minutes, allow bread to cool for several minutes."
     ],
     "tags": [
-      "bread"
+      "baked",
+      "bread",
+      "spicy",
+      "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
-  },
-  {
-    "id": "wc-2025-w20",
-    "week": 20,
-    "year": 2025,
-    "date": "2025-05-20",
-    "theme": "Lemons and Limes",
-    "title": "Week 20: Lemons and Limes - Carne Asada Tacos (Meta: Mindful Meals)",
-    "dish": "Carne Asada Tacos",
-    "subreddit": "52weeksofcooking",
-    "track": "Mindful Meals",
-    "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1kqum0r/week_20_lemons_and_limes_carne_asada_tacos_meta/",
-    "sourceUrl": "https://cookieandkate.com/fresh-pineapple-salsa-recipe/",
-    "description": "This fresh pineapple salsa recipe will be a big hit at your next party!",
-    "image": "images/carne-asada-tacos-wc-2025-w20.webp",
-    "gallery": [],
-    "servings": 3,
-    "ingredients": [
+    "photoOnly": false,
+    "postings": [
       {
-        "qty": 3.0,
-        "unit": "cup",
-        "item": "diced fresh pineapple",
-        "note": "about 1 medium"
-      },
-      {
-        "qty": 1.0,
-        "unit": null,
-        "item": "red bell pepper",
-        "note": "chopped"
-      },
-      {
-        "qty": 0.5,
-        "unit": "cup",
-        "item": "chopped red onion",
-        "note": "about ½ small onion"
-      },
-      {
-        "qty": 0.25,
-        "unit": "cup",
-        "item": "chopped fresh cilantro",
-        "note": null
-      },
-      {
-        "qty": 1.0,
-        "unit": null,
-        "item": "medium jalapeño*",
-        "note": "seeds and ribs removed, finely chopped"
-      },
-      {
-        "qty": 3.0,
-        "unit": "tbsp",
-        "item": "lime juice (from about 1 ½ limes)",
-        "note": "or more if needed"
-      },
-      {
-        "qty": 0.25,
-        "unit": "tsp",
-        "item": "fine sea salt",
-        "note": null
+        "week": 20,
+        "year": 2025,
+        "date": "2025-05-20",
+        "theme": "With a Bite",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1kqujzj/week_20_with_a_bite_jalapeño_cheddar_cheese_bread/"
       }
-    ],
-    "steps": [
-      "In a medium serving bowl, combine the pineapple, bell pepper, onion, cilantro, and jalapeño. Add the lime juice and salt, and stir to combine.",
-      "Season to taste with additional lime juice (for zing) and/or salt (for more overall flavor) if it doesn’t taste amazing just yet.",
-      "For best flavor, let the pico de gallo rest for 10 minutes or longer before serving. It’s best served fresh but keeps well, chilled, for up to 4 days."
-    ],
-    "tags": [
-      "beef",
-      "mexican"
-    ],
-    "notes": null,
-    "photoOnly": false
+    ]
   },
   {
     "id": "wc-2025-w21",
@@ -7079,10 +7842,22 @@
     "ingredients": [],
     "steps": [],
     "tags": [
-      "beef"
+      "beef",
+      "grilled",
+      "main"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 21,
+        "year": 2025,
+        "date": "2025-05-27",
+        "theme": "New York City",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1kwe8hq/week_21_new_york_city_new_york_steak_meta_mindful/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w21",
@@ -7214,10 +7989,21 @@
       "Pipe dollops in 8 to 10 places around the top edge of the cake. Garnish with more sprinkles if you like."
     ],
     "tags": [
+      "baked",
       "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 21,
+        "year": 2025,
+        "date": "2025-05-25",
+        "theme": "Easy Showstopper",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1kvae55/week_21_easy_showstopper_funfetti_birthday_cake/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w22",
@@ -7310,10 +8096,21 @@
       "Let this cool down for a few minutes, then top with custard or ice cream and enjoy!"
     ],
     "tags": [
+      "baked",
       "dessert"
     ],
     "notes": "servings estimated",
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 22,
+        "year": 2025,
+        "date": "2025-06-05",
+        "theme": "Vegan",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1l3p25e/week_22_vegan_apple_crumble_meta_mommy_mini_chef/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w22",
@@ -7394,10 +8191,21 @@
       "Pickle spears will be lightly pickled in 2 days, but their best flavor will start to develop around day 5 or 6. Pickle chips will be lightly pickled in 1 day, and will become more flavorful every day after that. Store in the fridge for several weeks."
     ],
     "tags": [
-      "beef"
+      "beef",
+      "main"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 22,
+        "year": 2025,
+        "date": "2025-06-03",
+        "theme": "Pickling",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1l21nsl/week_22_pickling_baby_you_can_chive_my_car_burger/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w23",
@@ -7457,7 +8265,17 @@
       "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 23,
+        "year": 2025,
+        "date": "2025-06-15",
+        "theme": "Philippines",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1lbruss/week_23_philippines_ube_ice_cream_meta_mommy_mini/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w23",
@@ -7514,10 +8332,21 @@
     ],
     "tags": [
       "italian",
+      "main",
       "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 23,
+        "year": 2025,
+        "date": "2025-06-11",
+        "theme": "Oregano",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1l8icwq/week_23_oregano_homemade_pasta_with_garlic_and/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w24",
@@ -7668,10 +8497,21 @@
       "Uneaten cheesecake can be stored, covered, in the fridge for 3 or 4 days or in the freezer, tightly wrapped, for about a month."
     ],
     "tags": [
+      "baked",
       "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 24,
+        "year": 2025,
+        "date": "2025-06-22",
+        "theme": "Sour",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1lhe6qn/week_24_sour_blackberry_cheesecake_meta_mommy/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w24",
@@ -7692,10 +8532,22 @@
     "ingredients": [],
     "steps": [],
     "tags": [
-      "grill"
+      "grilled",
+      "side",
+      "vegetarian"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 24,
+        "year": 2025,
+        "date": "2025-06-17",
+        "theme": "Pride",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1ldc0ct/week_24_pride_rainbow_skewers_meta_mindful_meals/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w25",
@@ -7710,7 +8562,7 @@
     "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1llxi5k/week_25_elements_pokemon_cupcakes_meta_mommy_mini/",
     "sourceUrl": "https://sallysbakingaddiction.com/confetti-cupcakes/",
     "description": "These soft and fluffy confetti cupcakes are above standard; taking everything you love about professional bakery cupcakes and converting them into a homemade re",
-    "image": "images/placeholder.webp",
+    "image": "images/pokemon-cupcakes-wb-2025-w25.webp",
     "gallery": [],
     "servings": 14,
     "ingredients": [
@@ -7790,10 +8642,21 @@
       "Leftover cupcakes keep well covered tightly in the refrigerator for 3 days."
     ],
     "tags": [
+      "baked",
       "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 25,
+        "year": 2025,
+        "date": "2025-06-27",
+        "theme": "Elements",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1llxi5k/week_25_elements_pokemon_cupcakes_meta_mommy_mini/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w25",
@@ -7952,10 +8815,22 @@
     ],
     "tags": [
       "chicken",
-      "japanese"
+      "japanese",
+      "soup",
+      "spicy"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 25,
+        "year": 2025,
+        "date": "2025-06-24",
+        "theme": "Boiling",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1lizyjg/week_25_boiling_ramen_meta_mindful_meals/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w26",
@@ -8060,10 +8935,21 @@
       "Allow the glaze to harden, and then your homemade Timbits are ready to be enjoyed. Serve them fresh and warm."
     ],
     "tags": [
-      "vegetarian"
+      "baked",
+      "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 26,
+        "year": 2025,
+        "date": "2025-07-06",
+        "theme": "Canada",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1lsqslr/week_26_canada_failed_timbits_meta_mommy_mini_chef/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w26",
@@ -8084,11 +8970,20 @@
     "ingredients": [],
     "steps": [],
     "tags": [
-      "sauce",
-      "quick"
+      "sauce"
     ],
     "notes": "Comment is a narrative about pivoting the meal plan — no recipe or ingredient list was posted.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 26,
+        "year": 2025,
+        "date": "2025-07-01",
+        "theme": "Secret Weapon",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1loqlml/week_26_secret_weapon_sauce_meta_mindful_meals/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w27",
@@ -8133,118 +9028,22 @@
       "Bake in the preheated oven until golden brown, 15 to 19 minutes. Remove from cookie sheet immediately; serve warm."
     ],
     "tags": [
-      "bread"
+      "baked",
+      "main",
+      "turkey"
     ],
     "notes": null,
-    "photoOnly": false
-  },
-  {
-    "id": "wc-2025-w27",
-    "week": 27,
-    "year": 2025,
-    "date": "2025-07-06",
-    "theme": "Ugly Delicious",
-    "title": "Week 27: Ugly Delicious - Sloppy Joes (Meta: Mindful Meals)",
-    "dish": "Sloppy Joes",
-    "subreddit": "52weeksofcooking",
-    "track": "Mindful Meals",
-    "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1lsqtnj/week_27_ugly_delicious_sloppy_joes_meta_mindful/",
-    "sourceUrl": "https://natashaskitchen.com/sloppy-joe-recipe/",
-    "description": "The BEST recipe for a homemade Sloppy Joe!",
-    "image": "images/sloppy-joes-wc-2025-w27.webp",
-    "gallery": [],
-    "servings": 5,
-    "ingredients": [
+    "photoOnly": false,
+    "postings": [
       {
-        "qty": 15.0,
-        "unit": "oz",
-        "item": "can tomato sauce",
-        "note": null
-      },
-      {
-        "qty": 0.25,
-        "unit": "cup",
-        "item": "ketchup*",
-        "note": null
-      },
-      {
-        "qty": 1.0,
-        "unit": "tbsp",
-        "item": "Worcestershire sauce",
-        "note": null
-      },
-      {
-        "qty": 1.5,
-        "unit": "tsp",
-        "item": "yellow mustard",
-        "note": "or to taste"
-      },
-      {
-        "qty": 2.0,
-        "unit": "tsp",
-        "item": "brown sugar",
-        "note": "or to taste*"
-      },
-      {
-        "qty": 1.0,
-        "unit": "tbsp",
-        "item": "extra light olive oil",
-        "note": "or any high-heat cooking oil"
-      },
-      {
-        "qty": 1.0,
-        "unit": "lb",
-        "item": "lean ground beef",
-        "note": "85%-90% lean"
-      },
-      {
-        "qty": 0.5,
-        "unit": "tsp",
-        "item": "fine sea salt",
-        "note": "or to taste"
-      },
-      {
-        "qty": 0.25,
-        "unit": "tsp",
-        "item": "freshly ground black pepper",
-        "note": "or to taste"
-      },
-      {
-        "qty": 1.0,
-        "unit": null,
-        "item": "small onion",
-        "note": "finely chopped"
-      },
-      {
-        "qty": 0.5,
-        "unit": null,
-        "item": "small green bell pepper",
-        "note": "seeded and finely diced, or use 1/2 cup grated carrot"
-      },
-      {
-        "qty": 3.0,
-        "unit": null,
-        "item": "garlic cloves",
-        "note": "minced"
-      },
-      {
-        "qty": 5.0,
-        "unit": null,
-        "item": "hamburger buns",
-        "note": "toasted if desired"
+        "week": 27,
+        "year": 2025,
+        "date": "2025-07-18",
+        "theme": "Filled",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1m3g5z5/week_27_filled_turkey_and_cheese_crescent_rollups/"
       }
-    ],
-    "steps": [
-      "Make the Sauce - In a medium bowl, combine the tomato sauce, ketchup, Worcestershire sauce, mustard, and brown sugar, and set it aside.",
-      "Cook the Beef - Place a large skillet or dutch oven over medium/high heat. Add olive oil and ground beef. Saute the beef for about 5 minutes until cooked through and no longer pink, breaking it up with a spatula. If you see extra fat on the bottom, tilt the pan and spoon it out or blot it up with paper towels. Season with salt and pepper.",
-      "Add vegetables -  Stir in the diced peppers and onion. Cook another 5 minutes until the veggies are tender and beef is browned. Add garlic and saute 30 seconds until fragrant, stirring constantly.",
-      "Add the sauce and bring to a light boil. Reduce heat to low and simmer uncovered for about 10-15 minutes or until thickened to your liking. Adjust the seasoning taste* and add water if you prefer a looser consistency. Serve on toasted buns for Sloppy Joe Sandwiches."
-    ],
-    "tags": [
-      "beef"
-    ],
-    "notes": null,
-    "photoOnly": false
+    ]
   },
   {
     "id": "wb-2025-w28",
@@ -8307,10 +9106,20 @@
       "Cover and refrigerate for 4 - 6 hours, so that the wafers absorb the pudding mixture and soften. Serve immediately or keep refrigerated for up to 8 hours."
     ],
     "tags": [
-      "vegetarian"
+      "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 28,
+        "year": 2025,
+        "date": "2025-07-19",
+        "theme": "Sci-fi",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1m3ld9p/week_28_scifi_rimworld_nutrient_paste_meta_mommy/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w28",
@@ -8441,11 +9250,22 @@
     ],
     "tags": [
       "chicken",
+      "main",
       "mexican",
-      "main"
+      "spicy"
     ],
     "notes": "servings estimated; comment lists ingredients only (no exact quantities for most items, no explicit steps) since the family varies this chili year to year",
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 28,
+        "year": 2025,
+        "date": "2025-07-15",
+        "theme": "Hometown",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1m06t0k/week_28_hometown_fresno_pepper_chili_meta_mindful/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w29",
@@ -8548,10 +9368,21 @@
       "Store in an airtight container at room temperature for up to 5 days."
     ],
     "tags": [
+      "baked",
       "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 29,
+        "year": 2025,
+        "date": "2025-07-27",
+        "theme": "Favourite Ingredient",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1mauqlu/week_29_favourite_ingredient_chocolate_chip/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w29",
@@ -8626,11 +9457,22 @@
       "Gently toss to combine, then sprinkle with salt to taste."
     ],
     "tags": [
+      "quick",
       "salad",
       "vegetarian"
     ],
     "notes": "servings estimated",
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 29,
+        "year": 2025,
+        "date": "2025-07-19",
+        "theme": "Stone fruit",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1m3lind/week_29_stone_fruit_peach_salad_meta_mindful_meals/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w30",
@@ -8703,10 +9545,21 @@
       "Store leftovers in the refrigerator for up to 5 days."
     ],
     "tags": [
+      "baked",
       "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 30,
+        "year": 2025,
+        "date": "2025-07-31",
+        "theme": "Physically Leavened",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1mdsyk5/week_30_physically_leavened_angel_food_cupcakes/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w30",
@@ -8726,9 +9579,22 @@
     "servings": 0,
     "ingredients": [],
     "steps": [],
-    "tags": [],
+    "tags": [
+      "side",
+      "vegetarian"
+    ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 30,
+        "year": 2025,
+        "date": "2025-07-29",
+        "theme": "Monastic",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1mcnkup/week_30_monastic_fruit_and_cheese_plate_meta/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w31",
@@ -8865,10 +9731,21 @@
       "Sprinkle with powdered sugar, if desired."
     ],
     "tags": [
-      "vegetarian"
+      "baked",
+      "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 31,
+        "year": 2025,
+        "date": "2025-08-08",
+        "theme": "First Initial",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1mkjrqj/week_31_first_initial_raspberry_empanadas_meta/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w31",
@@ -9079,10 +9956,22 @@
       "Combine all ingredients in a small bowl."
     ],
     "tags": [
-      "pork"
+      "main",
+      "pork",
+      "spicy"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 31,
+        "year": 2025,
+        "date": "2025-08-05",
+        "theme": "Cambodian",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1mhz7qr/week_31_cambodian_num_pang_pulled_pork_banh_mi/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w32",
@@ -9213,11 +10102,21 @@
       "Heat oil in a heavy cast-iron pan or a nonstick pan on medium heat. Gently slide in 2~3 pancakes into the hot oil and cook for 2~3 minutes or until golden brown on one side. Carefully flip and cook the other side for 2~3 minutes until golden. Remove the pancakes onto paper towel lined plate. Cool for 1~2 minutes. Repeat with the remaining pancakes. Serve hot with peanut sauce and chopped tomato & red onions."
     ],
     "tags": [
-      "sauce",
+      "side",
       "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 32,
+        "year": 2025,
+        "date": "2025-08-18",
+        "theme": "Ecuador",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1mtabuu/week_32_ecuador_potato_pancakes_with_peanut_sauce/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w32",
@@ -9329,10 +10228,21 @@
     ],
     "tags": [
       "chicken",
+      "grilled",
       "salad"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 32,
+        "year": 2025,
+        "date": "2025-08-13",
+        "theme": "Dressed",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1mosskv/week_32_dressed_citrus_salad_and_baked_potato/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w33",
@@ -9492,10 +10402,21 @@
       "Enjoy!"
     ],
     "tags": [
+      "baked",
       "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 33,
+        "year": 2025,
+        "date": "2025-08-23",
+        "theme": "Caramelized",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1mxu3fe/week_33_caramelized_salted_caramel_biscoff/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w33",
@@ -9516,10 +10437,21 @@
     "ingredients": [],
     "steps": [],
     "tags": [
-      "italian"
+      "italian",
+      "main"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 33,
+        "year": 2025,
+        "date": "2025-08-20",
+        "theme": "Miniature",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1mv4exa/week_33_miniature_mini_pizza_meta_mindful_meals/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w34",
@@ -9621,10 +10553,20 @@
     ],
     "tags": [
       "baked",
-      "vegetarian"
+      "breakfast"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 34,
+        "year": 2025,
+        "date": "2025-09-02",
+        "theme": "Alternative Flour",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1n67vkn/week_34_alternative_flour_healthy_blueberry/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w34",
@@ -9693,10 +10635,21 @@
     ],
     "tags": [
       "beef",
-      "sauce"
+      "sauce",
+      "spicy"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 34,
+        "year": 2025,
+        "date": "2025-08-27",
+        "theme": "Peruvian",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1n137ae/week_34_peruvian_steak_with_aji_verde_sauce_meta/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w35",
@@ -9717,10 +10670,21 @@
     "ingredients": [],
     "steps": [],
     "tags": [
+      "main",
       "pork"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 35,
+        "year": 2025,
+        "date": "2025-09-03",
+        "theme": "Carving",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1n72vsc/week_35_carving_applewood_smoked_ham_meta_mindful/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w36",
@@ -9791,10 +10755,22 @@
       "Unwrap the bread from the aluminum foil and place on a wire rack to cool for about 5 minutes. Then place on a serving platter. Pull apart and enjoy!"
     ],
     "tags": [
-      "bread"
+      "baked",
+      "bread",
+      "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 36,
+        "year": 2025,
+        "date": "2025-09-17",
+        "theme": "Unfamiliar Ingredient",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1nj1exb/week_36_unfamiliar_ingredient_black_garlic_bread/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w36",
@@ -9901,10 +10877,23 @@
       "Remove from the oven and top with fresh basil."
     ],
     "tags": [
+      "baked",
+      "italian",
+      "main",
       "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 36,
+        "year": 2025,
+        "date": "2025-09-10",
+        "theme": "Eggplant",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1nd2x3t/week_36_eggplant_baked_eggplant_parmesan_meta/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w37",
@@ -9942,10 +10931,21 @@
       "Sprinkle with sugar and cinnamon mixture to taste and serve"
     ],
     "tags": [
-      "vegetarian"
+      "baked",
+      "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 37,
+        "year": 2025,
+        "date": "2025-09-17",
+        "theme": "Medieval",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1nj1gdw/week_37_medieval_baked_pears_meta_mommy_mini_chef/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w37",
@@ -10078,10 +11078,21 @@
     ],
     "tags": [
       "chicken",
-      "soup"
+      "soup",
+      "spicy"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 37,
+        "year": 2025,
+        "date": "2025-09-17",
+        "theme": "Northern",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1nj1dfu/week_37_northern_new_mexico_green_chile_chicken/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w38",
@@ -10138,10 +11149,21 @@
       "Cut into 12 squares."
     ],
     "tags": [
-      "vegetarian"
+      "dessert",
+      "quick"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 38,
+        "year": 2025,
+        "date": "2025-09-29",
+        "theme": "Pastel",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1nt7q70/week_38_pastel_fruity_pebbles_rice_crispy_treats/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w38",
@@ -10166,7 +11188,17 @@
       "main"
     ],
     "notes": "Comment describes a cooking mishap — no recipe or ingredient list was posted.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 38,
+        "year": 2025,
+        "date": "2025-09-24",
+        "theme": "Edible Lettering",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1np0phq/week_38_edible_lettering_failed_alphabet_alfredo/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w39",
@@ -10187,10 +11219,21 @@
     "ingredients": [],
     "steps": [],
     "tags": [
+      "baked",
       "bread"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 39,
+        "year": 2025,
+        "date": "2025-10-07",
+        "theme": "Braided",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1o033qx/week_39_braided_garlic_breadsticks_meta_mommy/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w39",
@@ -10273,10 +11316,22 @@
       "Garnish with some sesame seeds and serve hot with rice/pasta or noodles"
     ],
     "tags": [
-      "chicken"
+      "chicken",
+      "main",
+      "quick"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 39,
+        "year": 2025,
+        "date": "2025-10-02",
+        "theme": "Tamarind",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1nvqoyb/week_39_tamarind_tamarind_chicken_rice_bowl_meta/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w40",
@@ -10390,10 +11445,22 @@
       "Let the tarts cool completely or until lukewarm and enjoy! They are great on their own or with some hot tea."
     ],
     "tags": [
-      "vegetarian"
+      "baked",
+      "chinese",
+      "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 40,
+        "year": 2025,
+        "date": "2025-10-20",
+        "theme": "Mid-Autumn Festival",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1ob78tm/week_40_midautumn_festival_pineapple_moon_shaped/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w40",
@@ -10489,7 +11556,17 @@
       "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 40,
+        "year": 2025,
+        "date": "2025-10-07",
+        "theme": "Villains",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1o02p23/week_40_villains_hades_pomegranate_seed_salad/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w41",
@@ -10509,9 +11586,22 @@
     "servings": 0,
     "ingredients": [],
     "steps": [],
-    "tags": [],
+    "tags": [
+      "baked",
+      "main"
+    ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 41,
+        "year": 2025,
+        "date": "2025-10-26",
+        "theme": "Savory showstopper",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1ogp135/week_41_savory_showstopper_mini_mummy_dogs_meta/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w41",
@@ -10601,10 +11691,21 @@
       "Drain off all of the juices from the pan and return to the stove. Add back all of the steak and the onions and peppers. Place 7 provolone slices over the mixture in a circle and cover the pan. Cook on MEDIUM until cheese melts, about 4 to 5 minutes, then stir and use tongs to transfer to the toasted sandwich rolls."
     ],
     "tags": [
-      "vegetarian"
+      "beef",
+      "main"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 41,
+        "year": 2025,
+        "date": "2025-10-13",
+        "theme": "Toasting",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1o56ufp/week_41_toasting_philly_cheesesteak_meta_mindful/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w42",
@@ -10698,10 +11799,23 @@
       "Sprinkle with salt, and garnish with cilantro or parsley."
     ],
     "tags": [
-      "bread"
+      "baked",
+      "bread",
+      "indian",
+      "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 42,
+        "year": 2025,
+        "date": "2025-11-11",
+        "theme": "Diwali",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1otxtdo/week_42_diwali_garlic_naan_bread_meta_mommy_mini/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w42",
@@ -10744,11 +11858,21 @@
       "Dollop into serving bowl and serve with fresh fruit."
     ],
     "tags": [
-      "sauce",
-      "vegetarian"
+      "dessert",
+      "quick"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 42,
+        "year": 2025,
+        "date": "2025-10-21",
+        "theme": "Marshmallow",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1oc4tfk/week_42_marshmallow_marshmallow_fruit_dip_meta/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w43",
@@ -10764,7 +11888,9 @@
     "sourceUrl": "https://www.myforkinglife.com/baked-air-fryer-apples/",
     "description": "These delicious baked air fryer apples are the most perfect dessert to enjoy this fall.",
     "image": "images/baked-apples-wb-2025-w43.webp",
-    "gallery": [],
+    "gallery": [
+      "images/baked-apples-wc-2025-w45.webp"
+    ],
     "servings": 4,
     "ingredients": [
       {
@@ -10830,10 +11956,29 @@
       "Serve apples warm and top with vanilla ice cream or whipped cream. Enjoy :)"
     ],
     "tags": [
-      "vegetarian"
+      "baked",
+      "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 43,
+        "year": 2025,
+        "date": "2025-11-11",
+        "theme": "Polarity Baking 2",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1otxv8a/week_43_polarity_baking_2_baked_apples_meta_mommy/"
+      },
+      {
+        "week": 45,
+        "year": 2025,
+        "date": "2025-11-07",
+        "theme": "Apples",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1oqjzto/week_45_apples_baked_apples_meta_mindful_meals/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w43",
@@ -10922,11 +12067,22 @@
       "Serve with chips."
     ],
     "tags": [
-      "sauce",
+      "side",
+      "spicy",
       "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 43,
+        "year": 2025,
+        "date": "2025-10-26",
+        "theme": "Idioms",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1ogp6s3/week_43_idioms_spill_the_beans_bloody_bean_dip/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w44",
@@ -10947,10 +12103,20 @@
     "ingredients": [],
     "steps": [],
     "tags": [
-      "baked"
+      "breakfast"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 44,
+        "year": 2025,
+        "date": "2025-11-11",
+        "theme": "Celebrity Chef",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1otxwe2/week_44_celebrity_chef_gordon_ramsays_waffles/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w44",
@@ -11056,10 +12222,21 @@
     ],
     "tags": [
       "beef",
-      "central-asian"
+      "central-asian",
+      "main"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 44,
+        "year": 2025,
+        "date": "2025-11-05",
+        "theme": "Central Asian",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1oosqcf/week_44_central_asian_beef_plov_meta_mindful_meals/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w45",
@@ -11133,95 +12310,21 @@
       "Cook in microwave for 70-90 seconds* (until cake is just set, but still barely shiny on top). Allow to rest in microwave for 1 minute before consuming."
     ],
     "tags": [
-      "dessert"
+      "dessert",
+      "quick"
     ],
     "notes": null,
-    "photoOnly": false
-  },
-  {
-    "id": "wc-2025-w45",
-    "week": 45,
-    "year": 2025,
-    "date": "2025-11-07",
-    "theme": "Apples",
-    "title": "Week 45: Apples - Baked Apples (Meta: Mindful Meals)",
-    "dish": "Baked Apples",
-    "subreddit": "52weeksofcooking",
-    "track": "Mindful Meals",
-    "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1oqjzto/week_45_apples_baked_apples_meta_mindful_meals/",
-    "sourceUrl": "https://www.myforkinglife.com/baked-air-fryer-apples/",
-    "description": "These delicious baked air fryer apples are the most perfect dessert to enjoy this fall.",
-    "image": "images/baked-apples-wc-2025-w45.webp",
-    "gallery": [],
-    "servings": 4,
-    "ingredients": [
+    "photoOnly": false,
+    "postings": [
       {
-        "qty": 2.0,
-        "unit": null,
-        "item": "Honeycrisp apples",
-        "note": null
-      },
-      {
-        "qty": 4.0,
-        "unit": "tbsp",
-        "item": "unsalted butter",
-        "note": "softened"
-      },
-      {
-        "qty": 2.0,
-        "unit": "tbsp",
-        "item": "old fashioned oats",
-        "note": null
-      },
-      {
-        "qty": 2.0,
-        "unit": "tbsp",
-        "item": "packed light brown sugar",
-        "note": null
-      },
-      {
-        "qty": 2.0,
-        "unit": "tbsp",
-        "item": "chopped walnuts",
-        "note": null
-      },
-      {
-        "qty": 0.5,
-        "unit": "tsp",
-        "item": "ground cinnamon",
-        "note": null
-      },
-      {
-        "qty": 0.125,
-        "unit": "tsp",
-        "item": "nutmeg",
-        "note": null
-      },
-      {
-        "qty": null,
-        "unit": "pinch",
-        "item": "of salt",
-        "note": null
-      },
-      {
-        "qty": null,
-        "unit": null,
-        "item": "Vanilla ice cream or whipped cream",
-        "note": "for serving"
+        "week": 45,
+        "year": 2025,
+        "date": "2025-11-11",
+        "theme": "Steamed",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1otxx85/week_45_steamed_vanilla_mug_cake_meta_mommy_mini/"
       }
-    ],
-    "steps": [
-      "Cut apples in half from stem to bottom and use a paring knife, spoon, or melon scoop to remove the core, stem, and part of the inside to create a hollow opening. Set aside.",
-      "Combine butter, old fashioned oats, brown sugar, walnuts, cinnamon, nutmeg, and salt in a bowl and stir to combine.",
-      "Add mixture evenly into each apple half.",
-      "Air fry at 350°F (177°C) for 20–25 minutes, until the apples are softened and the oat mixture is toasty.",
-      "Serve apples warm and top with vanilla ice cream or whipped cream. Enjoy :)"
-    ],
-    "tags": [
-      "vegetarian"
-    ],
-    "notes": null,
-    "photoOnly": false
+    ]
   },
   {
     "id": "wb-2025-w46",
@@ -11241,9 +12344,22 @@
     "servings": 0,
     "ingredients": [],
     "steps": [],
-    "tags": [],
+    "tags": [
+      "dessert",
+      "italian"
+    ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 46,
+        "year": 2025,
+        "date": "2025-12-11",
+        "theme": "Italy",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1pjnhz1/week_46_italy_hot_chocolate_affogato_meta_mommy/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w46",
@@ -11263,9 +12379,22 @@
     "servings": 0,
     "ingredients": [],
     "steps": [],
-    "tags": [],
+    "tags": [
+      "side",
+      "vegetarian"
+    ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 46,
+        "year": 2025,
+        "date": "2025-11-18",
+        "theme": "Bitter",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1p029nx/week_46_bitter_brussels_sprouts_meta_mindful_meals/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w47",
@@ -11281,7 +12410,9 @@
     "sourceUrl": "https://rouxgirl.substack.com/p/tinis-famous-mac-and-cheese",
     "description": "A three-cheese baked mac and cheese (\"cheese with noods\") made with cavatappi and a creamy stovetop cheese sauce.",
     "image": "images/mac-and-cheese-wb-2025-w47.webp",
-    "gallery": [],
+    "gallery": [
+      "images/mac-and-cheese-wc-2025-w48.webp"
+    ],
     "servings": 4,
     "ingredients": [
       {
@@ -11375,10 +12506,29 @@
       "Broil 2 minutes until golden brown."
     ],
     "tags": [
+      "main",
       "vegetarian"
     ],
     "notes": "servings estimated",
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 47,
+        "year": 2025,
+        "date": "2025-12-11",
+        "theme": "Cheesy",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1pjniwd/week_47_cheesy_mac_and_cheese_meta_mommy_mini_chef/"
+      },
+      {
+        "week": 48,
+        "year": 2025,
+        "date": "2025-11-27",
+        "theme": "Mise en Place",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1p7rir5/week_48_mise_en_place_mac_and_cheese_meta_mindful/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w47",
@@ -11465,10 +12615,21 @@
     ],
     "tags": [
       "beef",
-      "seafood"
+      "grilled",
+      "main"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 47,
+        "year": 2025,
+        "date": "2025-11-26",
+        "theme": "Sister Cities",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1p6x9i2/week_47_sister_cities_ponzu_marinated_skirt_steak/"
+      }
+    ]
   },
   {
     "id": "wb-2025-w48",
@@ -11552,123 +12713,21 @@
       "Bake at 375 for 40 -45 minutes."
     ],
     "tags": [
-      "vegetarian"
+      "baked",
+      "dessert"
     ],
     "notes": null,
-    "photoOnly": false
-  },
-  {
-    "id": "wc-2025-w48",
-    "week": 48,
-    "year": 2025,
-    "date": "2025-11-27",
-    "theme": "Mise en Place",
-    "title": "Week 48: Mise en Place - Mac and Cheese (Meta: Mindful Meals)",
-    "dish": "Mac and Cheese",
-    "subreddit": "52weeksofcooking",
-    "track": "Mindful Meals",
-    "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1p7rir5/week_48_mise_en_place_mac_and_cheese_meta_mindful/",
-    "sourceUrl": "https://rouxgirl.substack.com/p/tinis-famous-mac-and-cheese",
-    "description": "A three-cheese baked mac and cheese (\"cheese with noods\") made with cavatappi and a creamy stovetop cheese sauce.",
-    "image": "images/mac-and-cheese-wc-2025-w48.webp",
-    "gallery": [],
-    "servings": 4,
-    "ingredients": [
+    "photoOnly": false,
+    "postings": [
       {
-        "qty": 1.0,
-        "unit": null,
-        "item": "lb. cavatappi pasta",
-        "note": "cooked"
-      },
-      {
-        "qty": 16.0,
-        "unit": "oz",
-        "item": "of mozzarella cheese",
-        "note": "grated"
-      },
-      {
-        "qty": 16.0,
-        "unit": "oz",
-        "item": "of Colby jack cheese",
-        "note": "grated"
-      },
-      {
-        "qty": 8.0,
-        "unit": "oz",
-        "item": "of cheddar cheese",
-        "note": "grated"
-      },
-      {
-        "qty": 1.0,
-        "unit": "tsp",
-        "item": "of garlic powder",
-        "note": null
-      },
-      {
-        "qty": 1.0,
-        "unit": "tsp",
-        "item": "of smoked paprika",
-        "note": null
-      },
-      {
-        "qty": 0.5,
-        "unit": "tsp",
-        "item": "of salt",
-        "note": null
-      },
-      {
-        "qty": 0.5,
-        "unit": "tsp",
-        "item": "of pepper",
-        "note": null
-      },
-      {
-        "qty": 3.0,
-        "unit": "tbsp",
-        "item": "of butter",
-        "note": null
-      },
-      {
-        "qty": 3.0,
-        "unit": "tbsp",
-        "item": "of flour",
-        "note": null
-      },
-      {
-        "qty": 1.0,
-        "unit": "can",
-        "item": "Carnation Evaporated Milk",
-        "note": null
-      },
-      {
-        "qty": 2.0,
-        "unit": "cup",
-        "item": "heavy cream",
-        "note": null
-      },
-      {
-        "qty": 1.0,
-        "unit": "tbsp",
-        "item": "Dijon mustard",
-        "note": null
+        "week": 48,
+        "year": 2025,
+        "date": "2025-12-18",
+        "theme": "Inspired by a Fairy-tale",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1ppfquj/week_48_inspired_by_a_fairytale_apple_rose_puffed/"
       }
-    ],
-    "steps": [
-      "Preheat oven to 350°F and grease a 9 x 13 inch baking dish.",
-      "Cook cavatappi per package directions, drain and set aside.",
-      "Combine all three shredded cheeses; divide half into another bowl.",
-      "Mix garlic powder, paprika, salt, and pepper; divide in half.",
-      "Melt butter, add half the seasoning and flour to form a paste; whisk in evaporated milk, heavy cream, remaining seasoning, and mustard until thick; slowly add half the cheese.",
-      "Stir pasta into cheese sauce until coated.",
-      "Layer pasta and remaining cheese alternately in the baking dish.",
-      "Bake 25-30 minutes until bubbly.",
-      "Broil 2 minutes until golden brown."
-    ],
-    "tags": [
-      "vegetarian"
-    ],
-    "notes": "servings estimated",
-    "photoOnly": false
+    ]
   },
   {
     "id": "wb-2025-w49",
@@ -11730,7 +12789,17 @@
       "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 49,
+        "year": 2025,
+        "date": "2025-12-18",
+        "theme": "Victorian",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1ppft4h/week_49_victorian_trifle_meta_mommy_mini_chef/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w49",
@@ -11852,10 +12921,22 @@
       "Put the top of each sandwich in place, then enjoy!"
     ],
     "tags": [
-      "vegetarian"
+      "beef",
+      "main",
+      "spicy"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 49,
+        "year": 2025,
+        "date": "2025-12-10",
+        "theme": "The Beatles",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1piriaf/week_49_the_beatles_lucy_in_the_sky_with_onions/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w50",
@@ -11879,7 +12960,17 @@
       "dessert"
     ],
     "notes": "Comment is historical trivia about the dish's origins — no recipe or ingredient list was posted.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 50,
+        "year": 2025,
+        "date": "2025-12-17",
+        "theme": "Tudor",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1pol8vw/week_50_tudor_strawberries_and_cream_meta_mindful/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w51",
@@ -11900,10 +12991,22 @@
     "ingredients": [],
     "steps": [],
     "tags": [
-      "beef"
+      "beef",
+      "grilled",
+      "main"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 51,
+        "year": 2025,
+        "date": "2025-12-24",
+        "theme": "Grinding",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1pus14q/week_51_grinding_ground_beef_burger_meta_mindful/"
+      }
+    ]
   },
   {
     "id": "wc-2025-w52",
@@ -12046,10 +13149,22 @@
       "Slice open slider rolls (we used 2 per person). Put 2 heaping tablespoons of pulled chicken on each slider. Add a tablespoon of shredded cheese, then top with pickle chips and top bun.Serve and enjoy!"
     ],
     "tags": [
-      "chicken"
+      "chicken",
+      "main",
+      "quick"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 52,
+        "year": 2025,
+        "date": "2025-12-31",
+        "theme": "X, Y, and Z",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1q01t8n/week_52_x_y_and_z_zesty_italian_chicken_sliders/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w1",
@@ -12153,10 +13268,22 @@
     ],
     "tags": [
       "beef",
+      "italian",
+      "main",
       "pork"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 1,
+        "year": 2026,
+        "date": "2026-01-07",
+        "theme": "Inspired by a Joke",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1q64zxr/week_1_inspired_by_a_joke_where_did_the_spaghetti/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w2",
@@ -12176,9 +13303,22 @@
     "servings": 0,
     "ingredients": [],
     "steps": [],
-    "tags": [],
+    "tags": [
+      "grilled",
+      "main"
+    ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 2,
+        "year": 2026,
+        "date": "2026-01-14",
+        "theme": "Singaporean",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1qcbxfr/week_2_singaporean_satay/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w3",
@@ -12255,10 +13395,20 @@
     ],
     "tags": [
       "mexican",
-      "pork"
+      "sauce"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 3,
+        "year": 2026,
+        "date": "2026-01-21",
+        "theme": "Contrasts",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1qim6dn/week_3_contrasts_tacos_two_ways/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w4",
@@ -12426,10 +13576,22 @@
       "Add the sauce to the wok. Turn the heat to high."
     ],
     "tags": [
-      "chicken"
+      "chicken",
+      "chinese",
+      "main"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 4,
+        "year": 2026,
+        "date": "2026-01-28",
+        "theme": "Vinegar",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1qp0afm/week_4_vinegar_sweet_and_sour_chicken/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w5",
@@ -12454,7 +13616,17 @@
       "quick"
     ],
     "notes": "Comment describes a rolling mishap — no recipe or ingredient list was posted.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 5,
+        "year": 2026,
+        "date": "2026-02-04",
+        "theme": "Ugandan",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1qvcbys/week_5_ugandan_rolex/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w6",
@@ -12476,10 +13648,21 @@
     "steps": [],
     "tags": [
       "japanese",
-      "soup"
+      "soup",
+      "spicy"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 6,
+        "year": 2026,
+        "date": "2026-02-11",
+        "theme": "Hotpot",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1r1mufv/week_6_hotpot_spicy_miso_hot_pot/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w7",
@@ -12556,10 +13739,21 @@
       "Enjoy!"
     ],
     "tags": [
+      "baked",
       "bread"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 7,
+        "year": 2026,
+        "date": "2026-02-18",
+        "theme": "Sugar",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1r7qwu1/week_7_sugar_banana_bread/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w8",
@@ -12580,10 +13774,21 @@
     "ingredients": [],
     "steps": [],
     "tags": [
+      "main",
       "mexican"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 8,
+        "year": 2026,
+        "date": "2026-02-24",
+        "theme": "Flying",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1rd30c0/week_8_flying_flight_of_tacos/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w9",
@@ -12676,35 +13881,22 @@
       "Just before serving, drizzle over more juices and serve hot, stuffed in tacos (see notes for sides, other serving suggestion and storage/make ahead)."
     ],
     "tags": [
+      "main",
+      "mexican",
       "pork"
     ],
     "notes": null,
-    "photoOnly": false
-  },
-  {
-    "id": "wc-2026-w10",
-    "week": 10,
-    "year": 2026,
-    "date": "2026-03-10",
-    "theme": "Turnips and Radishes",
-    "title": "Week 10: Turnips and Radishes - Carne Asada Tacos",
-    "dish": "Carne Asada Tacos",
-    "subreddit": "52weeksofcooking",
-    "track": null,
-    "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1rpjuq5/week_10_turnips_and_radishes_carne_asada_tacos/",
-    "sourceUrl": null,
-    "description": "Carne Asada Tacos — a Turnips and Radishes week recipe.",
-    "image": "images/carne-asada-tacos-wc-2026-w10.webp",
-    "gallery": [],
-    "servings": 0,
-    "ingredients": [],
-    "steps": [],
-    "tags": [
-      "beef",
-      "mexican"
-    ],
-    "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 9,
+        "year": 2026,
+        "date": "2026-03-04",
+        "theme": "Braising",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1rkapl9/week_9_braising_carnitas/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w11",
@@ -12720,7 +13912,10 @@
     "sourceUrl": "https://natashaskitchen.com/sloppy-joe-recipe/",
     "description": "The BEST recipe for a homemade Sloppy Joe!",
     "image": "images/sloppy-joes-wc-2026-w11.webp",
-    "gallery": [],
+    "gallery": [
+      "images/sloppy-joe-wc-2024-w15.webp",
+      "images/sloppy-joes-wc-2025-w27.webp"
+    ],
     "servings": 5,
     "ingredients": [
       {
@@ -12809,10 +14004,38 @@
       "Add the sauce and bring to a light boil. Reduce heat to low and simmer uncovered for about 10-15 minutes or until thickened to your liking. Adjust the seasoning taste* and add water if you prefer a looser consistency. Serve on toasted buns for Sloppy Joe Sandwiches."
     ],
     "tags": [
-      "beef"
+      "beef",
+      "main",
+      "quick"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 15,
+        "year": 2024,
+        "date": "2024-04-15",
+        "theme": "Out of the Box",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1c4ces7/week_15_out_of_the_box_sloppy_joe/"
+      },
+      {
+        "week": 27,
+        "year": 2025,
+        "date": "2025-07-06",
+        "theme": "Ugly Delicious",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1lsqtnj/week_27_ugly_delicious_sloppy_joes_meta_mindful/"
+      },
+      {
+        "week": 11,
+        "year": 2026,
+        "date": "2026-03-18",
+        "theme": "Oddly Named",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1rwqpu6/week_11_oddly_named_sloppy_joes/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w12",
@@ -12837,7 +14060,17 @@
       "soup"
     ],
     "notes": "Comment is a personal reflection on the family movie tie-in — no recipe or ingredient list was posted.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 12,
+        "year": 2026,
+        "date": "2026-03-24",
+        "theme": "Fictional Places",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1s22rtp/week_12_fictional_places_ponyo_ramen/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w13",
@@ -12858,10 +14091,21 @@
     "ingredients": [],
     "steps": [],
     "tags": [
+      "main",
       "pork"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 13,
+        "year": 2026,
+        "date": "2026-04-01",
+        "theme": "Chilis",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1s9adw3/week_13_chilis_chilis_baby_back_ribs/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w14",
@@ -12882,11 +14126,21 @@
     "ingredients": [],
     "steps": [],
     "tags": [
-      "dessert",
-      "baked"
+      "baked",
+      "dessert"
     ],
     "notes": "Comment describes a baking mishap that ended in store-bought cupcakes — no recipe or ingredient list was posted.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 14,
+        "year": 2026,
+        "date": "2026-04-07",
+        "theme": "Hanami",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1sekmqw/week_14_hanami_cherry_blossom_cupcakes_fail/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w15",
@@ -12981,11 +14235,22 @@
     ],
     "tags": [
       "chicken",
-      "grill",
+      "grilled",
+      "main",
       "middle-eastern"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 15,
+        "year": 2026,
+        "date": "2026-04-15",
+        "theme": "Syrian",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1slv9yx/week_15_syrian_shish_taouk_syrian_chicken_skewers/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w16",
@@ -13062,7 +14327,17 @@
       "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 16,
+        "year": 2026,
+        "date": "2026-04-22",
+        "theme": "Infused",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1ss9r1v/week_16_infused_parsley_infused_olive_oil/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w17",
@@ -13127,10 +14402,21 @@
       "Transfer to rack set over tray in a 120°C/250°F oven until ready to serve."
     ],
     "tags": [
+      "side",
       "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 17,
+        "year": 2026,
+        "date": "2026-04-29",
+        "theme": "Alpine",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1syn5v4/week_17_alpine_potato_rosti/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w18",
@@ -13226,11 +14512,22 @@
       "Top with sesame seeds, green onions and a bit more Sriracha if desired."
     ],
     "tags": [
-      "chicken",
-      "japanese"
+      "japanese",
+      "soup",
+      "spicy"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 18,
+        "year": 2026,
+        "date": "2026-05-06",
+        "theme": "Bucket List Destination",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1t514zl/week_18_bucket_list_destination_spicy_ramen_japan/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w19",
@@ -13251,10 +14548,21 @@
     "ingredients": [],
     "steps": [],
     "tags": [
-      "italian"
+      "italian",
+      "main"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 19,
+        "year": 2026,
+        "date": "2026-05-13",
+        "theme": "Tricolor",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1tbm1e7/week_19_tricolor_tortellini/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w20",
@@ -13308,35 +14616,132 @@
       "Repeat twice, ending with the jello mixture. Add a dollop of whipped topping on top. Serve and enjoy!"
     ],
     "tags": [
-      "dessert"
+      "dessert",
+      "quick"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 20,
+        "year": 2026,
+        "date": "2026-05-20",
+        "theme": "Jams and Jellies",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1ti90sz/week_20_jams_and_jellies_jello_cloud_mousse/"
+      }
+    ]
   },
   {
-    "id": "wc-2026-w21",
+    "id": "wc-2025-w20",
     "week": 21,
     "year": 2026,
     "date": "2026-05-27",
     "theme": "Symmetry",
-    "title": "Week 21: Symmetry - Carne Asada Tacos",
+    "title": "Week 20: Lemons and Limes - Carne Asada Tacos (Meta: Mindful Meals)",
     "dish": "Carne Asada Tacos",
     "subreddit": "52weeksofcooking",
-    "track": null,
+    "track": "Mindful Meals",
     "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1tosn7b/week_21_symmetry_carne_asada_tacos/",
-    "sourceUrl": null,
-    "description": "Carne Asada Tacos — a Symmetry week recipe.",
-    "image": "images/carne-asada-tacos-wc-2026-w21.webp",
-    "gallery": [],
-    "servings": 0,
-    "ingredients": [],
-    "steps": [],
+    "sourceUrl": "https://cookieandkate.com/fresh-pineapple-salsa-recipe/",
+    "description": "This fresh pineapple salsa recipe will be a big hit at your next party!",
+    "image": "images/carne-asada-tacos-wc-2025-w20.webp",
+    "gallery": [
+      "images/carne-asada-tacos-wc-2024-w22.webp",
+      "images/carne-asada-tacos-wc-2026-w10.webp",
+      "images/carne-asada-tacos-wc-2026-w21.webp"
+    ],
+    "servings": 3,
+    "ingredients": [
+      {
+        "qty": 3.0,
+        "unit": "cup",
+        "item": "diced fresh pineapple",
+        "note": "about 1 medium"
+      },
+      {
+        "qty": 1.0,
+        "unit": null,
+        "item": "red bell pepper",
+        "note": "chopped"
+      },
+      {
+        "qty": 0.5,
+        "unit": "cup",
+        "item": "chopped red onion",
+        "note": "about ½ small onion"
+      },
+      {
+        "qty": 0.25,
+        "unit": "cup",
+        "item": "chopped fresh cilantro",
+        "note": null
+      },
+      {
+        "qty": 1.0,
+        "unit": null,
+        "item": "medium jalapeño*",
+        "note": "seeds and ribs removed, finely chopped"
+      },
+      {
+        "qty": 3.0,
+        "unit": "tbsp",
+        "item": "lime juice (from about 1 ½ limes)",
+        "note": "or more if needed"
+      },
+      {
+        "qty": 0.25,
+        "unit": "tsp",
+        "item": "fine sea salt",
+        "note": null
+      }
+    ],
+    "steps": [
+      "In a medium serving bowl, combine the pineapple, bell pepper, onion, cilantro, and jalapeño. Add the lime juice and salt, and stir to combine.",
+      "Season to taste with additional lime juice (for zing) and/or salt (for more overall flavor) if it doesn’t taste amazing just yet.",
+      "For best flavor, let the pico de gallo rest for 10 minutes or longer before serving. It’s best served fresh but keeps well, chilled, for up to 4 days."
+    ],
     "tags": [
       "beef",
+      "main",
       "mexican"
     ],
-    "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "notes": null,
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 22,
+        "year": 2024,
+        "date": "2024-06-03",
+        "theme": "Yucatecan",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1d6v1e1/week_22_yucatecan_carne_asada_tacos/"
+      },
+      {
+        "week": 20,
+        "year": 2025,
+        "date": "2025-05-20",
+        "theme": "Lemons and Limes",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1kqum0r/week_20_lemons_and_limes_carne_asada_tacos_meta/"
+      },
+      {
+        "week": 10,
+        "year": 2026,
+        "date": "2026-03-10",
+        "theme": "Turnips and Radishes",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1rpjuq5/week_10_turnips_and_radishes_carne_asada_tacos/"
+      },
+      {
+        "week": 21,
+        "year": 2026,
+        "date": "2026-05-27",
+        "theme": "Symmetry",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1tosn7b/week_21_symmetry_carne_asada_tacos/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w22",
@@ -13356,9 +14761,23 @@
     "servings": 0,
     "ingredients": [],
     "steps": [],
-    "tags": [],
+    "tags": [
+      "beef",
+      "main",
+      "quick"
+    ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 22,
+        "year": 2026,
+        "date": "2026-06-03",
+        "theme": "15 Minutes or Less",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1tvduq4/week_22_15_minutes_or_less_cheeseburger_sliders/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w23",
@@ -13382,7 +14801,17 @@
       "dessert"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 23,
+        "year": 2026,
+        "date": "2026-06-10",
+        "theme": "Coffee",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1u1t7ep/week_23_coffee_coffee_ice_cream/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w24",
@@ -13475,10 +14904,21 @@
       "Serve them dusted with sugar alongside honey, maple syrup or chocolate sauce."
     ],
     "tags": [
-      "vegetarian"
+      "breakfast",
+      "quick"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 24,
+        "year": 2026,
+        "date": "2026-06-16",
+        "theme": "Tarot",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1u7nr5z/week_24_tarot_the_tower/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w25",
@@ -13561,10 +15001,21 @@
       "Bake for 35-45 minutes or until crust is golden brown and inside peach filling is bubbling."
     ],
     "tags": [
+      "baked",
       "dessert"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 25,
+        "year": 2026,
+        "date": "2026-06-24",
+        "theme": "Gardening",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1ue0tce/week_25_gardening_peach_pie/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w26",
@@ -13662,12 +15113,22 @@
       "Pour vinaigrette over beans, add cilantro, and stir well. Cover and let chill at least 30 minutes and up to over night. Right before serving, add avocados and fold gently, being careful not to mash. Garnish with more chopped cilantro if desired. Serve at room temperature."
     ],
     "tags": [
+      "mexican",
       "salad",
-      "sauce",
       "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 26,
+        "year": 2026,
+        "date": "2026-06-28",
+        "theme": "High-Fiber",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1uhlesh/week_26_highfiber_black_bean_salad_with_lime/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w27",
@@ -13792,10 +15253,22 @@
     ],
     "tags": [
       "chicken",
-      "mexican"
+      "main",
+      "mexican",
+      "spicy"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 27,
+        "year": 2026,
+        "date": "2026-07-04",
+        "theme": "World Cup",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1umzmui/week_27_world_cup_chicken_fajitas/"
+      }
+    ]
   },
   {
     "id": "wc-2026-w28",
@@ -13878,10 +15351,23 @@
       "Allow to cool for 15-20 minutes in the pan before cutting into squares and serving. Serve with butter and honey if desired. Store in airtight container at room temperature up to 3 days or in the fridge for 1 week."
     ],
     "tags": [
+      "baked",
+      "bread",
+      "side",
       "vegetarian"
     ],
     "notes": null,
-    "photoOnly": false
+    "photoOnly": false,
+    "postings": [
+      {
+        "week": 28,
+        "year": 2026,
+        "date": "2026-07-15",
+        "theme": "Wild West",
+        "subreddit": "52weeksofcooking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofcooking/comments/1uwt4j3/week_28_wild_west_cornbread_and_baked_beans/"
+      }
+    ]
   },
   {
     "id": "wb-2026-w50",
@@ -13901,9 +15387,21 @@
     "servings": 0,
     "ingredients": [],
     "steps": [],
-    "tags": [],
+    "tags": [
+      "dessert"
+    ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 50,
+        "year": 2026,
+        "date": "2026-01-03",
+        "theme": "Windows and Glass",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1q2j0xp/week_50_windows_and_glass_gingerbread_house_meta/"
+      }
+    ]
   },
   {
     "id": "wb-2026-w51",
@@ -13924,10 +15422,22 @@
     "ingredients": [],
     "steps": [],
     "tags": [
-      "bread"
+      "baked",
+      "bread",
+      "breakfast"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 51,
+        "year": 2026,
+        "date": "2026-01-03",
+        "theme": "Yule",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1q2j21h/week_51_yule_cinnamon_rolls_meta_mommy_mini_chef/"
+      }
+    ]
   },
   {
     "id": "wb-2026-w52",
@@ -13948,9 +15458,20 @@
     "ingredients": [],
     "steps": [],
     "tags": [
+      "baked",
       "dessert"
     ],
     "notes": "Photo only — see the original Reddit post.",
-    "photoOnly": true
+    "photoOnly": true,
+    "postings": [
+      {
+        "week": 52,
+        "year": 2026,
+        "date": "2026-01-03",
+        "theme": "Favorite Bake",
+        "subreddit": "52weeksofbaking",
+        "redditUrl": "https://www.reddit.com/r/52weeksofbaking/comments/1q2j3mk/week_52_favorite_bake_chocolate_brownies_meta/"
+      }
+    ]
   }
 ]

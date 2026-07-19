@@ -1,0 +1,774 @@
+{
+  "wb-2025-w1": [
+    "bread",
+    "beef",
+    "main"
+  ],
+  "wb-2025-w10": [
+    "dessert",
+    "baked"
+  ],
+  "wb-2025-w11": [
+    "dessert",
+    "baked"
+  ],
+  "wb-2025-w12": [
+    "breakfast",
+    "baked",
+    "quick"
+  ],
+  "wb-2025-w13": [
+    "dessert",
+    "baked"
+  ],
+  "wb-2025-w14": [
+    "dessert"
+  ],
+  "wb-2025-w15": [
+    "mexican",
+    "bread",
+    "baked"
+  ],
+  "wb-2025-w17": [
+    "dessert",
+    "baked"
+  ],
+  "wb-2025-w18": [
+    "dessert",
+    "baked"
+  ],
+  "wb-2025-w19": [
+    "dessert"
+  ],
+  "wb-2025-w2": [
+    "italian",
+    "vegetarian",
+    "main",
+    "baked"
+  ],
+  "wb-2025-w20": [
+    "bread",
+    "spicy",
+    "vegetarian",
+    "baked"
+  ],
+  "wb-2025-w21": [
+    "dessert",
+    "baked"
+  ],
+  "wb-2025-w22": [
+    "dessert",
+    "baked"
+  ],
+  "wb-2025-w23": [
+    "dessert"
+  ],
+  "wb-2025-w24": [
+    "dessert",
+    "baked"
+  ],
+  "wb-2025-w25": [
+    "dessert",
+    "baked"
+  ],
+  "wb-2025-w26": [
+    "dessert",
+    "baked"
+  ],
+  "wb-2025-w27": [
+    "turkey",
+    "main",
+    "baked"
+  ],
+  "wb-2025-w28": [
+    "dessert"
+  ],
+  "wb-2025-w29": [
+    "dessert",
+    "baked"
+  ],
+  "wb-2025-w3": [
+    "dessert",
+    "baked"
+  ],
+  "wb-2025-w30": [
+    "dessert",
+    "baked"
+  ],
+  "wb-2025-w31": [
+    "dessert",
+    "baked"
+  ],
+  "wb-2025-w32": [
+    "vegetarian",
+    "side"
+  ],
+  "wb-2025-w33": [
+    "dessert",
+    "baked"
+  ],
+  "wb-2025-w34": [
+    "breakfast",
+    "baked"
+  ],
+  "wb-2025-w36": [
+    "bread",
+    "vegetarian",
+    "baked"
+  ],
+  "wb-2025-w37": [
+    "dessert",
+    "baked"
+  ],
+  "wb-2025-w38": [
+    "dessert",
+    "quick"
+  ],
+  "wb-2025-w39": [
+    "bread",
+    "baked"
+  ],
+  "wb-2025-w4": [
+    "bread",
+    "chinese",
+    "baked"
+  ],
+  "wb-2025-w40": [
+    "dessert",
+    "chinese",
+    "baked"
+  ],
+  "wb-2025-w41": [
+    "main",
+    "baked"
+  ],
+  "wb-2025-w42": [
+    "bread",
+    "indian",
+    "vegetarian",
+    "baked"
+  ],
+  "wb-2025-w43": [
+    "dessert",
+    "baked"
+  ],
+  "wb-2025-w44": [
+    "breakfast"
+  ],
+  "wb-2025-w45": [
+    "dessert",
+    "quick"
+  ],
+  "wb-2025-w46": [
+    "dessert",
+    "italian"
+  ],
+  "wb-2025-w47": [
+    "vegetarian",
+    "main"
+  ],
+  "wb-2025-w48": [
+    "dessert",
+    "baked"
+  ],
+  "wb-2025-w49": [
+    "dessert"
+  ],
+  "wb-2025-w5": [
+    "beef",
+    "main",
+    "baked"
+  ],
+  "wb-2025-w6": [
+    "dessert",
+    "baked"
+  ],
+  "wb-2025-w7": [
+    "breakfast",
+    "baked"
+  ],
+  "wb-2025-w9": [
+    "bread",
+    "vegetarian",
+    "baked"
+  ],
+  "wb-2026-w50": [
+    "dessert"
+  ],
+  "wb-2026-w51": [
+    "bread",
+    "breakfast",
+    "baked"
+  ],
+  "wb-2026-w52": [
+    "dessert",
+    "baked"
+  ],
+  "wc-2024-w1": [
+    "main",
+    "spicy",
+    "bread"
+  ],
+  "wc-2024-w10": [
+    "dessert",
+    "japanese"
+  ],
+  "wc-2024-w11": [
+    "vegetarian",
+    "main"
+  ],
+  "wc-2024-w12": [
+    "egg",
+    "pork",
+    "breakfast"
+  ],
+  "wc-2024-w13": [
+    "dessert"
+  ],
+  "wc-2024-w14": [
+    "salad",
+    "japanese"
+  ],
+  "wc-2024-w16": [
+    "chicken",
+    "middle-eastern",
+    "main",
+    "grilled"
+  ],
+  "wc-2024-w17": [
+    "beef",
+    "main",
+    "grilled"
+  ],
+  "wc-2024-w18": [
+    "chicken",
+    "chinese",
+    "spicy",
+    "main"
+  ],
+  "wc-2024-w19": [
+    "dessert",
+    "baked"
+  ],
+  "wc-2024-w2": [
+    "chinese",
+    "main"
+  ],
+  "wc-2024-w20": [
+    "beef",
+    "pork",
+    "italian",
+    "main"
+  ],
+  "wc-2024-w21": [
+    "egg",
+    "breakfast"
+  ],
+  "wc-2024-w23": [
+    "pork",
+    "main",
+    "grilled"
+  ],
+  "wc-2024-w24": [
+    "breakfast",
+    "quick"
+  ],
+  "wc-2024-w25": [
+    "chicken",
+    "main"
+  ],
+  "wc-2024-w26": [
+    "dessert",
+    "quick"
+  ],
+  "wc-2024-w27": [
+    "soup",
+    "vegetarian"
+  ],
+  "wc-2024-w28": [
+    "dessert",
+    "baked"
+  ],
+  "wc-2024-w29": [
+    "sauce",
+    "spicy"
+  ],
+  "wc-2024-w3": [
+    "chicken",
+    "indian",
+    "main",
+    "spicy"
+  ],
+  "wc-2024-w30": [
+    "beef",
+    "mexican",
+    "salad"
+  ],
+  "wc-2024-w31": [
+    "mexican",
+    "side"
+  ],
+  "wc-2024-w32": [
+    "side",
+    "vegetarian"
+  ],
+  "wc-2024-w33": [
+    "mexican",
+    "main",
+    "vegetarian"
+  ],
+  "wc-2024-w34": [
+    "side",
+    "vegetarian"
+  ],
+  "wc-2024-w35": [
+    "side",
+    "vegetarian"
+  ],
+  "wc-2024-w38": [
+    "pork",
+    "main"
+  ],
+  "wc-2024-w39": [
+    "beef",
+    "main",
+    "grilled"
+  ],
+  "wc-2024-w4": [
+    "dessert",
+    "quick"
+  ],
+  "wc-2024-w40": [
+    "side",
+    "vegetarian"
+  ],
+  "wc-2024-w41": [
+    "beef",
+    "main",
+    "spicy"
+  ],
+  "wc-2024-w42": [
+    "chicken",
+    "mexican",
+    "main",
+    "spicy"
+  ],
+  "wc-2024-w43": [
+    "chicken",
+    "indian",
+    "main"
+  ],
+  "wc-2024-w44": [
+    "main",
+    "baked",
+    "italian"
+  ],
+  "wc-2024-w45": [
+    "chicken",
+    "main"
+  ],
+  "wc-2024-w46": [
+    "chicken",
+    "main",
+    "spicy"
+  ],
+  "wc-2024-w47": [
+    "japanese",
+    "grilled"
+  ],
+  "wc-2024-w48": [
+    "chicken",
+    "mexican",
+    "main",
+    "baked"
+  ],
+  "wc-2024-w49": [
+    "seafood",
+    "main",
+    "baked"
+  ],
+  "wc-2024-w5": [
+    "dessert",
+    "baked"
+  ],
+  "wc-2024-w50": [
+    "beef",
+    "main"
+  ],
+  "wc-2024-w51": [
+    "pork",
+    "main"
+  ],
+  "wc-2024-w52": [
+    "pork",
+    "main"
+  ],
+  "wc-2024-w6": [
+    "dessert",
+    "french"
+  ],
+  "wc-2024-w7": [
+    "beef",
+    "mexican",
+    "main"
+  ],
+  "wc-2024-w8": [
+    "vegetarian",
+    "middle-eastern",
+    "spicy"
+  ],
+  "wc-2024-w9": [
+    "vegetarian",
+    "side",
+    "baked"
+  ],
+  "wc-2025-w1": [
+    "chicken",
+    "french",
+    "main"
+  ],
+  "wc-2025-w10": [
+    "pork",
+    "main"
+  ],
+  "wc-2025-w11": [
+    "vegetarian",
+    "main",
+    "baked"
+  ],
+  "wc-2025-w12": [
+    "beef",
+    "main",
+    "grilled"
+  ],
+  "wc-2025-w13": [
+    "vegetarian",
+    "italian",
+    "main"
+  ],
+  "wc-2025-w14": [
+    "beef",
+    "main",
+    "grilled"
+  ],
+  "wc-2025-w15": [
+    "beef",
+    "mexican",
+    "main"
+  ],
+  "wc-2025-w16": [
+    "vegetarian",
+    "japanese",
+    "side"
+  ],
+  "wc-2025-w17": [
+    "beef",
+    "main"
+  ],
+  "wc-2025-w18": [
+    "chicken",
+    "main",
+    "spicy"
+  ],
+  "wc-2025-w19": [
+    "pork",
+    "soup"
+  ],
+  "wc-2025-w2": [
+    "chicken",
+    "main"
+  ],
+  "wc-2025-w20": [
+    "beef",
+    "mexican",
+    "main"
+  ],
+  "wc-2025-w21": [
+    "beef",
+    "main",
+    "grilled"
+  ],
+  "wc-2025-w22": [
+    "beef",
+    "main"
+  ],
+  "wc-2025-w23": [
+    "vegetarian",
+    "italian",
+    "main"
+  ],
+  "wc-2025-w24": [
+    "vegetarian",
+    "grilled",
+    "side"
+  ],
+  "wc-2025-w25": [
+    "chicken",
+    "japanese",
+    "soup",
+    "spicy"
+  ],
+  "wc-2025-w26": [
+    "sauce"
+  ],
+  "wc-2025-w28": [
+    "chicken",
+    "mexican",
+    "spicy",
+    "main"
+  ],
+  "wc-2025-w29": [
+    "salad",
+    "vegetarian",
+    "quick"
+  ],
+  "wc-2025-w3": [
+    "seafood",
+    "side",
+    "quick"
+  ],
+  "wc-2025-w30": [
+    "vegetarian",
+    "side"
+  ],
+  "wc-2025-w31": [
+    "pork",
+    "main",
+    "spicy"
+  ],
+  "wc-2025-w32": [
+    "chicken",
+    "salad",
+    "grilled"
+  ],
+  "wc-2025-w33": [
+    "italian",
+    "main"
+  ],
+  "wc-2025-w34": [
+    "beef",
+    "sauce",
+    "spicy"
+  ],
+  "wc-2025-w35": [
+    "pork",
+    "main"
+  ],
+  "wc-2025-w36": [
+    "vegetarian",
+    "italian",
+    "baked",
+    "main"
+  ],
+  "wc-2025-w37": [
+    "chicken",
+    "soup",
+    "spicy"
+  ],
+  "wc-2025-w38": [
+    "italian",
+    "main"
+  ],
+  "wc-2025-w39": [
+    "chicken",
+    "main",
+    "quick"
+  ],
+  "wc-2025-w4": [
+    "vegetarian",
+    "baked",
+    "main"
+  ],
+  "wc-2025-w40": [
+    "salad",
+    "vegetarian"
+  ],
+  "wc-2025-w41": [
+    "beef",
+    "main"
+  ],
+  "wc-2025-w42": [
+    "dessert",
+    "quick"
+  ],
+  "wc-2025-w43": [
+    "vegetarian",
+    "spicy",
+    "side"
+  ],
+  "wc-2025-w44": [
+    "beef",
+    "central-asian",
+    "main"
+  ],
+  "wc-2025-w46": [
+    "side",
+    "vegetarian"
+  ],
+  "wc-2025-w47": [
+    "beef",
+    "grilled",
+    "main"
+  ],
+  "wc-2025-w49": [
+    "beef",
+    "main",
+    "spicy"
+  ],
+  "wc-2025-w5": [
+    "vegetarian",
+    "salad",
+    "japanese"
+  ],
+  "wc-2025-w50": [
+    "dessert"
+  ],
+  "wc-2025-w51": [
+    "beef",
+    "main",
+    "grilled"
+  ],
+  "wc-2025-w52": [
+    "chicken",
+    "main",
+    "quick"
+  ],
+  "wc-2025-w6": [
+    "beef",
+    "main",
+    "french"
+  ],
+  "wc-2025-w7": [
+    "chicken",
+    "main",
+    "middle-eastern"
+  ],
+  "wc-2025-w8": [
+    "chicken",
+    "grilled",
+    "main"
+  ],
+  "wc-2025-w9": [
+    "chicken",
+    "grilled",
+    "main"
+  ],
+  "wc-2026-w1": [
+    "beef",
+    "pork",
+    "italian",
+    "main"
+  ],
+  "wc-2026-w11": [
+    "beef",
+    "main",
+    "quick"
+  ],
+  "wc-2026-w12": [
+    "japanese",
+    "soup"
+  ],
+  "wc-2026-w13": [
+    "pork",
+    "main"
+  ],
+  "wc-2026-w14": [
+    "dessert",
+    "baked"
+  ],
+  "wc-2026-w15": [
+    "chicken",
+    "middle-eastern",
+    "grilled",
+    "main"
+  ],
+  "wc-2026-w16": [
+    "sauce",
+    "vegetarian"
+  ],
+  "wc-2026-w17": [
+    "side",
+    "vegetarian"
+  ],
+  "wc-2026-w18": [
+    "japanese",
+    "spicy",
+    "soup"
+  ],
+  "wc-2026-w19": [
+    "italian",
+    "main"
+  ],
+  "wc-2026-w2": [
+    "grilled",
+    "main"
+  ],
+  "wc-2026-w20": [
+    "dessert",
+    "quick"
+  ],
+  "wc-2026-w22": [
+    "beef",
+    "main",
+    "quick"
+  ],
+  "wc-2026-w23": [
+    "dessert"
+  ],
+  "wc-2026-w24": [
+    "breakfast",
+    "quick"
+  ],
+  "wc-2026-w25": [
+    "dessert",
+    "baked"
+  ],
+  "wc-2026-w26": [
+    "vegetarian",
+    "salad",
+    "mexican"
+  ],
+  "wc-2026-w27": [
+    "chicken",
+    "mexican",
+    "main",
+    "spicy"
+  ],
+  "wc-2026-w28": [
+    "bread",
+    "baked",
+    "vegetarian",
+    "side"
+  ],
+  "wc-2026-w3": [
+    "mexican",
+    "sauce"
+  ],
+  "wc-2026-w4": [
+    "chicken",
+    "chinese",
+    "main"
+  ],
+  "wc-2026-w5": [
+    "egg",
+    "quick"
+  ],
+  "wc-2026-w6": [
+    "japanese",
+    "spicy",
+    "soup"
+  ],
+  "wc-2026-w7": [
+    "bread",
+    "baked"
+  ],
+  "wc-2026-w8": [
+    "mexican",
+    "main"
+  ],
+  "wc-2026-w9": [
+    "pork",
+    "mexican",
+    "main"
+  ]
+}

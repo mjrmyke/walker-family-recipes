@@ -13,6 +13,8 @@ VALID = {
     "ingredients": [{"qty": 1.0, "unit": "cup", "item": "cornmeal", "note": None}],
     "steps": ["Heat oven to 400F."], "tags": ["side", "bread"], "notes": None,
     "photoOnly": False,
+    "postings": [{"week": 28, "year": 2026, "date": "2026-07-13", "theme": "Wild West",
+                  "subreddit": "52weeksofcooking", "redditUrl": "https://reddit.com/x"}],
 }
 
 def test_valid_recipe_passes():

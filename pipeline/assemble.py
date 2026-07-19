@@ -14,5 +14,6 @@ def merge_recipe(post: dict, body: dict, img: dict) -> dict:
         "tags": body["tags"], "notes": body.get("notes"),
         "photoOnly": body.get("photoOnly", False),
     }
+    r["postings"] = [{k: r[k] for k in ("week", "year", "date", "theme", "subreddit", "redditUrl")}]
     validate_recipe(r)
     return r

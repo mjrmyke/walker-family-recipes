@@ -37,7 +37,7 @@ _DISH_KEYWORDS = {
     "shish": "middle-eastern", "taouk": "middle-eastern", "falafel": "middle-eastern",
     "hummus": "middle-eastern", "shawarma": "middle-eastern", "kebab": "middle-eastern",
     # style / attribute
-    "grill": "grill", "skewer": "grill", "bbq": "grill",
+    "grill": "grilled", "skewer": "grilled", "bbq": "grilled",
     "waffle": "baked", "muffin": "baked", "scone": "baked",
     # egg-forward dishes only (egg is incidental as an ingredient)
     "omelet": "egg", "omelette": "egg", "frittata": "egg", "quiche": "egg",
@@ -50,17 +50,27 @@ _PROTEIN_KEYWORDS = {
     "burger": "beef", "brisket": "beef", "meatball": "beef", "ground beef": "beef",
     "pork": "pork", "bacon": "pork", "carnitas": "pork", "ham": "pork",
     "sausage": "pork", "prosciutto": "pork", "ribs": "pork",
-    "shrimp": "seafood", "salmon": "seafood", "tuna": "seafood", "cod": "seafood",
-    "crab": "seafood", "fish": "seafood", "scallop": "seafood",
+    "lamb": "lamb", "turkey": "turkey",
+    "shrimp": "seafood", "salmon": "seafood", "tuna": "seafood",
+    "crab": "seafood", "scallop": "seafood",
 }
 
-_MEAT_TAGS = {"chicken", "beef", "pork", "seafood"}
+_MEAT_TAGS = {"chicken", "beef", "pork", "lamb", "turkey", "seafood"}
 
-TAG_VOCAB = sorted(
-    set(_DISH_KEYWORDS.values()) | set(_PROTEIN_KEYWORDS.values()) | {
-        "egg", "vegetarian", "side", "main", "quick", "baked",
-    }
-)
+# The controlled vocabulary. The LLM tag pass (data/tags.json) picks from exactly this set.
+TAG_VOCAB = sorted({
+    # protein
+    "chicken", "beef", "pork", "lamb", "turkey", "seafood", "egg",
+    # diet
+    "vegetarian",
+    # course
+    "main", "side", "dessert", "bread", "soup", "salad", "sauce", "breakfast",
+    # cuisine
+    "mexican", "italian", "japanese", "chinese", "korean", "thai", "indian",
+    "middle-eastern", "french", "central-asian",
+    # attribute
+    "spicy", "grilled", "baked", "quick",
+})
 
 def assign_tags(dish: str, theme: str, ingredient_items: list[str]) -> list[str]:
     dish_hay = f"{dish} {theme}".lower()

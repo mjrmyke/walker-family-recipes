@@ -20,6 +20,9 @@ def test_merge_produces_full_valid_record():
     assert r["servings"] == 6
     assert r["photoOnly"] is False
     assert set(r["ingredients"][0]) == {"qty", "unit", "item", "note"}
+    assert r["postings"] == [{"week": 28, "year": 2026, "date": "2026-07-13",
+                              "theme": "Wild West", "subreddit": "52weeksofcooking",
+                              "redditUrl": "https://reddit.com/x"}]
 
 def test_merge_photoonly_uses_placeholder_when_no_image():
     body = {**BODY, "photoOnly": True, "ingredients": [], "steps": [], "servings": 0}
