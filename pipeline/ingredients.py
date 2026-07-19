@@ -2,6 +2,7 @@
 import re
 
 _UNICODE_FRAC = {"½":.5,"⅓":1/3,"⅔":2/3,"¼":.25,"¾":.75,"⅛":.125,"⅜":.375,"⅝":.625,"⅞":.875}
+_FRAC_CHARS = "".join(_UNICODE_FRAC)  # every fraction glyph, for the leading-qty char class
 
 # canonical unit -> accepted spellings
 _UNITS = {
@@ -44,7 +45,7 @@ def parse_ingredient_line(line: str):
     if "," in line:
         line, note = [p.strip() for p in line.split(",", 1)]
     # leading quantity: digits, unicode fractions, slashes, ranges
-    m = re.match(r"^([\d\s./⅛¼⅜½⅝¾⅞–-]+)\s*(.*)$", line)
+    m = re.match(rf"^([\d\s./{_FRAC_CHARS}–-]+)\s*(.*)$", line)
     qty, rest = None, line
     if m and parse_quantity(m.group(1)) is not None:
         qty = parse_quantity(m.group(1)); rest = m.group(2).strip()

@@ -22,6 +22,13 @@ def test_line_no_unit():
     assert parse_ingredient_line("3 eggs") == \
         {"qty": 3.0, "unit": None, "item": "eggs", "note": None}
 
+def test_line_leading_thirds_fraction():
+    # regression: char class must include ⅓/⅔ (recipes use thirds constantly)
+    r = parse_ingredient_line("⅔ cup sugar")
+    assert math.isclose(r["qty"], 2/3, abs_tol=1e-3)
+    assert r["unit"] == "cup"
+    assert r["item"] == "sugar"
+
 def test_line_to_taste():
     assert parse_ingredient_line("Salt to taste") == \
         {"qty": None, "unit": None, "item": "Salt", "note": "to taste"}
