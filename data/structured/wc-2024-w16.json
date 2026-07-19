@@ -1,0 +1,130 @@
+{
+  "id": "wc-2024-w16",
+  "description": "Chicken Shawarma — a Egyptian week recipe.",
+  "servings": 6,
+  "ingredients": [
+    {
+      "qty": 2.0,
+      "unit": "lb",
+      "item": "boneless",
+      "note": "skinless chicken breast (buy cutlets to skip a step)"
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "olive oil",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "lemon",
+      "note": "zested and juiced"
+    },
+    {
+      "qty": 3.0,
+      "unit": "tbsp",
+      "item": "fat free chicken stock",
+      "note": null
+    },
+    {
+      "qty": 3.0,
+      "unit": null,
+      "item": "garlic cloves",
+      "note": "minced"
+    },
+    {
+      "qty": 2.0,
+      "unit": "tsp",
+      "item": "cumin",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tsp",
+      "item": "smoked paprika",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tsp",
+      "item": "ground coriander",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "cinnamon",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "kosher salt",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "ground pepper",
+      "note": "to taste"
+    },
+    {
+      "qty": 0.6666666666666666,
+      "unit": "cup",
+      "item": "nonfat",
+      "note": "plain Greek yogurt"
+    },
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "garlic cloves",
+      "note": "grated"
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "olive oil",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "lemon juice",
+      "note": null
+    },
+    {
+      "qty": 3.0,
+      "unit": "tbsp",
+      "item": "almond milk or skim milk",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "each kosher salt and black pepper",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "pita",
+      "note": "tomatoes, cucumber, parsley, iceberg lettuce"
+    }
+  ],
+  "steps": [
+    "Cut chicken breasts in half length-wise (or buy chicken cutlets). Mix all marinade ingredients together in a large bowl and add chicken.",
+    "Coat chicken completely with marinade. Cover bowl and refrigerate for at least 2 hours or up to 24 hours.",
+    "In a small bowl, mix all sauce ingredients together. Add more or less milk to reach your desired consistency. Refrigerate for at least an hour. It will get better the longer it sits and will last in your refrigerator for up to 5 days.",
+    "Remove chicken from marinade. Discard the marinade and pat the chicken dry with paper towels.",
+    "FOR THE GRILL or SKILLET: Preheat grill or skillet to medium-high. Cook chicken for 3-4 minutes per side. Rest chicken, covered with tin foil, for 5 minutes before serving.",
+    "FOR THE AIR FRYER: Preheat air fryer to 370F. Cook chicken cutlets for 5 minutes, then slip and cook for another 4-5 minutes. Rest chicken, covered with tin foil, for 5 minutes before serving."
+  ],
+  "tags": [
+    "chicken",
+    "middle-eastern"
+  ],
+  "sourceUrl": "https://litecravings.com/wprm_print/4670",
+  "notes": null,
+  "photoOnly": false
+}

@@ -1,0 +1,106 @@
+{
+  "id": "wc-2025-w3",
+  "description": "Fresh Vietnamese summer rolls packed with shrimp, noodles, and herbs, served with a creamy peanut dipping sauce.",
+  "servings": 4,
+  "ingredients": [
+    {
+      "qty": 8.0,
+      "unit": null,
+      "item": "rice paper wrappers",
+      "note": "8-10 wrappers"
+    },
+    {
+      "qty": 1.0,
+      "unit": "cup",
+      "item": "cooked shrimp",
+      "note": "or shredded chicken, tofu for vegetarian"
+    },
+    {
+      "qty": 1.0,
+      "unit": "cup",
+      "item": "cooked vermicelli noodles",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "carrot",
+      "note": "julienned"
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "cucumber",
+      "note": "julienned"
+    },
+    {
+      "qty": 1.0,
+      "unit": "cup",
+      "item": "lettuce leaves or spinach",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "cup",
+      "item": "fresh mint leaves",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "cup",
+      "item": "fresh cilantro",
+      "note": null
+    },
+    {
+      "qty": 0.333,
+      "unit": "cup",
+      "item": "peanut butter",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "soy sauce",
+      "note": "low sodium"
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "hoisin sauce",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "lime juice",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "warm water",
+      "note": "1-2 tbsp, to thin"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "crushed peanuts",
+      "note": "optional, for garnish"
+    }
+  ],
+  "steps": [
+    "Arrange the filling ingredients (shrimp, noodles, veggies, and herbs) on a platter for easy assembly.",
+    "Fill a large shallow dish with warm water. Submerge one rice paper wrapper for about 5 seconds, then lay it on a clean, damp surface.",
+    "Place a small amount of each ingredient in the center of the wrapper, leaving space on the edges. Fold the bottom edge over the filling, then fold in the sides, and roll tightly, stretching the rice paper as needed.",
+    "Mix the peanut butter, soy sauce, hoisin sauce, and lime juice in a bowl. Add warm water to reach your desired consistency for the dipping sauce.",
+    "Serve the rolls with the peanut dipping sauce."
+  ],
+  "tags": [
+    "seafood",
+    "side",
+    "quick"
+  ],
+  "sourceUrl": null,
+  "notes": "servings estimated",
+  "photoOnly": false
+}

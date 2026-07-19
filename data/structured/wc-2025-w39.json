@@ -1,0 +1,75 @@
+{
+  "id": "wc-2025-w39",
+  "description": "A delicious, quick and easy chicken recipe perfect for a quick weeknight dinner or as a tasty addition to your weekend meal prep.",
+  "servings": 5,
+  "ingredients": [
+    {
+      "qty": 2.0,
+      "unit": "lb",
+      "item": "boneless (skinless chicken thighs- cut into 1-2 inch pieces)",
+      "note": null
+    },
+    {
+      "qty": 3.0,
+      "unit": "tbsp",
+      "item": "olive oil",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tsp",
+      "item": "minced garlic",
+      "note": null
+    },
+    {
+      "qty": 0.3333333333333333,
+      "unit": "cup",
+      "item": "tamarind juice (or use 2 teaspoon tamarind paste + water)",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "brown sugar",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "ketchup",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "white vinegar",
+      "note": null
+    },
+    {
+      "qty": 0.3333333333333333,
+      "unit": "cup",
+      "item": "soy sauce",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "cornstarch (dissolved in 1/4 cup of water)",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Heat up a large skillet over medium high heat. then pour in the olive oil.",
+    "Add the chicken pieces and cook for about 10 minutes, stirring occasionally.",
+    "In a bowl combine garlic, soy sauce,  brown sugar, tamarind, vinegar and ketchup , mix everything well together.",
+    "When all the water has evaporated from the chicken and it is nice and a little brown , pour the sauce into the pan. Stir it around to cover all the chicken pieces.",
+    "When it boils, reduce the heat, and add the cornstarch dissolved in water, cover and let it cook for almost 20 minutes until done. Taste to adjust seasoning.",
+    "Garnish with some sesame seeds and serve hot with rice/pasta or noodles"
+  ],
+  "tags": [
+    "chicken"
+  ],
+  "sourceUrl": "https://amiraspantry.com/tamarind-chicken/",
+  "notes": null,
+  "photoOnly": false
+}

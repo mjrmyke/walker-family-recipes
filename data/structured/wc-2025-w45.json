@@ -1,0 +1,74 @@
+{
+  "id": "wc-2025-w45",
+  "description": "These delicious baked air fryer apples are the most perfect dessert to enjoy this fall.",
+  "servings": 4,
+  "ingredients": [
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "Honeycrisp apples",
+      "note": null
+    },
+    {
+      "qty": 4.0,
+      "unit": "tbsp",
+      "item": "unsalted butter (softened)",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "old fashioned oats",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "packed light brown sugar",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "chopped walnuts",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "ground cinnamon",
+      "note": null
+    },
+    {
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "nutmeg",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": "pinch",
+      "item": "of salt",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Vanilla ice cream or whipped cream (for serving)",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Cut apples in half from stem to bottom and use a paring knife, spoon, or melon scoop to remove the core, stem, and part of the inside to create a hollow opening. Set aside.",
+    "Combine butter, old fashioned oats, brown sugar, walnuts, cinnamon, nutmeg, and salt in a bowl and stir to combine.",
+    "Add mixture evenly into each apple half.",
+    "Air fry at 350°F (177°C) for 20–25 minutes, until the apples are softened and the oat mixture is toasty.",
+    "Serve apples warm and top with vanilla ice cream or whipped cream. Enjoy :)"
+  ],
+  "tags": [
+    "vegetarian"
+  ],
+  "sourceUrl": "https://www.myforkinglife.com/baked-air-fryer-apples/",
+  "notes": null,
+  "photoOnly": false
+}

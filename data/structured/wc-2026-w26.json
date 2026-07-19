@@ -1,0 +1,92 @@
+{
+  "id": "wc-2026-w26",
+  "description": "This is the ultimate summer salad, and it&#39;s perfect for entertaining.",
+  "servings": 8,
+  "ingredients": [
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "(15 ounce) cans black beans",
+      "note": "rinsed and drained"
+    },
+    {
+      "qty": 3.0,
+      "unit": null,
+      "item": "ears fresh cooked corn",
+      "note": "kernels cut off the cob (about 2 cups)"
+    },
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "red bell peppers",
+      "note": "diced (about 2 cups)"
+    },
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "medium cloves garlic",
+      "note": "minced (about 2 teaspoons)"
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "minced shallots",
+      "note": "from one medium shallot"
+    },
+    {
+      "qty": 2.0,
+      "unit": "tsp",
+      "item": "salt",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "cayenne pepper",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "sugar",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "plus 1 tablespoon extra virgin olive oil",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "zest and 6 tablespoons juice from 5 to 6 limes",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "chopped fresh cilantro leaves",
+      "note": "plus more for garnish"
+    },
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "Hass avocados",
+      "note": "chopped"
+    }
+  ],
+  "steps": [
+    "Combine black beans, corn, red peppers, garlic, shallots, and salt in a large bowl and mix well.",
+    "In a separate small bowl, whisk cayenne, sugar, olive oil, and lime juice together to make vinaigrette.",
+    "Pour vinaigrette over beans, add cilantro, and stir well. Cover and let chill at least 30 minutes and up to over night. Right before serving, add avocados and fold gently, being careful not to mash. Garnish with more chopped cilantro if desired. Serve at room temperature."
+  ],
+  "tags": [
+    "salad",
+    "sauce",
+    "vegetarian"
+  ],
+  "sourceUrl": "https://www.seriouseats.com/black-bean-corn-red-pepper-salad-lime-cilantro-vinaigrette-recipe",
+  "notes": null,
+  "photoOnly": false
+}

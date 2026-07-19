@@ -1,0 +1,98 @@
+{
+  "id": "wc-2024-w48",
+  "description": "This creamy, comforting Tex-Mex chicken casserole recipe with a nacho cheese-flavored corn chip crust is a version of the King Ranch chicken casserole.",
+  "servings": 8,
+  "ingredients": [
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "(10 ounce) bag nacho cheese-flavored corn chips (such as Doritos®)",
+      "note": "crushed"
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "butter",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "small onion",
+      "note": "finely chopped"
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "(14.5 ounce) can diced tomatoes",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "(10.75 ounce) can condensed cream of chicken soup",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "(10.75 ounce) can cream of mushroom soup",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "(4.5 ounce) can chopped green chiles",
+      "note": null
+    },
+    {
+      "qty": 0.33333334326744,
+      "unit": "cup",
+      "item": "milk",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "sour cream",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "chili powder",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "ground cumin",
+      "note": null
+    },
+    {
+      "qty": 2.5,
+      "unit": "cup",
+      "item": "chopped cooked chicken",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "(8 ounce) package shredded sharp Cheddar cheese",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch baking dish.",
+    "Spread corn chip crumbs over bottom of the baking dish; press crumbs into place.",
+    "Melt butter in a large skillet over medium-high heat. Add onion; cook and stir until tender, 6 to 7 minutes.",
+    "Combine diced tomatoes, cream of chicken soup. cream of mushroom soup, green chiles, milk, sour cream, chili powder, and cumin in a large bowl; stir in chicken and onion to combine. Pour over corn chips; top with Cheddar cheese.",
+    "Bake in the preheated oven until bubbly and cheese is melted, 55 to 60 minutes. Let stand for 10 minutes before serving."
+  ],
+  "tags": [
+    "chicken"
+  ],
+  "sourceUrl": "https://www.allrecipes.com/recipe/233686/tex-mex-chicken-casserole/",
+  "notes": null,
+  "photoOnly": false
+}

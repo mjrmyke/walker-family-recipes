@@ -1,0 +1,85 @@
+{
+  "id": "wc-2025-w2",
+  "description": "Cock-a-leekie is a traditional Scottish soup, typically consisting of leek and chicken stock.",
+  "servings": 4,
+  "ingredients": [
+    {
+      "qty": 8.0,
+      "unit": null,
+      "item": "free-range chicken thighs",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "large carrots",
+      "note": "chopped"
+    },
+    {
+      "qty": 3.0,
+      "unit": null,
+      "item": "leeks",
+      "note": "sliced in half lengthways"
+    },
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "fennel bulbs",
+      "note": "sliced into 1cm pieces"
+    },
+    {
+      "qty": 3.0,
+      "unit": null,
+      "item": "clementines or easy peelers",
+      "note": "2 cut into slices, 2 juiced"
+    },
+    {
+      "qty": 200.0,
+      "unit": "ml",
+      "item": "white wine or chicken stock",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Grated zest and juice 1 lemon",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "wholegrain mustard",
+      "note": null
+    },
+    {
+      "qty": 5.0,
+      "unit": "tbsp",
+      "item": "olive oil",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Bunch fresh thyme",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "large pieces sourdough",
+      "note": "torn"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 220°C/200°C fan/gas 7. In a large roasting tin, mix the chicken, veg and clementine slices.",
+    "Mix the wine or stock with the clementine and lemon juice, mustard and 2 tbsp of the oil, then pour over the chicken. Tuck thyme sprigs under the chicken, season and roast for 35 minutes or until cooked through.",
+    "Meanwhile, mix the bread with the remaining oil and the lemon zest and season well. Transfer to a baking tray and cook in the oven for 10-15 minutes, while the chicken is cooking, until crispy and toasted.",
+    "Discard the thyme and serve the chicken sprinkled with croutons."
+  ],
+  "tags": [
+    "chicken"
+  ],
+  "sourceUrl": "https://www.deliciousmagazine.co.uk/recipes/cock-a-leekie-traybake/",
+  "notes": null,
+  "photoOnly": false
+}

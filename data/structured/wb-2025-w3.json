@@ -1,0 +1,100 @@
+{
+  "id": "wb-2025-w3",
+  "description": "Soft, naturally sweetened banana snack cakes with a Greek yogurt cream filling, inspired by Little Debbie Banana Twins.",
+  "servings": 6,
+  "ingredients": [
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "ripe bananas",
+      "note": "mashed"
+    },
+    {
+      "qty": 0.25,
+      "unit": "cup",
+      "item": "unsweetened applesauce",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "maple syrup or honey",
+      "note": "if over 1 year old"
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "large egg",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "pure vanilla extract",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "cup",
+      "item": "whole wheat flour",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking soda",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking powder",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "cinnamon",
+      "note": "optional"
+    },
+    {
+      "qty": null,
+      "unit": "pinch",
+      "item": "salt",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "full-fat Greek yogurt or whipped ricotta",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "maple syrup or honey",
+      "note": "optional, 1-2 tsp"
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "vanilla extract",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 350°F (175°C). Lightly grease a mini loaf pan or muffin tin.",
+    "In a large bowl, mash the bananas. Add the applesauce, maple syrup (or honey), egg, and vanilla, and mix well.",
+    "In a separate bowl, whisk together the flour, baking soda, baking powder, cinnamon, and salt. Slowly fold the dry ingredients into the wet mixture until just combined.",
+    "Spoon the batter into the prepared pan, filling each cavity about two-thirds full. Bake for 15-18 minutes or until a toothpick comes out clean. Cool completely on a wire rack.",
+    "Mix the Greek yogurt, maple syrup (if using), and vanilla until smooth for the filling. Refrigerate 10-15 minutes for a thicker filling.",
+    "Slice the cooled mini cakes in half lengthwise, spread or pipe the cream filling on the bottom half, and place the top half back on."
+  ],
+  "tags": [
+    "dessert",
+    "baked"
+  ],
+  "sourceUrl": null,
+  "notes": "servings estimated",
+  "photoOnly": false
+}

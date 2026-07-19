@@ -1,0 +1,68 @@
+{
+  "id": "wc-2025-w29",
+  "description": "This hearty salad is filled with sweet peaches, salty feta, and crunchy pine nuts for a quick and delicious side dish.",
+  "servings": 4,
+  "ingredients": [
+    {
+      "qty": 6.0,
+      "unit": "cup",
+      "item": "mixed greens",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "peach",
+      "note": "chopped"
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "small tomato",
+      "note": "cored and chopped"
+    },
+    {
+      "qty": 0.25,
+      "unit": "cup",
+      "item": "crumbled feta cheese",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "pine nuts",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "olive oil",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "balsamic glaze",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Salt",
+      "note": "to taste"
+    }
+  ],
+  "steps": [
+    "Divide the mixed greens into two bowls.",
+    "Top each bowl with peaches, chopped tomato, feta cheese, and pine nuts.",
+    "Drizzle with olive oil and balsamic glaze.",
+    "Gently toss to combine, then sprinkle with salt to taste."
+  ],
+  "tags": [
+    "salad",
+    "vegetarian"
+  ],
+  "sourceUrl": "https://iheartvegetables.com/peach-salad-with-feta/",
+  "notes": "servings estimated",
+  "photoOnly": false
+}

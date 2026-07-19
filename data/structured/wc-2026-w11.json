@@ -1,0 +1,97 @@
+{
+  "id": "wc-2026-w11",
+  "description": "The BEST recipe for a homemade Sloppy Joe!",
+  "servings": 5,
+  "ingredients": [
+    {
+      "qty": 15.0,
+      "unit": "oz",
+      "item": "can tomato sauce",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "cup",
+      "item": "ketchup*",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "Worcestershire sauce",
+      "note": null
+    },
+    {
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "yellow mustard (or to taste)",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tsp",
+      "item": "brown sugar (or to taste*)",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "extra light olive oil (or any high-heat cooking oil)",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "lb",
+      "item": "lean ground beef (85%-90% lean)",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "fine sea salt (or to taste)",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "freshly ground black pepper (or to taste)",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "small onion (finely chopped)",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": null,
+      "item": "small green bell pepper (seeded and finely diced",
+      "note": "or use 1/2 cup grated carrot)"
+    },
+    {
+      "qty": 3.0,
+      "unit": null,
+      "item": "garlic cloves (minced)",
+      "note": null
+    },
+    {
+      "qty": 5.0,
+      "unit": null,
+      "item": "hamburger buns (toasted if desired)",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Make the Sauce - In a medium bowl, combine the tomato sauce, ketchup, Worcestershire sauce, mustard, and brown sugar, and set it aside.",
+    "Cook the Beef - Place a large skillet or dutch oven over medium/high heat. Add olive oil and ground beef. Saute the beef for about 5 minutes until cooked through and no longer pink, breaking it up with a spatula. If you see extra fat on the bottom, tilt the pan and spoon it out or blot it up with paper towels. Season with salt and pepper.",
+    "Add vegetables -  Stir in the diced peppers and onion. Cook another 5 minutes until the veggies are tender and beef is browned. Add garlic and saute 30 seconds until fragrant, stirring constantly.",
+    "Add the sauce and bring to a light boil. Reduce heat to low and simmer uncovered for about 10-15 minutes or until thickened to your liking. Adjust the seasoning taste* and add water if you prefer a looser consistency. Serve on toasted buns for Sloppy Joe Sandwiches."
+  ],
+  "tags": [
+    "beef"
+  ],
+  "sourceUrl": "https://natashaskitchen.com/sloppy-joe-recipe/",
+  "notes": null,
+  "photoOnly": false
+}

@@ -19,6 +19,14 @@ def structure_from_external(post: dict, ext: dict) -> dict:
     ingredients = [parse_ingredient_line(line) for line in ext.get("ingredients", [])]
     ingredients = [i for i in ingredients if i["item"]]
     steps = [s for s in ext.get("steps", []) if s.strip()]
+    # Not cookable without both -> degrade to a link-only card (keep the source link).
+    if not ingredients or not steps:
+        stub = structure_photoonly(post, has_link=bool(post.get("recipe_url")))
+        desc = first_sentence(ext.get("description"))
+        if desc:
+            stub["description"] = desc
+        stub["notes"] = "Recipe not fully captured — see the source link."
+        return stub
     servings = ext.get("servings")
     notes = None
     if not isinstance(servings, int) or servings <= 0:

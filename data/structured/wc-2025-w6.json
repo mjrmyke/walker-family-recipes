@@ -1,0 +1,69 @@
+{
+  "id": "wc-2025-w6",
+  "description": "Peppercorn-crusted seared steaks flambéed in cognac and finished with a rich cream and beef broth pan sauce.",
+  "servings": 2,
+  "ingredients": [
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "beef tenderloin steaks",
+      "note": "6 oz each"
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "black peppercorns",
+      "note": "crushed"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "salt",
+      "note": "to taste"
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "butter",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "olive oil",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "cup",
+      "item": "cognac",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "heavy cream",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "cup",
+      "item": "beef broth",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Press the crushed peppercorns onto both sides of the steaks and season with salt.",
+    "Heat the olive oil and butter in a skillet over medium-high heat. Sear the steaks for 3-4 minutes per side until desired doneness, then remove and keep warm.",
+    "Add the cognac to the hot pan and carefully ignite to flambé, letting the flames subside.",
+    "Stir in the cream and beef broth, scraping up the browned bits, and simmer until slightly thickened.",
+    "Return the steaks to the pan, spoon the sauce over them, and cook for 1 minute more. Serve with the sauce."
+  ],
+  "tags": [
+    "beef",
+    "main"
+  ],
+  "sourceUrl": null,
+  "notes": null,
+  "photoOnly": false
+}

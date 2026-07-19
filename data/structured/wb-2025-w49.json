@@ -1,0 +1,57 @@
+{
+  "id": "wb-2025-w49",
+  "description": "A layered no-bake trifle with angel food cake, pudding, strawberries, bananas, and Cool Whip.",
+  "servings": 10,
+  "ingredients": [
+    {
+      "qty": 13.0,
+      "unit": null,
+      "item": "oz. angel food cake",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "(.9 oz.) Instant pudding mix (vanilla",
+      "note": "cheesecake or banana flavored)"
+    },
+    {
+      "qty": 2.0,
+      "unit": "cup",
+      "item": "fat free skim milk",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "pint strawberries",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "bananas",
+      "note": null
+    },
+    {
+      "qty": 8.0,
+      "unit": null,
+      "item": "oz. fat free Cool Whip",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Add the pudding mix and milk to a mixing bowl. Whisk for 2 minutes. Set aside to let it thicken.",
+    "Cut the angel food cake into 1\" pieces.",
+    "Slice the strawberries and bananas.",
+    "Layer the ingredients in a trifle bowl. Start with angel food cake, strawberries and bananas. Add half of the pudding mixture in an even layer.",
+    "Repeat a second time – angel food cake, strawberries, bananas and pudding.",
+    "Spread the Cool Whip in a nice even layer."
+  ],
+  "tags": [
+    "dessert"
+  ],
+  "sourceUrl": "https://keepingonpoint.com/2021/07/28/no-bake-trifle/",
+  "notes": null,
+  "photoOnly": false
+}

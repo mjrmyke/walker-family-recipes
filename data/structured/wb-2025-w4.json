@@ -1,0 +1,89 @@
+{
+  "id": "wb-2025-w4",
+  "description": "Makes 10 buns",
+  "servings": 4,
+  "ingredients": [
+    {
+      "qty": 0.6666666666666666,
+      "unit": "cup",
+      "item": "(160 grams) warm whole milk (100°F/38°C to 110°F/43°C)",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "5½ tablespoons (66 grams) granulated sugar",
+      "note": "divided"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "2¼ teaspoons (7 grams) active dry yeast",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Milk Roux ((recipe follows)",
+      "note": "room temperature)"
+    },
+    {
+      "qty": 3.0,
+      "unit": "cup",
+      "item": "(381 grams) bread flour",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "cup",
+      "item": "(57 grams) unsalted butter",
+      "note": "melted and cooled for 10 minutes"
+    },
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "large eggs ((100 grams)",
+      "note": "divided)"
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "(3 grams) kosher salt",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "(4 grams) vanilla extract",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Pineapple Buns Topping ((recipe follows))",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "(15 grams) whole milk",
+      "note": "room temperature"
+    }
+  ],
+  "steps": [
+    "In the bowl of a stand mixer fitted with the paddle attachment, whisk together warm milk, 1 tablespoon (12 grams) sugar, and yeast. Let stand until mixture is foamy, about 10 minutes.",
+    "Add Milk Roux, flour, melted butter, 1 egg (50 grams), salt, vanilla, and remaining 4½ tablespoons (54 grams) sugar to yeast mixture; beat at low speed just until combined, stopping to scrape sides of bowl. Switch to the dough hook attachment; beat at low speed for 3 minutes. Increase mixer speed to medium-low, and beat until a soft, smooth dough forms, 6 to 8 minutes, stopping to scrape sides of bowl. (Dough should pass the windowpane test; see Note.) Cover and let rise in a warm, draft-free place (75°F/24°C) until doubled in size, about 1 hour.",
+    "Line 2 baking sheets with parchment paper.",
+    "Punch down dough; let stand for 5 minutes. Divide dough into 10 equal portions (about 77 grams each). Roll each portion into a ball, and place on prepared pans.",
+    "Divide Pineapple Buns Topping into 10 portions (about 27 grams each); roll into balls. Place 1 ball between 2 sheets of plastic wrap; roll or pat into a 4-inch circle. Gently wrap circle over top of 1 bun, covering as much dough as possible. Repeat with remaining Pineapple Buns Topping and buns. Using a sharp knife, gently cut a crosshatch pattern into top of each bun through topping. Cover and let rise in a warm, draft-free place (75°F/24°C) until doubled in size, 40 minutes to 1 hour.",
+    "Preheat oven to 350°F (180°C).",
+    "In a small bowl, whisk together room temperature milk and remaining 1 egg (50 grams). Thoroughly brush top of buns with egg wash, being sure to get between rows of topping.",
+    "Bake until golden brown and an instant-read thermometer inserted in center registers at least 190°F (88°C), about 15 minutes. Let cool on pans for 10 minutes before serving."
+  ],
+  "tags": [
+    "bread"
+  ],
+  "sourceUrl": "https://bakefromscratch.com/pineapple-buns/",
+  "notes": "servings estimated",
+  "photoOnly": false
+}

@@ -1,0 +1,120 @@
+{
+  "id": "wb-2025-w12",
+  "description": "Wholesome breakfast or snack full of whole grains, fruit, and veggies.",
+  "servings": 12,
+  "ingredients": [
+    {
+      "qty": 1.0,
+      "unit": "cup",
+      "item": "shredded zucchini",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "cup",
+      "item": "shredded apple",
+      "note": "about 1 large apple (I use Honeycrisp)"
+    },
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "large eggs",
+      "note": null
+    },
+    {
+      "qty": 0.75,
+      "unit": "cup",
+      "item": "unsweetened applesauce",
+      "note": null
+    },
+    {
+      "qty": 0.3333333333333333,
+      "unit": "cup",
+      "item": "maple syrup",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "cup",
+      "item": "neutral oil (avocado or vegetable)",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "plain yogurt (I used Greek but regular works too)",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "vanilla extract",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "baking powder",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "baking soda",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "salt",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "cinnamon",
+      "note": null
+    },
+    {
+      "qty": 0.75,
+      "unit": "cup",
+      "item": "all-purpose flour",
+      "note": null
+    },
+    {
+      "qty": 0.75,
+      "unit": "cup",
+      "item": "whole wheat flour",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "coarse sugar",
+      "note": "such turbinato (sugar in the raw) (or any granulated sugar)"
+    },
+    {
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "cinnamon",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Heat the oven to 375 degrees. Line a standard muffin pan with paper liners or grease with oil spray.",
+    "Place the grated zucchini and apple in a clean kitchen towel or a few layer of paper towel and squeeze out the excess liquid. Add the zucchini and apple to a large bowl.",
+    "Add the eggs, applesauce, oil, maple syrup, yogurt, and vanilla then whisk to combine.",
+    "In a separate bowl, whisk together the baking powder, baking soda, salt, cinnamon, and flour. Dump the dry ingredients into the wet then mix until just combined.",
+    "Scoop the batter into the muffin tin, filling each hole to the top.",
+    "If using the topping, mix the sugar and cinnamon together and sprinkle over each muffin.",
+    "Bake until lightly golden brown and each muffin no longer looks wet on the top, 18 to 22 minutes.",
+    "Cool then store in the refrigerator for 4 days or wrap each muffin well and freeze for up to 2 months. (Note: if you keep the muffins tightly covered or in the fridge they will lose the crunchiness on the top, but they will still taste delicious.)"
+  ],
+  "tags": [
+    "baked",
+    "vegetarian"
+  ],
+  "sourceUrl": "https://happykidskitchen.com/healthy-apple-zucchini-muffins/",
+  "notes": null,
+  "photoOnly": false
+}

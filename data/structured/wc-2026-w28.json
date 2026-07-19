@@ -1,0 +1,81 @@
+{
+  "id": "wc-2026-w28",
+  "description": "This Super Moist Cornbread recipe is the only way to go if you’re a cornbread lover!",
+  "servings": 16,
+  "ingredients": [
+    {
+      "qty": 2.0,
+      "unit": "cup",
+      "item": "flour",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "cup",
+      "item": "cornmeal",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "cup",
+      "item": "sugar",
+      "note": null
+    },
+    {
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "baking powder",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "salt",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "(8 tablespoons) butter (melted)",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "oil",
+      "note": null
+    },
+    {
+      "qty": 1.25,
+      "unit": "cup",
+      "item": "milk",
+      "note": null
+    },
+    {
+      "qty": 3.0,
+      "unit": null,
+      "item": "large eggs",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "honey and extra butter for serving (optional)",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Preheat oven to 350 degrees and grease a 9x13 inch pan.",
+    "In a large bowl whisk together flour, cornmeal, sugar, baking powder, and salt.",
+    "In a medium bowl mix together butter, oil, milk, and eggs.",
+    "Add wet ingredients to dry ingredients and mix until combined.",
+    "Transfer batter to your prepared pan. Bake for 35-45 minutes until golden and a toothpick inserted in the middle comes out clean or with only a few crumbs (no wet batter).",
+    "Allow to cool for 15-20 minutes in the pan before cutting into squares and serving. Serve with butter and honey if desired. Store in airtight container at room temperature up to 3 days or in the fridge for 1 week."
+  ],
+  "tags": [
+    "vegetarian"
+  ],
+  "sourceUrl": "https://www.lecremedelacrumb.com/best-super-moist-cornbread/",
+  "notes": null,
+  "photoOnly": false
+}

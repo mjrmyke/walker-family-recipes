@@ -1,0 +1,50 @@
+{
+  "id": "wb-2025-w19",
+  "description": "Jello poke cake is cool, creamy, and perfect for any get-together.",
+  "servings": 15,
+  "ingredients": [
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "(15.25-ounce) box white cake mix",
+      "note": "(plus any ingredients listed on box)"
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "(3-ounce) box strawberry Jell-O",
+      "note": "( (or raspberry or cherry))"
+    },
+    {
+      "qty": 1.0,
+      "unit": "cup",
+      "item": "boiling water",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "cup",
+      "item": "cold water",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "(8-ounce) tub whipped topping",
+      "note": "((or 2 cups whipped cream))"
+    }
+  ],
+  "steps": [
+    "Prepare cake as directed on the box and bake in a 9-x-13-inch baking dish. Let cool for 15 minutes.",
+    "Poke cake with a fork at ½-1-inch intervals.",
+    "Use hot and cold water to make Jell-O as directed on the package.",
+    "Spoon Jell-O liquid over the cake gradually until it is all absorbed.",
+    "Chill in the refrigerator for 3-4 hours. Top with whipped topping right before serving."
+  ],
+  "tags": [
+    "dessert"
+  ],
+  "sourceUrl": "https://lilluna.com/jello-poke-cake/",
+  "notes": null,
+  "photoOnly": false
+}

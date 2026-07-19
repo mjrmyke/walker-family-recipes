@@ -1,0 +1,124 @@
+{
+  "id": "wc-2025-w28",
+  "description": "A spicy, ever-evolving family chili loaded with chicken, beans, corn, and a mix of fiery peppers.",
+  "servings": 6,
+  "ingredients": [
+    {
+      "qty": null,
+      "unit": null,
+      "item": "hot taco seasoning mix",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "kidney beans",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "black beans",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "cilantro",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "corn",
+      "note": null
+    },
+    {
+      "qty": 3.0,
+      "unit": "can",
+      "item": "Rotel diced tomatoes",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Tapatio hot sauce",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "chili powder",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "cayenne pepper",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "green onion",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "can",
+      "item": "tomato paste",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "lime juice",
+      "note": null
+    },
+    {
+      "qty": 5.0,
+      "unit": null,
+      "item": "jalapeños",
+      "note": null
+    },
+    {
+      "qty": 7.0,
+      "unit": null,
+      "item": "habaneros",
+      "note": null
+    },
+    {
+      "qty": 4.0,
+      "unit": null,
+      "item": "Fresno chili peppers",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "red onion",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "chicken",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Brown the chicken in a large pot.",
+    "Add the diced red onion, green onion, jalapeños, habaneros, and Fresno chili peppers, and cook until softened.",
+    "Stir in the kidney beans, black beans, corn, Rotel, and tomato paste.",
+    "Season with the taco mix, chili powder, cayenne pepper, and Tapatio to taste.",
+    "Simmer, adjusting seasoning as it cooks, then finish with lime juice and fresh cilantro before serving."
+  ],
+  "tags": [
+    "chicken",
+    "mexican",
+    "main"
+  ],
+  "sourceUrl": null,
+  "notes": "servings estimated; comment lists ingredients only (no exact quantities for most items, no explicit steps) since the family varies this chili year to year",
+  "photoOnly": false
+}

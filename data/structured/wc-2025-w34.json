@@ -1,0 +1,61 @@
+{
+  "id": "wc-2025-w34",
+  "description": "Learn how to make the best aji verde sauce!",
+  "servings": 1,
+  "ingredients": [
+    {
+      "qty": null,
+      "unit": null,
+      "item": "&frac12; cup mayonnaise",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "cup",
+      "item": "lightly packed fresh cilantro",
+      "note": "mostly leaves but small stems are ok (from 1 big bunch of cilantro or 1 &frac12; medium)"
+    },
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "medium jalapeños",
+      "note": "seeds and membranes removed but reserved, roughly chopped"
+    },
+    {
+      "qty": 2.0,
+      "unit": "clove",
+      "item": "garlic",
+      "note": "roughly chopped"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "&#8531; cup (1 ounce) grated Cotija or Parmesan cheese",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "lime juice",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "&frac14; teaspoon fine sea salt",
+      "note": null
+    }
+  ],
+  "steps": [
+    "In a food processor or blender, combine all of the ingredients. Blend until the cilantro has broken into very tiny pieces and the sauce is green and mostly smooth (no matter how long you blend it, it will still have some texture to it).",
+    "Taste, and adjust if necessary. This sauce is intentionally bold and spicy and I usually think it&#8217;s just right as written. However, if the flavor is too overwhelming, blend in 1 tablespoon of olive oil while running the food processor. If it&#8217;s not spicy enough, add some of the reserved jalapeño seeds and blend again. If it doesn&#8217;t have enough zip, add another tablespoon of lime juice and/or a pinch of salt.",
+    "Aji verde keeps well in the refrigerator, covered, for about 1 week."
+  ],
+  "tags": [
+    "beef",
+    "sauce"
+  ],
+  "sourceUrl": "https://cookieandkate.com/aji-verde-recipe/",
+  "notes": null,
+  "photoOnly": false
+}

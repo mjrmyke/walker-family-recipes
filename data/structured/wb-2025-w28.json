@@ -1,0 +1,55 @@
+{
+  "id": "wb-2025-w28",
+  "description": "A scaled down version of this iconic dessert!",
+  "servings": 8,
+  "ingredients": [
+    {
+      "qty": 0.5,
+      "unit": "can",
+      "item": "sweetened condensed milk",
+      "note": "about 1 fluid cup"
+    },
+    {
+      "qty": 0.75,
+      "unit": "cup",
+      "item": "ice cold water",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "one-half package instant vanilla pudding mix from a 3.4-ounce box",
+      "note": "about 1/3 cup"
+    },
+    {
+      "qty": 1.5,
+      "unit": "cup",
+      "item": "well chilled heavy cream",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Nilla wafers",
+      "note": null
+    },
+    {
+      "qty": 4.0,
+      "unit": null,
+      "item": "ripe bananas",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Beat the condensed milk and water till smooth. Add the pudding mix and beat again until smooth. Cover and refrigerate till firm, at least 1 hour and up to overnight.",
+    "Beat the cream till stiff peaks form, being careful not to overbeat. Add the chilled pudding mixture, a spoonful at a time, beating on low speed after each addition.",
+    "In a large bowl, pan or container spoon one-fourth of the pudding over the bottom, spreading into an even layer. Top with a layer of Nilla wafers followed by a layer of sliced bananas. Repeat layering, finishing with the pudding mixture. Top with Nilla wafers if desired.",
+    "Cover and refrigerate for 4 - 6 hours, so that the wafers absorb the pudding mixture and soften. Serve immediately or keep refrigerated for up to 8 hours."
+  ],
+  "tags": [
+    "vegetarian"
+  ],
+  "sourceUrl": "https://sherisilver.com/2023/12/29/small-scale-magnolia-bakery-banana-pudding/#recipe",
+  "notes": null,
+  "photoOnly": false
+}

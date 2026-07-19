@@ -1,0 +1,64 @@
+{
+  "id": "wc-2024-w10",
+  "description": "Homemade Mochi Ice Cream is a sweet and chewy Japanese rice cake filled with your choice of ice cream in a soft, slightly chewy, sweet rice dough.",
+  "servings": 12,
+  "ingredients": [
+    {
+      "qty": 1.0,
+      "unit": "cup",
+      "item": "glutinous rice flour",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "cup",
+      "item": "sugar",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "powdered sugar",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "cup",
+      "item": "water",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "food coloring  (",
+      "note": "optional, to change the color of the dough)"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Cornstarch (",
+      "note": "or potato starch (for dusting and rolling))"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Ice cream (",
+      "note": "your favorite kind)"
+    }
+  ],
+  "steps": [
+    "Freeze ice cream balls:  Line a sheet pan with parchment paper. Working quickly, use a small ice cream scoop to scoop ice cream balls and place them onto the parchment paper.  Be sure to pack the ice cream tightly as you scoop, leaving a flat edge on the ice cream so that it will sit flat on your cookie sheet. Freeze for 1 hour.",
+    "Make mochi: Combine flour, sugar, and powdered sugar in a microwave safe bowl. Add water and stir well until smooth.  Cover the bowl with plastic wrap and microwave mochi dough for 1 minute. Wet your spatula to prevent sticking and use your spatula to repeatedly fold the mixture. Cover and microwave again for 1 minute.  Fold the dough again and microwave for 30 more seconds. The mochi should look slightly shiny and if it doesn&#039;t, microwave for 30 more seconds.",
+    "Roll dough: Place a piece of parchment paper on the counter and dust with a layer of cornstarch.  Use a rubber spatula to scrape the mochi dough from the bowl and onto the parchment paper (keep in mind that it will be very hot, so be careful not to touch it. Place the dirty dishes in the sink and soak them in water.",
+    "Dust the top of the dough ball with cornstarch.  Use a rolling pin to roll the mochi dough into a large rectangle. If the dough sticks at all while rolling, continue to dust the top with cornstarch to prevent sticking.  Roll the dough to a thickness of 1/4&#039;&#039;.  Place the parchment paper with the rolled out dough onto a sheet pan and refrigerate for 30 minutes.",
+    "Use scissors to cut large squares of plastic wrap (one for each ice cream ball). Each mochi will get wrapped in plastic wrap before freezing.",
+    "Fill the dough: Remove the dough from the fridge and use a round cookie or biscuit cutter (about 3 inch round) to cut circles in the dough.  Your circles need to be big enough to pinch the dough around the ice cream. Pick up one circle of dough and gently brush off the cornstarch from the top (I like to use a dry pastry brush to do this). Working with one scoop of ice cream at a time, keeping the rest in the freezer so they don&#039;t melt, place one ice cream scoop in the center of the mochi and gently press the dough around the ice cream.  Pinch the edges of the mochi to seal it. Place mochi on a piece of plastic wrap bringing the corners of the square to the center and twisting tightly at the top to seal it.",
+    "Freeze: Place mochi back in the freezer with the twisted plastic wrap side down. Continue with remaining dough and ice cream. Freeze mochi ice cream for at least 1 hour before eating. Once frozen, store it, still wrapped in the plastic wrap, in a freezer safe bag or container in the freezer for up to 3 months.  Allow the dough to slightly thaw before eating."
+  ],
+  "tags": [
+    "dessert"
+  ],
+  "sourceUrl": "https://tastesbetterfromscratch.com/mochi-ice-cream/",
+  "notes": null,
+  "photoOnly": false
+}

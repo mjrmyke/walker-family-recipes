@@ -1,0 +1,75 @@
+{
+  "id": "wc-2026-w25",
+  "description": "This easy Peach Pie recipe is a classic summer dessert, especially with a scoop of ice cream.",
+  "servings": 8,
+  "ingredients": [
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "premade pie crust - or make your own",
+      "note": null
+    },
+    {
+      "qty": 6.0,
+      "unit": null,
+      "item": "or 7 ripe peaches (peeled and sliced",
+      "note": "approximately 5 cups )"
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "lemon juice",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "granulated sugar",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "brown sugar",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "cup",
+      "item": "all-purpose flour",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": "pinch",
+      "item": "of ground nutmeg",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": "pinch",
+      "item": "of cinnamon",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "egg - beaten with a tablespoon of water",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Preheat your oven to 400 degrees. In a large bowl, add peaches, lemon juice, both sugars, salt, nutmeg, cinnamon, and flour and toss together until peaches are well coated.",
+    "Roll out half of the pie dough and place the rest in the refrigerator. Add rolled out pie dough to the bottom of your pie plate.",
+    "Fill pie dough with peach filling.",
+    "Roll out remaining dough and add to the top of the peach filling in a full sheet or in a lattice pattern",
+    "Brush top of pie crush with egg wash and sprinkle with sugar.",
+    "Bake for 35-45 minutes or until crust is golden brown and inside peach filling is bubbling."
+  ],
+  "tags": [
+    "dessert"
+  ],
+  "sourceUrl": "https://www.allthingsmamma.com/peach-pie/#wprm-recipe-container-39885",
+  "notes": null,
+  "photoOnly": false
+}

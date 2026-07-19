@@ -1,0 +1,102 @@
+{
+  "id": "wb-2025-w47",
+  "description": "A three-cheese baked mac and cheese (\"cheese with noods\") made with cavatappi and a creamy stovetop cheese sauce.",
+  "servings": 4,
+  "ingredients": [
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "lb. cavatappi pasta",
+      "note": "cooked"
+    },
+    {
+      "qty": 16.0,
+      "unit": "oz",
+      "item": "of mozzarella cheese",
+      "note": "grated"
+    },
+    {
+      "qty": 16.0,
+      "unit": "oz",
+      "item": "of Colby jack cheese",
+      "note": "grated"
+    },
+    {
+      "qty": 8.0,
+      "unit": "oz",
+      "item": "of cheddar cheese",
+      "note": "grated"
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "of garlic powder",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "of smoked paprika",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "of salt",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "of pepper",
+      "note": null
+    },
+    {
+      "qty": 3.0,
+      "unit": "tbsp",
+      "item": "of butter",
+      "note": null
+    },
+    {
+      "qty": 3.0,
+      "unit": "tbsp",
+      "item": "of flour",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "can",
+      "item": "Carnation Evaporated Milk",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "cup",
+      "item": "heavy cream",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "Dijon mustard",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Preheat oven to 350°F and grease a 9 x 13 inch baking dish.",
+    "Cook cavatappi per package directions, drain and set aside.",
+    "Combine all three shredded cheeses; divide half into another bowl.",
+    "Mix garlic powder, paprika, salt, and pepper; divide in half.",
+    "Melt butter, add half the seasoning and flour to form a paste; whisk in evaporated milk, heavy cream, remaining seasoning, and mustard until thick; slowly add half the cheese.",
+    "Stir pasta into cheese sauce until coated.",
+    "Layer pasta and remaining cheese alternately in the baking dish.",
+    "Bake 25-30 minutes until bubbly.",
+    "Broil 2 minutes until golden brown."
+  ],
+  "tags": [
+    "vegetarian"
+  ],
+  "sourceUrl": "https://rouxgirl.substack.com/p/tinis-famous-mac-and-cheese",
+  "notes": "servings estimated",
+  "photoOnly": false
+}

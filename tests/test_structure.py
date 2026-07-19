@@ -26,6 +26,12 @@ def test_external_defaults_servings_when_missing():
     assert b["servings"] == 4
     assert b["notes"] == "servings estimated"
 
+def test_external_missing_steps_degrades_to_photoonly():
+    b = structure_from_external(POST, {**EXT, "steps": []})
+    assert b["photoOnly"] is True
+    assert b["sourceUrl"] == "https://example.com/swsc"   # keeps the link
+    assert b["ingredients"] == [] and b["steps"] == []
+
 def test_photoonly_stub():
     b = structure_photoonly(POST, has_link=True)
     assert b["photoOnly"] is True

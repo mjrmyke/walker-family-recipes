@@ -1,0 +1,79 @@
+{
+  "id": "wc-2025-w1",
+  "description": "This healthy yet elegant weeknight chicken dish came to The Times in 1988, courtesy of Jacques Pépin.",
+  "servings": 8,
+  "ingredients": [
+    {
+      "qty": 13.0,
+      "unit": "oz",
+      "item": "chicken breasts",
+      "note": "skinless and boneless"
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "salt",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "freshly ground black pepper",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "vegetable oil",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "cup",
+      "item": "onion",
+      "note": "finely chopped"
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "flour",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "cup",
+      "item": "water",
+      "note": null
+    },
+    {
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "dry mustard",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "Dijon mustard",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Sprinkle the meat with the salt and pepper.",
+    "Heat the oil in a large skillet over medium-high heat. When it is hot, brown the chicken for one-and-a-half minutes on each side.",
+    "Mix in the onion and continue cooking for one minute.",
+    "Sprinkle the flour on the chicken pieces, turning them so that all the pieces are coated. Cook one minute to lightly brown the flour.",
+    "Add the water and stir to dissolve the flour until the mixture comes to a boil. Lower the heat, cover the skillet and boil gently for five minutes.",
+    "Remove the meat to a serving platter and keep warm.",
+    "Cook the sauce to reduce it to about one-and-a-half cups. Mix the dry mustard with the Dijon mustard and stir until smooth. Stir the mustard mixture into the sauce and heat, but do not allow the sauce to boil after the mustard has been added.",
+    "Place the chicken pieces in the sauce and warm over low heat for 10 to 15 minutes to develop the flavor.",
+    "Serve the chicken with the sauce."
+  ],
+  "tags": [
+    "chicken",
+    "sauce"
+  ],
+  "sourceUrl": "https://cooking.nytimes.com/recipes/4424-chicken-in-mustard-sauce",
+  "notes": null,
+  "photoOnly": false
+}

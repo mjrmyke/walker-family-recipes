@@ -1,0 +1,113 @@
+{
+  "id": "wc-2024-w25",
+  "description": "Recipe video above.",
+  "servings": 6,
+  "ingredients": [
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "vegetable oil",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "garlic cloves (",
+      "note": "finely minced)"
+    },
+    {
+      "qty": 0.5,
+      "unit": null,
+      "item": "onion (",
+      "note": "finely chopped)"
+    },
+    {
+      "qty": 0.5,
+      "unit": null,
+      "item": "red capsicum / bell peppers (",
+      "note": "diced (~ 3/4 cup))"
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "peas (",
+      "note": "frozen)"
+    },
+    {
+      "qty": 3.0,
+      "unit": "cup",
+      "item": "day old jasmine rice (",
+      "note": "cooked (Note 1))"
+    },
+    {
+      "qty": 1.5,
+      "unit": "cup",
+      "item": "pineapple pieces (",
+      "note": "fresh or canned drained (~ 220g) (Note 2))"
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "green onion (",
+      "note": "sliced)"
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "oyster sauce",
+      "note": null
+    },
+    {
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "fish sauce",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "sugar",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "oyster sauce",
+      "note": null
+    },
+    {
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "soy sauce (",
+      "note": "light or all purpose (not dark soy))"
+    },
+    {
+      "qty": 1.5,
+      "unit": "tbsp",
+      "item": "soy sauce",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "Thai Seasoning (Gold Mountain)",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Heat oil in a wok or large non stick skillet over high heat.",
+    "Add garlic and onion, cook for 1 minute.",
+    "Add capsicum, cook for 1 minute.",
+    "Add peas, stir for 30 seconds.",
+    "Add rice and Sauce ingredients of choice. Cook, stirring constantly, for 2 minutes or until rice grains goes from being wet with sauce to sort of caramelised.",
+    "Add pineapple, stir for just 30 seconds to warm through.",
+    "Stir through green onions then serve!"
+  ],
+  "tags": [
+    "chicken",
+    "seafood"
+  ],
+  "sourceUrl": "https://www.recipetineats.com/pineapple-fried-rice-thai/",
+  "notes": null,
+  "photoOnly": false
+}

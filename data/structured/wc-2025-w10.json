@@ -1,0 +1,92 @@
+{
+  "id": "wc-2025-w10",
+  "description": "A fusion of the classic Filipino adobo dish and fried rice makes this a delicious and hearty meal.",
+  "servings": 2,
+  "ingredients": [
+    {
+      "qty": 2.0,
+      "unit": "cup",
+      "item": "cooked",
+      "note": "day-old rice"
+    },
+    {
+      "qty": 0.5,
+      "unit": "lb",
+      "item": "pork belly",
+      "note": "sliced into small chunks"
+    },
+    {
+      "qty": 3.0,
+      "unit": "clove",
+      "item": "garlic",
+      "note": "minced"
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "soy sauce",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "brown sugar",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tsp",
+      "item": "vinegar",
+      "note": null
+    },
+    {
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "bay leaves",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "water",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "green onion",
+      "note": "chopped"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Fried egg",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Green onions",
+      "note": "chopped"
+    }
+  ],
+  "steps": [
+    "Heat the pork belly over medium heat, stirring occasionally to avoid burning. Continue cooking slowly to render out the fats until the pork is lightly crisp and golden brown.",
+    "Add in the minced garlic, stir and sauté in the rendered fat until golden and fragrant.",
+    "Add in the soy sauce, brown sugar, vinegar, black pepper, bay leaves, and water. Bring to a boil, then let simmer until the adobo liquid thickens and concentrates into a sauce, about 5-7 minutes.",
+    "Add in the rice. Stir until all the grains are evenly coated with the adobo sauce. Toss in the green onions and give the rice a final stir fry.",
+    "Serve warm and top with a fried egg and more green onions. Enjoy!"
+  ],
+  "tags": [
+    "pork"
+  ],
+  "sourceUrl": "https://iankewks.com/adobo-fried-rice/",
+  "notes": null,
+  "photoOnly": false
+}

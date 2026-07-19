@@ -1,0 +1,30 @@
+{
+  "id": "wb-2025-w37",
+  "description": "I really enjoy cooking and medieval history so I thought I would divulge into medieval cookery.",
+  "servings": 6,
+  "ingredients": [
+    {
+      "qty": 3.0,
+      "unit": null,
+      "item": "pears",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "sugar cinnamon mixture",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Preheat oven to 400F (200C).",
+    "Cut pears in half and core. Place in an oven dish and bake for 35 minutes. Pears should be slightly browned when done. Mix sugar and cinnamon together adjusting amounts of each to suit your taste (I used 2tsp sugar and 1tsp cinnamon)",
+    "Sprinkle with sugar and cinnamon mixture to taste and serve"
+  ],
+  "tags": [
+    "vegetarian"
+  ],
+  "sourceUrl": "https://www.justapinch.com/recipes/dessert/fruit-dessert/baked-pears-a-medieval-treat.html",
+  "notes": null,
+  "photoOnly": false
+}

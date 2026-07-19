@@ -1,0 +1,82 @@
+{
+  "id": "wc-2025-w9",
+  "description": "Soy-honey marinated chicken skewers threaded with pineapple and caramelized for a sweet, smoky grilled dinner.",
+  "servings": 4,
+  "ingredients": [
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "boneless, skinless chicken breasts",
+      "note": "cut into 1-1.5 inch cubes"
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "medium pineapple",
+      "note": "peeled, cored, and cut into chunks"
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "olive oil",
+      "note": "for the chicken"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "salt and pepper",
+      "note": "to taste"
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "soy sauce",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "honey",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "rice vinegar or apple cider vinegar",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "teriyaki sauce",
+      "note": "optional, for extra flavor"
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "garlic powder",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "ginger",
+      "note": "fresh or ground"
+    }
+  ],
+  "steps": [
+    "In a bowl, combine the soy sauce, honey, vinegar, teriyaki sauce (if using), garlic powder, ginger, and a pinch of salt and pepper. Add the chicken cubes and toss to coat. Marinate in the fridge for at least 20 minutes (up to 1 hour).",
+    "Preheat the oven to 425°F (220°C) or heat a grill pan or skillet over medium-high heat. If using wooden skewers, soak them in water for 15-20 minutes to prevent burning.",
+    "Thread the chicken cubes and pineapple chunks onto the skewers, alternating between the chicken and pineapple.",
+    "Heat the olive oil in a pan. Once hot, add the pineapple chunks and cook for 2-3 minutes, flipping to caramelize the sides.",
+    "Place the skewers on a parchment- or foil-lined baking sheet, brush with a bit of the remaining marinade, and bake for 20-25 minutes, flipping halfway through, until the chicken reaches an internal temperature of 165°F (74°C).",
+    "Brush the cooked skewers with extra teriyaki glaze if desired and serve immediately."
+  ],
+  "tags": [
+    "chicken",
+    "grill"
+  ],
+  "sourceUrl": null,
+  "notes": "servings estimated",
+  "photoOnly": false
+}

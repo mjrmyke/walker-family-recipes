@@ -1,0 +1,77 @@
+{
+  "id": "wc-2024-w34",
+  "description": "Fried Pickles — a Fairs & Festivals week recipe.",
+  "servings": 4,
+  "ingredients": [
+    {
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "mayonnaise or vegan mayo",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "mustard",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "hot sauce",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "paprika",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": null,
+      "item": "garlic cloves grated",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": null,
+      "item": "scallion finely chopped",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tsp",
+      "item": "fresh lemon juice",
+      "note": null
+    },
+    {
+      "qty": 0.125,
+      "unit": "tsp",
+      "item": "onion powder",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": "pinch",
+      "item": "of cayenne",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "Chives for sprinkling optional",
+      "note": null
+    }
+  ],
+  "steps": [
+    "In a small bowl, stir together the mayonnaise, mustard, hot sauce, paprika, garlic, scallion, lemon juice, onion powder, and cayenne.",
+    "See the blog post above for remoulade serving suggestions."
+  ],
+  "tags": [
+    "vegetarian"
+  ],
+  "sourceUrl": "https://www.loveandlemons.com/remoulade-sauce/#wprm-recipe-container-64691",
+  "notes": null,
+  "photoOnly": false
+}

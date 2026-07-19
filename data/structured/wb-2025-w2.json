@@ -1,0 +1,123 @@
+{
+  "id": "wb-2025-w2",
+  "description": "The classic Italian pizza made using fresh rather than dried yeast for the perfect crust.",
+  "servings": 2,
+  "ingredients": [
+    {
+      "qty": 200.0,
+      "unit": "g",
+      "item": "‘00’ flour",
+      "note": "plus extra for dusting"
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "fine salt",
+      "note": null
+    },
+    {
+      "qty": 10.0,
+      "unit": "g",
+      "item": "fresh yeast",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": "pinch",
+      "item": "of caster sugar",
+      "note": null
+    },
+    {
+      "qty": 115.0,
+      "unit": "ml",
+      "item": "lukewarm water",
+      "note": null
+    },
+    {
+      "qty": 2.0,
+      "unit": "tbsp",
+      "item": "olive oil",
+      "note": "plus extra for greasing"
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "semolina",
+      "note": "for dusting"
+    },
+    {
+      "qty": 3.0,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil",
+      "note": null
+    },
+    {
+      "qty": 4.0,
+      "unit": null,
+      "item": "garlic cloves",
+      "note": "peeled and finely chopped"
+    },
+    {
+      "qty": 400.0,
+      "unit": "g",
+      "item": "can San Marzano plum tomatoes",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": null,
+      "item": "juice of ½ lemon",
+      "note": null
+    },
+    {
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "caster sugar",
+      "note": null
+    },
+    {
+      "qty": null,
+      "unit": "pinch",
+      "item": "of salt",
+      "note": null
+    },
+    {
+      "qty": 1.0,
+      "unit": "tbsp",
+      "item": "extra-virgin olive oil",
+      "note": null
+    },
+    {
+      "qty": 125.0,
+      "unit": "g",
+      "item": "ball mozzarella",
+      "note": null
+    },
+    {
+      "qty": 6.0,
+      "unit": null,
+      "item": "basil leaves",
+      "note": null
+    }
+  ],
+  "steps": [
+    "For the dough, sift the flour and salt into a bowl and make a well. In a separate bowl, mix the yeast with the sugar and 1 tablespoon of the warm water to a thin ‘cream’.",
+    "Pour the yeast mixture into the flour well. Add the olive oil, then enough water so that it comes together in a soft dough. Knead by hand for 10 minutes, until smooth.",
+    "Place the dough on the baking tray and cover with the oiled cling film. Leave to rise somewhere warm until doubled in size (about 45 minutes).",
+    "For the tomato sauce, heat the olive oil in a frying pan over a medium heat. Fry the garlic for 1–2 minutes on a low heat, until softened but not coloured.",
+    "Add the tomatoes to the frying pan and squash them as much as possible with the back of a wooden spoon.",
+    "Bring to the boil and add the lemon juice, sugar and salt. Reduce the heat to low and simmer for 5–10 minutes, until reduced to a sauce consistency. Remove from the heat and taste for seasoning.",
+    "Heat the oven to 240°C/220°C fan/475°F/Gas 8 and place the pizza stones or baking sheets in the oven.",
+    "Uncover the dough and knock it back on a lightly floured worktop. Divide the dough into 2 balls. Toss 1 ball into a 30cm round – avoid pressing the edges as that prevents a crust forming.",
+    "Dust 1 pizza peel or baking sheet with semolina. Transfer the dough circle to the peel or baking sheet and brush with 1 tablespoon of the olive oil. Spread over 3 tablespoons of the tomato sauce and top with half of the mozzarella. Repeat steps 8 and 9 for the other dough half.",
+    "Sprinkle the hot stones or baking sheets with semolina. Immediately transfer the pizzas onto the stones or baking sheets and bake for 12–15 minutes, until the crusts are blistered and the cheese is bubbling.",
+    "Remove from the oven and top with basil leaves before serving."
+  ],
+  "tags": [
+    "italian",
+    "vegetarian"
+  ],
+  "sourceUrl": "https://thegreatbritishbakeoff.co.uk/recipes/all/prue-leith-pizza-margherita/",
+  "notes": null,
+  "photoOnly": false
+}
