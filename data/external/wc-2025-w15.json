@@ -1,7 +1,37 @@
 {
   "id": "wc-2025-w15",
   "recipe_url": "https://caribbeantrading.com/the-best-puerto-rican-tacos-recipes-to-try-at-home/",
-  "ok": false,
-  "reason": "no-recipe-ld-or-wprm",
-  "http_status": 200
+  "ok": true,
+  "extractor": "webfetch",
+  "name": "Classic Puerto Rican Tacos (Ground Beef)",
+  "description": "Ground beef seasoned with Puerto Rican-inspired flavors and served taco-style in tortillas with fresh toppings.",
+  "ingredients": [
+    "1 pound ground beef",
+    "1 small onion, finely chopped",
+    "2 cloves garlic, minced",
+    "1 small bell pepper, finely chopped (green or red)",
+    "1 tablespoon olive oil",
+    "1 tablespoon tomato paste",
+    "1 teaspoon ground cumin",
+    "1 teaspoon dried oregano",
+    "1/2 teaspoon paprika",
+    "Salt and pepper to taste",
+    "1/4 cup water",
+    "Sliced olives, capers, or raisins for added Puerto Rican flair (optional)",
+    "Soft corn or flour tortillas",
+    "Shredded lettuce",
+    "Chopped fresh tomatoes",
+    "Sliced avocado",
+    "Sour cream",
+    "Grated cheese (queso fresco or cheddar work well)",
+    "Hot sauce or salsa (optional)"
+  ],
+  "steps": [
+    "Heat olive oil in a large skillet over medium-high heat. Add onion and bell pepper; sauté 2-3 minutes until softened. Add garlic and sauté 30 seconds until fragrant.",
+    "Place ground beef in skillet. Break apart with spatula and cook until browned and cooked through.",
+    "Stir in tomato paste, cumin, oregano, paprika, salt, and pepper. Add olives, capers, or raisins if desired.",
+    "Pour in water and stir well. Reduce heat to low and simmer 5-7 minutes, allowing flavors to meld. Adjust seasonings as needed.",
+    "Warm tortillas in a dry skillet or microwave. Assemble tacos by placing beef filling in center of each tortilla. Top with lettuce, tomatoes, avocado, sour cream, and cheese."
+  ],
+  "servings": null
 }

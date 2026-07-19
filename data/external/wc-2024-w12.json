@@ -1,7 +1,21 @@
 {
   "id": "wc-2024-w12",
   "recipe_url": "https://www.kidspot.com.au/kitchen/recipes/green-eggs-ham-recipe-book-week/s596gw17",
-  "ok": false,
-  "reason": "http-403",
-  "http_status": 403
+  "ok": true,
+  "extractor": "browser",
+  "name": "Green eggs and ham recipe for Book Week",
+  "description": "Deliveroo brings Dr. Seuss’ childhood classic ‘Green Eggs and Ham’ to life in honour of Children’s Book Week.",
+  "ingredients": [
+    "6 extra large free range eggs",
+    "120g ham off the bone",
+    "50ml green food colouring"
+  ],
+  "steps": [
+    "Place a drop of food colouring on a slice of ham. Spread it around with your finger or a basting brush and pat any excess dye off with a paper towel. Fry the ham until the edges turn crispy (optional).",
+    "Combine water and food dye in a small bowl. Crack an egg and let just the yolk bathe in the mixture.",
+    "Heat a frying pan on low and add a teaspoon of oil. Pour the egg whites into the pan one at a time and let sit for a moment.",
+    "Add the green yolk to the middle of the sizzling egg white and cook to your liking.",
+    "Remove eggs carefully and place on plate. Place ham on plate and season accordingly."
+  ],
+  "servings": null
 }

@@ -1,0 +1,718 @@
+{
+  "wc-2024-w1": {
+    "image": "images/chilli-and-cornbread-wc-2024-w1.webp",
+    "gallery": []
+  },
+  "wc-2024-w2": {
+    "image": "images/potstickers-with-dipping-sauce-wc-2024-w2.webp",
+    "gallery": []
+  },
+  "wc-2024-w3": {
+    "image": "images/garlic-chilli-chicken-curry-wc-2024-w3.webp",
+    "gallery": []
+  },
+  "wc-2024-w4": {
+    "image": "images/lemons-lemons-lemons-wc-2024-w4.webp",
+    "gallery": []
+  },
+  "wc-2024-w5": {
+    "image": "images/cosmic-brownies-wc-2024-w5.webp",
+    "gallery": []
+  },
+  "wc-2024-w6": {
+    "image": "images/crepes-suzette-wc-2024-w6.webp",
+    "gallery": []
+  },
+  "wc-2024-w7": {
+    "image": "images/taco-bells-double-decker-taco-wc-2024-w7.webp",
+    "gallery": []
+  },
+  "wc-2024-w8": {
+    "image": "images/spicy-garlic-hummus-wc-2024-w8.webp",
+    "gallery": []
+  },
+  "wc-2024-w9": {
+    "image": "images/chipa-guaz-wc-2024-w9.webp",
+    "gallery": []
+  },
+  "wc-2024-w10": {
+    "image": "images/mochi-ice-cream-wc-2024-w10.webp",
+    "gallery": []
+  },
+  "wc-2024-w11": {
+    "image": "images/mac-n-cheese-wc-2024-w11.webp",
+    "gallery": []
+  },
+  "wc-2024-w12": {
+    "image": "images/green-eggs-and-ham-wc-2024-w12.webp",
+    "gallery": []
+  },
+  "wc-2024-w13": {
+    "image": "images/homemade-peeps-wc-2024-w13.webp",
+    "gallery": []
+  },
+  "wc-2024-w14": {
+    "image": "images/miso-orange-salad-wc-2024-w14.webp",
+    "gallery": []
+  },
+  "wc-2024-w15": {
+    "image": "images/sloppy-joe-wc-2024-w15.webp",
+    "gallery": []
+  },
+  "wc-2024-w16": {
+    "image": "images/chicken-shawarma-wc-2024-w16.webp",
+    "gallery": []
+  },
+  "wc-2024-w17": {
+    "image": "images/bbq-burgers-and-a-cold-tea-wc-2024-w17.webp",
+    "gallery": []
+  },
+  "wc-2024-w18": {
+    "image": "images/general-tsos-chicken-wc-2024-w18.webp",
+    "gallery": []
+  },
+  "wc-2024-w19": {
+    "image": "images/apple-dumplings-wc-2024-w19.webp",
+    "gallery": []
+  },
+  "wc-2024-w20": {
+    "image": "images/moms-spaghetti-wc-2024-w20.webp",
+    "gallery": []
+  },
+  "wc-2024-w21": {
+    "image": "images/scrambled-eggs-wc-2024-w21.webp",
+    "gallery": []
+  },
+  "wc-2024-w22": {
+    "image": "images/carne-asada-tacos-wc-2024-w22.webp",
+    "gallery": []
+  },
+  "wc-2024-w23": {
+    "image": "images/country-style-ribs-wc-2024-w23.webp",
+    "gallery": []
+  },
+  "wc-2024-w24": {
+    "image": "images/blueberry-waffles-wc-2024-w24.webp",
+    "gallery": []
+  },
+  "wc-2024-w25": {
+    "image": "images/huli-huli-chicken-and-pineapple-fried-rice-wc-2024-w25.webp",
+    "gallery": []
+  },
+  "wc-2024-w26": {
+    "image": "images/homemade-raspberry-jello-wc-2024-w26.webp",
+    "gallery": []
+  },
+  "wc-2024-w27": {
+    "image": "images/roasted-tomato-soup-wc-2024-w27.webp",
+    "gallery": []
+  },
+  "wc-2024-w28": {
+    "image": "images/smash-cake-wc-2024-w28.webp",
+    "gallery": []
+  },
+  "wc-2024-w29": {
+    "image": "images/spicy-garlic-aioli-wc-2024-w29.webp",
+    "gallery": []
+  },
+  "wc-2024-w30": {
+    "image": "images/carne-asada-taco-salad-wc-2024-w30.webp",
+    "gallery": []
+  },
+  "wc-2024-w31": {
+    "image": "images/nachos-wc-2024-w31.webp",
+    "gallery": []
+  },
+  "wc-2024-w32": {
+    "image": "images/patatas-a-lo-pobre-wc-2024-w32.webp",
+    "gallery": []
+  },
+  "wc-2024-w33": {
+    "image": "images/cheesy-poblano-corn-enchiladas-wc-2024-w33.webp",
+    "gallery": []
+  },
+  "wc-2024-w34": {
+    "image": "images/fried-pickles-wc-2024-w34.webp",
+    "gallery": []
+  },
+  "wc-2024-w35": {
+    "image": "images/cascaval-cheese-wc-2024-w35.webp",
+    "gallery": []
+  },
+  "wc-2024-w38": {
+    "image": "images/pancit-lumpia-and-dipping-sauce-wc-2024-w38.webp",
+    "gallery": []
+  },
+  "wc-2024-w39": {
+    "image": "images/garlic-butter-basted-tri-tip-wc-2024-w39.webp",
+    "gallery": []
+  },
+  "wc-2024-w40": {
+    "image": "images/saut-ed-mushrooms-wc-2024-w40.webp",
+    "gallery": []
+  },
+  "wc-2024-w41": {
+    "image": "images/steak-gatsby-sandwich-wc-2024-w41.webp",
+    "gallery": []
+  },
+  "wc-2024-w42": {
+    "image": "images/chicken-chile-verde-wc-2024-w42.webp",
+    "gallery": []
+  },
+  "wc-2024-w43": {
+    "image": "images/butter-chicken-wc-2024-w43.webp",
+    "gallery": []
+  },
+  "wc-2024-w44": {
+    "image": "images/haitian-baked-ziti-wc-2024-w44.webp",
+    "gallery": []
+  },
+  "wc-2024-w45": {
+    "image": "images/lemon-garlic-chicken-wc-2024-w45.webp",
+    "gallery": []
+  },
+  "wc-2024-w46": {
+    "image": "images/hot-wings-wc-2024-w46.webp",
+    "gallery": []
+  },
+  "wc-2024-w47": {
+    "image": "images/yakitori-edamame-and-gyoza-wc-2024-w47.webp",
+    "gallery": []
+  },
+  "wc-2024-w48": {
+    "image": "images/tex-mex-chicken-casserole-wc-2024-w48.webp",
+    "gallery": []
+  },
+  "wc-2024-w49": {
+    "image": "images/garlic-butter-oven-baked-tilapia-wc-2024-w49.webp",
+    "gallery": []
+  },
+  "wc-2024-w50": {
+    "image": "images/to-err-is-cumin-burger-wc-2024-w50.webp",
+    "gallery": []
+  },
+  "wc-2024-w51": {
+    "image": "images/haluski-wc-2024-w51.webp",
+    "gallery": []
+  },
+  "wc-2024-w52": {
+    "image": "images/bbq-pulled-pork-wc-2024-w52.webp",
+    "gallery": []
+  },
+  "wc-2025-w1": {
+    "image": "images/chicken-in-mustard-sauce-wc-2025-w1.webp",
+    "gallery": []
+  },
+  "wb-2025-w1": {
+    "image": "images/bierocks-wb-2025-w1.webp",
+    "gallery": []
+  },
+  "wc-2025-w2": {
+    "image": "images/cock-a-leekie-traybake-wc-2025-w2.webp",
+    "gallery": []
+  },
+  "wb-2025-w2": {
+    "image": "images/prue-leiths-pizza-margherita-wb-2025-w2.webp",
+    "gallery": []
+  },
+  "wc-2025-w3": {
+    "image": "images/vietnamese-summer-rolls-wc-2025-w3.webp",
+    "gallery": []
+  },
+  "wb-2025-w3": {
+    "image": "images/little-debbie-banana-twins-wb-2025-w3.webp",
+    "gallery": []
+  },
+  "wc-2025-w4": {
+    "image": "images/roasted-cauliflower-steaks-with-chimichurri-sauce-wc-2025-w4.webp",
+    "gallery": []
+  },
+  "wb-2025-w4": {
+    "image": "images/pineapple-buns-wb-2025-w4.webp",
+    "gallery": []
+  },
+  "wb-2025-w5": {
+    "image": "images/cornish-pasty-wb-2025-w5.webp",
+    "gallery": []
+  },
+  "wc-2025-w5": {
+    "image": "images/brown-rice-salad-with-avocado-wc-2025-w5.webp",
+    "gallery": []
+  },
+  "wb-2025-w6": {
+    "image": "images/banana-donut-holes-wb-2025-w6.webp",
+    "gallery": []
+  },
+  "wc-2025-w6": {
+    "image": "images/flamb-wc-2025-w6.webp",
+    "gallery": []
+  },
+  "wb-2025-w7": {
+    "image": "images/banana-muffins-wb-2025-w7.webp",
+    "gallery": []
+  },
+  "wc-2025-w7": {
+    "image": "images/chicken-gyros-with-tzatziki-sauce-wc-2025-w7.webp",
+    "gallery": []
+  },
+  "wc-2025-w8": {
+    "image": "images/world-of-warcraft-skewered-peanut-chicken-wc-2025-w8.webp",
+    "gallery": []
+  },
+  "wb-2025-w9": {
+    "image": "images/pao-de-queijo-wb-2025-w9.webp",
+    "gallery": []
+  },
+  "wc-2025-w9": {
+    "image": "images/caramelized-pineapple-and-chicken-skewers-wc-2025-w9.webp",
+    "gallery": []
+  },
+  "wb-2025-w10": {
+    "image": "images/cupcake-bouquet-wb-2025-w10.webp",
+    "gallery": []
+  },
+  "wc-2025-w10": {
+    "image": "images/filipino-adobo-fried-rice-wc-2025-w10.webp",
+    "gallery": []
+  },
+  "wb-2025-w11": {
+    "image": "images/chocolate-cake-wb-2025-w11.webp",
+    "gallery": []
+  },
+  "wc-2025-w11": {
+    "image": "images/baked-macaroni-and-cheese-wc-2025-w11.webp",
+    "gallery": []
+  },
+  "wb-2025-w12": {
+    "image": "images/apple-zucchini-muffins-wb-2025-w12.webp",
+    "gallery": []
+  },
+  "wc-2025-w12": {
+    "image": "images/mishkaki-style-strip-steak-with-kachumber-wc-2025-w12.webp",
+    "gallery": []
+  },
+  "wb-2025-w13": {
+    "image": "images/chocolate-chip-cookies-wb-2025-w13.webp",
+    "gallery": []
+  },
+  "wc-2025-w13": {
+    "image": "images/hidden-veggie-fettuccine-wc-2025-w13.webp",
+    "gallery": []
+  },
+  "wb-2025-w14": {
+    "image": "images/stardew-valley-pink-cake-wb-2025-w14.webp",
+    "gallery": []
+  },
+  "wc-2025-w14": {
+    "image": "images/tomahawk-steak-and-mashed-potato-volcano-with-dino-nuggets-wc-2025-w14.webp",
+    "gallery": []
+  },
+  "wb-2025-w15": {
+    "image": "images/mexican-pan-dulce-wb-2025-w15.webp",
+    "gallery": []
+  },
+  "wc-2025-w15": {
+    "image": "images/tacos-and-toddler-tacos-wc-2025-w15.webp",
+    "gallery": []
+  },
+  "wc-2025-w16": {
+    "image": "images/tempura-veggies-wc-2025-w16.webp",
+    "gallery": []
+  },
+  "wb-2025-w17": {
+    "image": "images/space-themed-cookies-wb-2025-w17.webp",
+    "gallery": []
+  },
+  "wc-2025-w17": {
+    "image": "images/tri-tip-rice-bowl-wc-2025-w17.webp",
+    "gallery": []
+  },
+  "wc-2025-w18": {
+    "image": "images/three-cup-chicken-and-stir-fried-cabbage-wc-2025-w18.webp",
+    "gallery": []
+  },
+  "wb-2025-w18": {
+    "image": "images/strawberry-and-blueberry-turnovers-wb-2025-w18.webp",
+    "gallery": []
+  },
+  "wb-2025-w19": {
+    "image": "images/jello-poke-cake-wb-2025-w19.webp",
+    "gallery": []
+  },
+  "wc-2025-w19": {
+    "image": "images/spanish-potato-soup-wc-2025-w19.webp",
+    "gallery": []
+  },
+  "wb-2025-w20": {
+    "image": "images/jalape-o-cheddar-cheese-bread-wb-2025-w20.webp",
+    "gallery": []
+  },
+  "wc-2025-w20": {
+    "image": "images/carne-asada-tacos-wc-2025-w20.webp",
+    "gallery": []
+  },
+  "wc-2025-w21": {
+    "image": "images/new-york-steak-wc-2025-w21.webp",
+    "gallery": []
+  },
+  "wb-2025-w21": {
+    "image": "images/funfetti-birthday-cake-wb-2025-w21.webp",
+    "gallery": []
+  },
+  "wb-2025-w22": {
+    "image": "images/apple-crumble-wb-2025-w22.webp",
+    "gallery": []
+  },
+  "wc-2025-w22": {
+    "image": "images/baby-you-can-chive-my-car-burger-with-homemade-pickles-wc-2025-w22.webp",
+    "gallery": []
+  },
+  "wb-2025-w23": {
+    "image": "images/ube-ice-cream-wb-2025-w23.webp",
+    "gallery": []
+  },
+  "wc-2025-w23": {
+    "image": "images/homemade-pasta-with-garlic-and-oregano-pesto-wc-2025-w23.webp",
+    "gallery": []
+  },
+  "wb-2025-w24": {
+    "image": "images/blackberry-cheesecake-wb-2025-w24.webp",
+    "gallery": []
+  },
+  "wc-2025-w24": {
+    "image": "images/rainbow-skewers-wc-2025-w24.webp",
+    "gallery": []
+  },
+  "wb-2025-w25": {
+    "image": null,
+    "gallery": []
+  },
+  "wc-2025-w25": {
+    "image": "images/ramen-wc-2025-w25.webp",
+    "gallery": []
+  },
+  "wb-2025-w26": {
+    "image": "images/failed-timbits-wb-2025-w26.webp",
+    "gallery": []
+  },
+  "wc-2025-w26": {
+    "image": "images/sauce-wc-2025-w26.webp",
+    "gallery": []
+  },
+  "wb-2025-w27": {
+    "image": "images/turkey-and-cheese-crescent-roll-ups-wb-2025-w27.webp",
+    "gallery": []
+  },
+  "wc-2025-w27": {
+    "image": "images/sloppy-joes-wc-2025-w27.webp",
+    "gallery": []
+  },
+  "wb-2025-w28": {
+    "image": "images/rimworld-nutrient-paste-wb-2025-w28.webp",
+    "gallery": []
+  },
+  "wc-2025-w28": {
+    "image": "images/fresno-pepper-chili-wc-2025-w28.webp",
+    "gallery": []
+  },
+  "wb-2025-w29": {
+    "image": "images/chocolate-chip-cookies-wb-2025-w29.webp",
+    "gallery": []
+  },
+  "wc-2025-w29": {
+    "image": "images/peach-salad-wc-2025-w29.webp",
+    "gallery": []
+  },
+  "wb-2025-w30": {
+    "image": "images/angel-food-cupcakes-wb-2025-w30.webp",
+    "gallery": []
+  },
+  "wc-2025-w30": {
+    "image": "images/fruit-and-cheese-plate-wc-2025-w30.webp",
+    "gallery": []
+  },
+  "wb-2025-w31": {
+    "image": "images/r-aspberry-e-mpanadas-wb-2025-w31.webp",
+    "gallery": []
+  },
+  "wc-2025-w31": {
+    "image": "images/num-pang-pulled-pork-banh-mi-sandwich-wc-2025-w31.webp",
+    "gallery": []
+  },
+  "wb-2025-w32": {
+    "image": "images/potato-pancakes-with-peanut-sauce-wb-2025-w32.webp",
+    "gallery": []
+  },
+  "wc-2025-w32": {
+    "image": "images/citrus-salad-and-baked-potato-wc-2025-w32.webp",
+    "gallery": []
+  },
+  "wb-2025-w33": {
+    "image": "images/salted-caramel-biscoff-cupcakes-wb-2025-w33.webp",
+    "gallery": []
+  },
+  "wc-2025-w33": {
+    "image": "images/mini-pizza-wc-2025-w33.webp",
+    "gallery": []
+  },
+  "wb-2025-w34": {
+    "image": "images/healthy-blueberry-muffins-wb-2025-w34.webp",
+    "gallery": []
+  },
+  "wc-2025-w34": {
+    "image": "images/steak-with-aji-verde-sauce-wc-2025-w34.webp",
+    "gallery": []
+  },
+  "wc-2025-w35": {
+    "image": "images/applewood-smoked-ham-wc-2025-w35.webp",
+    "gallery": []
+  },
+  "wb-2025-w36": {
+    "image": "images/black-garlic-bread-wb-2025-w36.webp",
+    "gallery": []
+  },
+  "wc-2025-w36": {
+    "image": "images/baked-eggplant-parmesan-wc-2025-w36.webp",
+    "gallery": []
+  },
+  "wb-2025-w37": {
+    "image": "images/baked-pears-wb-2025-w37.webp",
+    "gallery": []
+  },
+  "wc-2025-w37": {
+    "image": "images/new-mexico-green-chile-chicken-stew-wc-2025-w37.webp",
+    "gallery": []
+  },
+  "wb-2025-w38": {
+    "image": "images/fruity-pebbles-rice-crispy-treats-wb-2025-w38.webp",
+    "gallery": []
+  },
+  "wc-2025-w38": {
+    "image": "images/failed-alphabet-alfredo-pasta-wc-2025-w38.webp",
+    "gallery": []
+  },
+  "wb-2025-w39": {
+    "image": "images/garlic-breadsticks-wb-2025-w39.webp",
+    "gallery": []
+  },
+  "wc-2025-w39": {
+    "image": "images/tamarind-chicken-rice-bowl-wc-2025-w39.webp",
+    "gallery": []
+  },
+  "wb-2025-w40": {
+    "image": "images/pineapple-moon-shaped-pancakes-wb-2025-w40.webp",
+    "gallery": []
+  },
+  "wc-2025-w40": {
+    "image": "images/hades-pomegranate-seed-salad-wc-2025-w40.webp",
+    "gallery": []
+  },
+  "wb-2025-w41": {
+    "image": "images/mini-mummy-dogs-wb-2025-w41.webp",
+    "gallery": []
+  },
+  "wc-2025-w41": {
+    "image": "images/philly-cheesesteak-wc-2025-w41.webp",
+    "gallery": []
+  },
+  "wb-2025-w42": {
+    "image": "images/garlic-naan-bread-wb-2025-w42.webp",
+    "gallery": []
+  },
+  "wc-2025-w42": {
+    "image": "images/marshmallow-fruit-dip-wc-2025-w42.webp",
+    "gallery": []
+  },
+  "wb-2025-w43": {
+    "image": "images/baked-apples-wb-2025-w43.webp",
+    "gallery": []
+  },
+  "wc-2025-w43": {
+    "image": "images/spill-the-beans-bloody-bean-dip-wc-2025-w43.webp",
+    "gallery": []
+  },
+  "wb-2025-w44": {
+    "image": "images/gordon-ramsays-waffles-wb-2025-w44.webp",
+    "gallery": []
+  },
+  "wc-2025-w44": {
+    "image": "images/beef-plov-wc-2025-w44.webp",
+    "gallery": []
+  },
+  "wb-2025-w45": {
+    "image": "images/vanilla-mug-cake-wb-2025-w45.webp",
+    "gallery": []
+  },
+  "wc-2025-w45": {
+    "image": "images/baked-apples-wc-2025-w45.webp",
+    "gallery": []
+  },
+  "wb-2025-w46": {
+    "image": "images/hot-chocolate-affogato-wb-2025-w46.webp",
+    "gallery": []
+  },
+  "wc-2025-w46": {
+    "image": "images/brussels-sprouts-wc-2025-w46.webp",
+    "gallery": []
+  },
+  "wb-2025-w47": {
+    "image": "images/mac-and-cheese-wb-2025-w47.webp",
+    "gallery": []
+  },
+  "wc-2025-w47": {
+    "image": "images/ponzu-marinated-skirt-steak-wc-2025-w47.webp",
+    "gallery": []
+  },
+  "wb-2025-w48": {
+    "image": "images/apple-rose-puffed-pastry-wb-2025-w48.webp",
+    "gallery": []
+  },
+  "wc-2025-w48": {
+    "image": "images/mac-and-cheese-wc-2025-w48.webp",
+    "gallery": []
+  },
+  "wb-2025-w49": {
+    "image": "images/trifle-wb-2025-w49.webp",
+    "gallery": []
+  },
+  "wc-2025-w49": {
+    "image": "images/lucy-in-the-sky-with-onions-wc-2025-w49.webp",
+    "gallery": []
+  },
+  "wc-2025-w50": {
+    "image": "images/strawberries-and-cream-wc-2025-w50.webp",
+    "gallery": []
+  },
+  "wc-2025-w51": {
+    "image": "images/ground-beef-burger-wc-2025-w51.webp",
+    "gallery": []
+  },
+  "wc-2025-w52": {
+    "image": "images/zesty-italian-chicken-sliders-wc-2025-w52.webp",
+    "gallery": []
+  },
+  "wc-2026-w1": {
+    "image": "images/where-did-the-spaghetti-go-to-dance-the-meat-ball-wc-2026-w1.webp",
+    "gallery": []
+  },
+  "wc-2026-w2": {
+    "image": "images/satay-wc-2026-w2.webp",
+    "gallery": []
+  },
+  "wc-2026-w3": {
+    "image": "images/tacos-two-ways-wc-2026-w3.webp",
+    "gallery": []
+  },
+  "wc-2026-w4": {
+    "image": "images/sweet-and-sour-chicken-wc-2026-w4.webp",
+    "gallery": []
+  },
+  "wc-2026-w5": {
+    "image": "images/rolex-wc-2026-w5.webp",
+    "gallery": []
+  },
+  "wc-2026-w6": {
+    "image": "images/spicy-miso-hot-pot-wc-2026-w6.webp",
+    "gallery": []
+  },
+  "wc-2026-w7": {
+    "image": "images/banana-bread-wc-2026-w7.webp",
+    "gallery": []
+  },
+  "wc-2026-w8": {
+    "image": "images/flight-of-tacos-wc-2026-w8.webp",
+    "gallery": []
+  },
+  "wc-2026-w9": {
+    "image": "images/carnitas-wc-2026-w9.webp",
+    "gallery": []
+  },
+  "wc-2026-w10": {
+    "image": "images/carne-asada-tacos-wc-2026-w10.webp",
+    "gallery": []
+  },
+  "wc-2026-w11": {
+    "image": "images/sloppy-joes-wc-2026-w11.webp",
+    "gallery": []
+  },
+  "wc-2026-w12": {
+    "image": "images/ponyo-ramen-wc-2026-w12.webp",
+    "gallery": []
+  },
+  "wc-2026-w13": {
+    "image": "images/chilis-baby-back-ribs-wc-2026-w13.webp",
+    "gallery": []
+  },
+  "wc-2026-w14": {
+    "image": "images/cherry-blossom-cupcakes-fail-wc-2026-w14.webp",
+    "gallery": []
+  },
+  "wc-2026-w15": {
+    "image": "images/shish-taouk-syrian-chicken-skewers-wc-2026-w15.webp",
+    "gallery": []
+  },
+  "wc-2026-w16": {
+    "image": "images/parsley-infused-olive-oil-chimichurri-sauce-wc-2026-w16.webp",
+    "gallery": []
+  },
+  "wc-2026-w17": {
+    "image": "images/potato-rosti-wc-2026-w17.webp",
+    "gallery": []
+  },
+  "wc-2026-w18": {
+    "image": "images/spicy-ramen-japan-wc-2026-w18.webp",
+    "gallery": []
+  },
+  "wc-2026-w19": {
+    "image": "images/tortellini-wc-2026-w19.webp",
+    "gallery": []
+  },
+  "wc-2026-w20": {
+    "image": "images/jello-cloud-mousse-wc-2026-w20.webp",
+    "gallery": []
+  },
+  "wc-2026-w21": {
+    "image": "images/carne-asada-tacos-wc-2026-w21.webp",
+    "gallery": []
+  },
+  "wc-2026-w22": {
+    "image": "images/cheeseburger-sliders-wc-2026-w22.webp",
+    "gallery": []
+  },
+  "wc-2026-w23": {
+    "image": "images/coffee-ice-cream-wc-2026-w23.webp",
+    "gallery": []
+  },
+  "wc-2026-w24": {
+    "image": "images/the-tower-wc-2026-w24.webp",
+    "gallery": []
+  },
+  "wc-2026-w25": {
+    "image": "images/peach-pie-wc-2026-w25.webp",
+    "gallery": []
+  },
+  "wc-2026-w26": {
+    "image": "images/black-bean-salad-with-lime-cilantro-vinaigrette-wc-2026-w26.webp",
+    "gallery": []
+  },
+  "wc-2026-w27": {
+    "image": "images/chicken-fajitas-wc-2026-w27.webp",
+    "gallery": []
+  },
+  "wc-2026-w28": {
+    "image": "images/cornbread-and-baked-beans-wc-2026-w28.webp",
+    "gallery": []
+  },
+  "wb-2026-w50": {
+    "image": "images/gingerbread-house-wb-2026-w50.webp",
+    "gallery": []
+  },
+  "wb-2026-w51": {
+    "image": "images/cinnamon-rolls-wb-2026-w51.webp",
+    "gallery": []
+  },
+  "wb-2026-w52": {
+    "image": "images/chocolate-brownies-wb-2026-w52.webp",
+    "gallery": []
+  }
+}

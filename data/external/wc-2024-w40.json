@@ -2,6 +2,5 @@
   "id": "wc-2024-w40",
   "recipe_url": "https://www.wellplated.com/wprm_print/sauteed-mushrooms/",
   "ok": false,
-  "reason": "http-403",
-  "http_status": 403
+  "reason": "webfetch-http-403"
 }

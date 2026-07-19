@@ -1,7 +1,26 @@
 {
   "id": "wb-2025-w36",
   "recipe_url": "https://essenceeats.com/swirled-pesto-bread/",
-  "ok": false,
-  "reason": "no-recipe-ld-or-wprm",
-  "http_status": 200
+  "ok": true,
+  "extractor": "webfetch",
+  "name": "Black Garlic Bread",
+  "description": "A pull-apart baguette slathered with black garlic butter and parmesan, then baked.",
+  "ingredients": [
+    "2 sticks unsalted butter (softened)",
+    "8 cloves black garlic (mashed)",
+    "¾ cup parmesan cheese (shredded)",
+    "¼ cup italian parsley (finely chopped)",
+    "¼ teaspoon kosher salt",
+    "¼ teaspoon black pepper",
+    "1 baguette of french bread"
+  ],
+  "steps": [
+    "Preheat the oven temperature to 400F. Line a baking sheet with parchment paper.",
+    "In a small bowl, add the black raw garlic cloves and using a fork, mash the garlic until smooth like a paste. Then add the softened butter, parmesan cheese, salt, and pepper. Mix thoroughly to combine.",
+    "Grab the baguette and place on a cutting board. Cut slits into the bread about ½ inch apart, from one end of the bread to the other, without cutting all the way through.",
+    "Place the cut loaf on a large sheet of aluminum foil. Slather the black garlic butter between each slit, reaching the bottom of each slit, until all cuts are covered.",
+    "Wrap the baguette in the aluminum foil and place on the lined baking tray. Bake for 15 minutes.",
+    "Unwrap the bread from the aluminum foil and place on a wire rack to cool for about 5 minutes. Then place on a serving platter. Pull apart and enjoy!"
+  ],
+  "servings": 20
 }

@@ -1,7 +1,29 @@
 {
   "id": "wc-2024-w6",
   "recipe_url": "https://www.tipsfromatypicalmomblog.com/2014/05/crepes-suzette-crepes-orange-sauce.html",
-  "ok": false,
-  "reason": "no-recipe-ld-or-wprm",
-  "http_status": 200
+  "ok": true,
+  "extractor": "webfetch",
+  "name": "Crepes Suzette (Crepes with Orange Sauce and No Alcohol)",
+  "description": "Thin crepes folded into triangles and served with a simple buttery orange sauce.",
+  "ingredients": [
+    "1 1/2 cups milk",
+    "2/3 cup all purpose flour",
+    "1/2 teaspoon salt",
+    "3 eggs",
+    "1/3 cup orange juice",
+    "1/4 cup butter",
+    "2 Tablespoons sugar",
+    "1/4 teaspoon grated orange peel"
+  ],
+  "steps": [
+    "Combine all crepe ingredients in a blender and pulse for 10 seconds. Optionally refrigerate for 1 hour to allow bubbles to subside.",
+    "Heat a 7\" and 10\" frying pan over medium heat for about 5 minutes. Butter the 7\" pan.",
+    "Pour 1/4 cup batter into the 7\" pan and swirl to spread evenly.",
+    "Cook for 2 minutes until the top is set, then loosen and flip into the buttered 10\" pan.",
+    "Cook for another 30 seconds and transfer to a plate.",
+    "Once cooled, fold each crepe in half twice to form a triangle.",
+    "For the sauce: combine all sauce ingredients in a 10\" skillet over medium-low heat until butter melts and sauce thickens, about 5 minutes.",
+    "Serve crepes with sauce drizzled over or by soaking each crepe in sauce for about 30 seconds. Optionally top with vanilla ice cream."
+  ],
+  "servings": 12
 }

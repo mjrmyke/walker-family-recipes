@@ -47,3 +47,18 @@ def is_placeholder_size(size: tuple[int, int]) -> bool:
         return True
     w, h = size
     return w < 64 or h < 64
+
+
+import io
+from pathlib import Path
+from PIL import Image
+
+def to_webp(raw: bytes, out_path: Path, max_width: int = 1200) -> tuple[int, int]:
+    """Decode bytes, downscale to max_width, save as WebP. Returns final (w, h)."""
+    img = Image.open(io.BytesIO(raw)).convert("RGB")
+    if img.width > max_width:
+        h = round(img.height * max_width / img.width)
+        img = img.resize((max_width, h), Image.LANCZOS)
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    img.save(out_path, "WEBP", quality=82, method=6)
+    return img.size

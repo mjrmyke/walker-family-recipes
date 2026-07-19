@@ -2,6 +2,5 @@
   "id": "wb-2025-w41",
   "recipe_url": "https://www.karenskitchenstories.com/2018/10/mini-mummy-dogs-halloweentreatsweek.html",
   "ok": false,
-  "reason": "no-recipe-ld-or-wprm",
-  "http_status": 200
+  "reason": "webfetch-no-recipe-content-nav-only"
 }

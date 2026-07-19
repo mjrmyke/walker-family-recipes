@@ -1,7 +1,42 @@
 {
   "id": "wc-2025-w49",
   "recipe_url": "https://www.bakedbyclaire.com/blog/ribeye-steak-sandwich/",
-  "ok": false,
-  "reason": "no-recipe-ld-or-wprm",
-  "http_status": 200
+  "ok": true,
+  "extractor": "webfetch",
+  "name": "Ribeye Steak Sandwich With Spicy Aioli & Caramelized Onions",
+  "description": "Seared marinated ribeye steak with caramelized onions, cheese, and spicy aioli on a toasted roll.",
+  "ingredients": [
+    "340-350 grams of Ribeye (12 ounces)",
+    "1 tablespoon of Brown Sugar",
+    "1 tablespoon of Balsamic Vinegar",
+    "2 teaspoons of Oil",
+    "1/4 teaspoon of Salt",
+    "1/4 teaspoon of Black Pepper",
+    "1 large Onion",
+    "1/4 teaspoon of Salt",
+    "1/4 teaspoon of Sugar",
+    "2 teaspoons of Balsamic Vinegar",
+    "2 teaspoons of Oil",
+    "2-4 tablespoons of Spicy Aioli",
+    "2 Ciabatta Rolls, Smalls Baguettes, or Hoagie Rolls",
+    "6 slices of Cheese (Cheddar, Provolone, or Gruyère)"
+  ],
+  "steps": [
+    "In a shallow dish, mix the brown sugar with the balsamic vinegar, vegetable oil, salt, and pepper.",
+    "Dip the steaks into the marinade, turn to coat well, then leave them to sit.",
+    "Make the spicy aioli per the instructions, and set aside.",
+    "Thinly slice the onion, then put them into a large skillet with oil. Turn the heat to medium and stir until they start to soften.",
+    "Add the sugar, balsamic, and salt, then stir until well-coated.",
+    "Put the lid on the pan, reduce the heat to low, and cook for about 20 minutes, stirring occasionally.",
+    "Leave the onions cooking on low (stirring occasionally), then put another skillet on the stove, over high heat.",
+    "Take the steaks out of the marinade and let the excess drip off.",
+    "Gently pat the steaks with paper towels, then rub a bit of oil over each side.",
+    "Put the steaks into the hot pan and leave them to sear for 3-4 minutes, before turning them over and searing for another 3-4 minutes.",
+    "Take the steaks out of the pan and leave them to rest on a cutting board.",
+    "While the steaks rest, slice the bread rolls in half and spread the spicy aioli over each side.",
+    "Place the cheese slices over the bottom piece, then split the onions and spread them over each piece.",
+    "Thinly slice the steaks and add them to top of the onions.",
+    "Put the top of each sandwich in place, then enjoy!"
+  ],
+  "servings": 2
 }
