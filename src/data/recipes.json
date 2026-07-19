@@ -13750,49 +13750,49 @@
       {
         "qty": 1.0,
         "unit": "tbsp",
-        "item": "chili powder ($0.30)",
+        "item": "chili powder",
         "note": null
       },
       {
         "qty": 0.5,
         "unit": "tbsp",
-        "item": "paprika ($0.15)",
+        "item": "paprika",
         "note": null
       },
       {
         "qty": 0.5,
         "unit": "tsp",
-        "item": "onion powder ($0.05)",
+        "item": "onion powder",
         "note": null
       },
       {
         "qty": 0.25,
         "unit": "tsp",
-        "item": "garlic powder ($0.05)",
+        "item": "garlic powder",
         "note": null
       },
       {
         "qty": 0.25,
         "unit": "tsp",
-        "item": "cumin ($0.03)",
+        "item": "cumin",
         "note": null
       },
       {
         "qty": 0.125,
         "unit": "tsp",
-        "item": "cayenne pepper ($0.02)",
+        "item": "cayenne pepper",
         "note": null
       },
       {
         "qty": 1.0,
         "unit": "tsp",
-        "item": "sugar ($0.02)",
+        "item": "sugar",
         "note": null
       },
       {
         "qty": 0.5,
         "unit": "tsp",
-        "item": "salt ($0.02)",
+        "item": "salt",
         "note": null
       },
       {
@@ -13805,30 +13805,30 @@
         "qty": 3.0,
         "unit": null,
         "item": "bell peppers",
-        "note": "any color ($2.58)"
+        "note": "any color"
       },
       {
         "qty": 1.0,
         "unit": null,
-        "item": "lb. chicken breast ($2.67)",
+        "item": "lb. chicken breast",
         "note": null
       },
       {
         "qty": 2.0,
         "unit": "tbsp",
-        "item": "cooking oil ($0.08)",
+        "item": "cooking oil",
         "note": null
       },
       {
         "qty": 1.0,
         "unit": null,
-        "item": "lime ($0.25)",
+        "item": "lime",
         "note": null
       },
       {
         "qty": 14.0,
         "unit": null,
-        "item": "inch tortillas ($1.58)",
+        "item": "inch tortillas",
         "note": null
       },
       {

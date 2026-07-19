@@ -15,8 +15,11 @@ def first_sentence(text: str | None, maxlen: int = 160) -> str | None:
     s = m.group(1) if m else text
     return s[:maxlen].strip()
 
+_COST = re.compile(r"\s*\(\$[^)]*\)")  # BudgetBytes appends per-item costs like "($0.30)"
+
 def structure_from_external(post: dict, ext: dict) -> dict:
-    ingredients = [parse_ingredient_line(line) for line in ext.get("ingredients", [])]
+    lines = [_COST.sub("", line) for line in ext.get("ingredients", [])]
+    ingredients = [parse_ingredient_line(line) for line in lines]
     ingredients = [i for i in ingredients if i["item"]]
     steps = [s for s in ext.get("steps", []) if s.strip()]
     # Not cookable without both -> degrade to a link-only card (keep the source link).
