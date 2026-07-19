@@ -6,8 +6,8 @@
     {
       "qty": 3.0,
       "unit": "lb",
-      "item": "pineapple (peeled (usually 1 large head))",
-      "note": null
+      "item": "pineapple",
+      "note": "peeled (usually 1 large head)"
     },
     {
       "qty": 0.75,
@@ -30,20 +30,20 @@
     {
       "qty": 0.125,
       "unit": "tsp",
-      "item": "baking soda ((optional))",
-      "note": null
+      "item": "baking soda",
+      "note": "(optional)"
     },
     {
       "qty": 9.0,
       "unit": "tbsp",
-      "item": "unsalted butter (softened)",
-      "note": null
+      "item": "unsalted butter",
+      "note": "softened"
     },
     {
       "qty": 0.3333333333333333,
       "unit": "cup",
-      "item": "powdered sugar (packed)",
-      "note": null
+      "item": "powdered sugar",
+      "note": "packed"
     },
     {
       "qty": 1.0,
@@ -52,16 +52,16 @@
       "note": null
     },
     {
-      "qty": null,
-      "unit": null,
-      "item": "1¾ cup cake flour",
+      "qty": 1.75,
+      "unit": "cup",
+      "item": "cake flour",
       "note": null
     },
     {
       "qty": 0.25,
       "unit": "cup",
-      "item": "almond flour (packed)",
-      "note": null
+      "item": "almond flour",
+      "note": "packed"
     },
     {
       "qty": 3.0,

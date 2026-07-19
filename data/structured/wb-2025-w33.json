@@ -114,8 +114,8 @@
     {
       "qty": null,
       "unit": null,
-      "item": "Lotus Biscoff biscuits (to decorate)",
-      "note": null
+      "item": "Lotus Biscoff biscuits",
+      "note": "to decorate"
     }
   ],
   "steps": [

@@ -66,8 +66,8 @@
     {
       "qty": 0.5,
       "unit": "cup",
-      "item": "COLD butter",
-      "note": "(cubed)"
+      "item": "COLD butter,",
+      "note": "cubed"
     },
     {
       "qty": 0.5,

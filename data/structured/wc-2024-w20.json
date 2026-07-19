@@ -12,8 +12,8 @@
     {
       "qty": 3.0,
       "unit": "tbsp",
-      "item": "finely chopped fresh basil",
-      "note": "(plus more for serving)"
+      "item": "finely chopped fresh basil,",
+      "note": "plus more for serving"
     },
     {
       "qty": 3.0,
@@ -42,8 +42,8 @@
     {
       "qty": 2.0,
       "unit": "clove",
-      "item": "garlic",
-      "note": "(minced)"
+      "item": "garlic,",
+      "note": "minced"
     },
     {
       "qty": 0.25,
@@ -52,22 +52,22 @@
       "note": null
     },
     {
-      "qty": null,
-      "unit": null,
-      "item": "1½ lb ground \"meatloaf mix\" ((approximately equal parts ground beef",
-      "note": "pork, and veal))"
+      "qty": 1.5,
+      "unit": "lb",
+      "item": "ground \"meatloaf mix\"",
+      "note": "(approximately equal parts ground beef, pork, and veal)"
     },
     {
       "qty": 0.75,
       "unit": "cup",
-      "item": "Italian seasoned breadcrumbs",
-      "note": "(such as Progresso)"
+      "item": "Italian seasoned breadcrumbs,",
+      "note": "such as Progresso"
     },
     {
       "qty": 0.5,
       "unit": "cup",
-      "item": "freshly grated Parmigiano-Reggiano cheese",
-      "note": "(plus more for serving)"
+      "item": "freshly grated Parmigiano-Reggiano cheese,",
+      "note": "plus more for serving"
     },
     {
       "qty": 1.0,
@@ -90,7 +90,7 @@
     "While the meatballs are cooking, bring a large pot of well-salted water to a boil. Add the spaghetti and cook until al dente. Reserve about a cup of the cooking water, then drain. Toss the pasta with the sauce and meatballs (you may find it easier to do this in the pasta pot rather than the skillet, depending on the size of your pans). If the sauce seems dry, add a splash of the reserved pasta water to loosen it. Serve topped with fresh basil and more grated cheese."
   ],
   "tags": [
-    "beef"
+    "vegetarian"
   ],
   "sourceUrl": "https://www.onceuponachef.com/recipes/spaghetti-and-meatballs.html?recipe_print=yes",
   "notes": null,

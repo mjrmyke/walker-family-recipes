@@ -6,8 +6,8 @@
     {
       "qty": 12.0,
       "unit": "oz",
-      "item": "elbow macaroni (wheat",
-      "note": "whole wheat, high protein or gluten-free)"
+      "item": "elbow macaroni",
+      "note": "wheat, whole wheat, high protein or gluten-free"
     },
     {
       "qty": 2.0,
@@ -18,8 +18,8 @@
     {
       "qty": 0.25,
       "unit": "cup",
-      "item": "flour (or gluten-free flour mix)",
-      "note": null
+      "item": "flour",
+      "note": "or gluten-free flour mix"
     },
     {
       "qty": 0.25,
@@ -30,8 +30,8 @@
     {
       "qty": 2.0,
       "unit": "cup",
-      "item": "skim milk (use rice milk for dairy-free)",
-      "note": null
+      "item": "skim milk",
+      "note": "use rice milk for dairy-free"
     },
     {
       "qty": 1.0,
@@ -42,14 +42,14 @@
     {
       "qty": 8.0,
       "unit": "oz",
-      "item": "reduced-fat cheddar (for best results shred yourself. Use Violife for dairy-free)",
-      "note": null
+      "item": "reduced-fat cheddar",
+      "note": "for best results shred yourself. Use Violife for dairy-free"
     },
     {
       "qty": null,
       "unit": null,
-      "item": "kosher salt (and black pepper",
-      "note": "to taste)"
+      "item": "kosher salt",
+      "note": "and black pepper, to taste"
     },
     {
       "qty": 4.0,

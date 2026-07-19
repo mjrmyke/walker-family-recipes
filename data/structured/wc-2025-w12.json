@@ -16,15 +16,15 @@
       "note": "2 coarsely chopped, 1 thinly sliced"
     },
     {
-      "qty": 1.0,
+      "qty": 2.5,
       "unit": null,
       "item": "\" piece ginger",
       "note": "peeled, coarsely chopped"
     },
     {
-      "qty": null,
+      "qty": 1.5,
       "unit": null,
-      "item": "1½ tsp. sugar",
+      "item": "tsp. sugar",
       "note": null
     },
     {
@@ -40,9 +40,9 @@
       "note": null
     },
     {
-      "qty": null,
+      "qty": 1.5,
       "unit": null,
-      "item": "1½ tsp. garam masala",
+      "item": "tsp. garam masala",
       "note": null
     },
     {
@@ -54,8 +54,8 @@
     {
       "qty": 3.0,
       "unit": null,
-      "item": "\"-thick boneless New York strip steaks (about 12 oz. each)",
-      "note": null
+      "item": "\"-thick boneless New York strip steaks",
+      "note": "about 12 oz. each"
     },
     {
       "qty": 1.0,
@@ -78,8 +78,8 @@
     {
       "qty": null,
       "unit": null,
-      "item": "Unsalted butter (for serving)",
-      "note": null
+      "item": "Unsalted butter",
+      "note": "for serving"
     },
     {
       "qty": null,

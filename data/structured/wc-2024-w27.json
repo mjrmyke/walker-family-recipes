@@ -6,8 +6,8 @@
     {
       "qty": 3.5,
       "unit": "lb",
-      "item": "ripe tomatoes (any small- to medium-sized tomatoes will do)",
-      "note": null
+      "item": "ripe tomatoes",
+      "note": "any small- to medium-sized tomatoes will do"
     },
     {
       "qty": 3.0,

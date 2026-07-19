@@ -30,14 +30,14 @@
     {
       "qty": 2.0,
       "unit": "tbsp",
-      "item": "olive oil (plus more for drizzling)",
-      "note": null
+      "item": "olive oil",
+      "note": "plus more for drizzling"
     },
     {
       "qty": 4.0,
       "unit": "tbsp",
-      "item": "unsalted butter (1/2 stick)",
-      "note": null
+      "item": "unsalted butter",
+      "note": "1/2 stick"
     },
     {
       "qty": 4.0,

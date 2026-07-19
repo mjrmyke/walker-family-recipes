@@ -4,28 +4,22 @@
   "servings": 4,
   "ingredients": [
     {
-      "qty": 0.6666666666666666,
-      "unit": "cup",
-      "item": "(160 grams) warm whole milk (100°F/38°C to 110°F/43°C)",
-      "note": null
-    },
-    {
-      "qty": null,
-      "unit": null,
-      "item": "5½ tablespoons (66 grams) granulated sugar",
+      "qty": 5.5,
+      "unit": "tbsp",
+      "item": "(66 grams) granulated sugar",
       "note": "divided"
     },
     {
-      "qty": null,
-      "unit": null,
-      "item": "2¼ teaspoons (7 grams) active dry yeast",
+      "qty": 2.25,
+      "unit": "tsp",
+      "item": "(7 grams) active dry yeast",
       "note": null
     },
     {
       "qty": null,
       "unit": null,
-      "item": "Milk Roux ((recipe follows)",
-      "note": "room temperature)"
+      "item": "Milk Roux",
+      "note": "(recipe follows), room temperature"
     },
     {
       "qty": 3.0,
@@ -42,8 +36,8 @@
     {
       "qty": 2.0,
       "unit": null,
-      "item": "large eggs ((100 grams)",
-      "note": "divided)"
+      "item": "large eggs",
+      "note": "(100 grams), divided"
     },
     {
       "qty": 1.0,
@@ -60,8 +54,8 @@
     {
       "qty": null,
       "unit": null,
-      "item": "Pineapple Buns Topping ((recipe follows))",
-      "note": null
+      "item": "Pineapple Buns Topping",
+      "note": "(recipe follows)"
     },
     {
       "qty": 1.0,

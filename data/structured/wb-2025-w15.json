@@ -36,8 +36,8 @@
     {
       "qty": 0.75,
       "unit": "cup",
-      "item": "evaporated milk (you can also use regular whole milk)",
-      "note": null
+      "item": "evaporated milk",
+      "note": "you can also use regular whole milk"
     },
     {
       "qty": 2.0,
@@ -60,8 +60,8 @@
     {
       "qty": 2.0,
       "unit": null,
-      "item": "large  eggs ( at room temperature)",
-      "note": null
+      "item": "large  eggs",
+      "note": "at room temperature"
     },
     {
       "qty": 4.0,

@@ -4,15 +4,15 @@
   "servings": 12,
   "ingredients": [
     {
-      "qty": null,
-      "unit": null,
-      "item": "3¾ cups all-purpose flour ((450g))",
-      "note": null
+      "qty": 3.75,
+      "unit": "cup",
+      "item": "all-purpose flour",
+      "note": "(450g)"
     },
     {
-      "qty": null,
-      "unit": null,
-      "item": "2½ teaspoons baking powder",
+      "qty": 2.5,
+      "unit": "tsp",
+      "item": "baking powder",
       "note": null
     },
     {
@@ -22,22 +22,22 @@
       "note": null
     },
     {
-      "qty": null,
-      "unit": null,
-      "item": "2⅓ cups granulated sugar ((466g))",
-      "note": null
+      "qty": 2.3333333333333335,
+      "unit": "cup",
+      "item": "granulated sugar",
+      "note": "(466g)"
     },
     {
       "qty": 1.0,
       "unit": "cup",
-      "item": "unsalted butter (softened (227g))",
-      "note": null
+      "item": "unsalted butter",
+      "note": "softened (227g)"
     },
     {
       "qty": 0.3333333333333333,
       "unit": "cup",
-      "item": "vegetable oil ((80mL))",
-      "note": null
+      "item": "vegetable oil",
+      "note": "(80mL)"
     },
     {
       "qty": 1.0,
@@ -46,34 +46,34 @@
       "note": null
     },
     {
-      "qty": null,
-      "unit": null,
-      "item": "1⅓ cups buttermilk (room temperature (320ml))",
-      "note": null
+      "qty": 1.3333333333333333,
+      "unit": "cup",
+      "item": "buttermilk",
+      "note": "room temperature (320ml)"
     },
     {
       "qty": 7.0,
       "unit": null,
-      "item": "large egg whites (room temperature)",
-      "note": null
+      "item": "large egg whites",
+      "note": "room temperature"
     },
     {
       "qty": 0.6666666666666666,
       "unit": "cup",
-      "item": "rainbow jimmies ((100g))",
-      "note": null
+      "item": "rainbow jimmies",
+      "note": "(100g)"
     },
     {
       "qty": 1.0,
       "unit": "lb",
-      "item": "unsalted butter ((450g))",
-      "note": null
+      "item": "unsalted butter",
+      "note": "(450g)"
     },
     {
       "qty": 2.0,
       "unit": "lb",
-      "item": "powdered sugar ((900g))",
-      "note": null
+      "item": "powdered sugar",
+      "note": "(900g)"
     },
     {
       "qty": 0.5,
@@ -96,8 +96,8 @@
     {
       "qty": null,
       "unit": null,
-      "item": "Rainbow sprinkles (to serve)",
-      "note": null
+      "item": "Rainbow sprinkles",
+      "note": "to serve"
     }
   ],
   "steps": [

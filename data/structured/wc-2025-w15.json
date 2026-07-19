@@ -24,8 +24,8 @@
     {
       "qty": 1.0,
       "unit": null,
-      "item": "small bell pepper",
-      "note": "finely chopped (green or red)"
+      "item": "small bell pepper, finely chopped",
+      "note": "green or red"
     },
     {
       "qty": 1.0,
@@ -72,8 +72,8 @@
     {
       "qty": null,
       "unit": null,
-      "item": "Sliced olives",
-      "note": "capers, or raisins for added Puerto Rican flair (optional)"
+      "item": "Sliced olives, capers, or raisins for added Puerto Rican flair",
+      "note": "optional"
     },
     {
       "qty": null,
@@ -108,14 +108,14 @@
     {
       "qty": null,
       "unit": null,
-      "item": "Grated cheese (queso fresco or cheddar work well)",
-      "note": null
+      "item": "Grated cheese",
+      "note": "queso fresco or cheddar work well"
     },
     {
       "qty": null,
       "unit": null,
-      "item": "Hot sauce or salsa (optional)",
-      "note": null
+      "item": "Hot sauce or salsa",
+      "note": "optional"
     }
   ],
   "steps": [

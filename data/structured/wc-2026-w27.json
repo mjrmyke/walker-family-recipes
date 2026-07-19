@@ -54,8 +54,8 @@
     {
       "qty": 2.0,
       "unit": null,
-      "item": "small  yellow onions  (or one large",
-      "note": "$1.40)"
+      "item": "small  yellow onions",
+      "note": "or one large, $1.40"
     },
     {
       "qty": 3.0,
@@ -90,14 +90,14 @@
     {
       "qty": 0.5,
       "unit": "cup",
-      "item": "sour cream ( optional",
-      "note": "$0.49)"
+      "item": "sour cream",
+      "note": "optional, $0.49"
     },
     {
       "qty": 0.25,
       "unit": null,
-      "item": "bunch cilantro ( optional",
-      "note": "$0.50)"
+      "item": "bunch cilantro",
+      "note": "optional, $0.50"
     }
   ],
   "steps": [

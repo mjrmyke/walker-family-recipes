@@ -64,6 +64,12 @@
       "note": null
     },
     {
+      "qty": 1.0,
+      "unit": null,
+      "item": "cups",
+      "note": "chopped Roasted green chili"
+    },
+    {
       "qty": 2.0,
       "unit": "cup",
       "item": "Shredded chicken",

@@ -18,8 +18,8 @@
     {
       "qty": 2.0,
       "unit": null,
-      "item": "serrano or 1 jalapeño pepper",
-      "note": "stems, ribs, and seeds removed (less or more to taste)"
+      "item": "serrano or 1 jalapeño pepper, stems, ribs, and seeds removed",
+      "note": "less or more to taste"
     },
     {
       "qty": null,
@@ -61,7 +61,7 @@
   ],
   "tags": [
     "mexican",
-    "vegetarian"
+    "pork"
   ],
   "sourceUrl": "https://www.simplyrecipes.com/recipes/fresh_tomato_salsa/",
   "notes": null,

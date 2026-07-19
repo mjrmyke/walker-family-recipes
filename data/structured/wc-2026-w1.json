@@ -6,8 +6,8 @@
     {
       "qty": 0.5,
       "unit": "cup",
-      "item": "fresh breadcrumbs (from 1-2 slices white bread (crust removed))",
-      "note": null
+      "item": "fresh breadcrumbs",
+      "note": "from 1-2 slices white bread (crust removed)"
     },
     {
       "qty": 0.25,
@@ -24,20 +24,20 @@
     {
       "qty": 0.5,
       "unit": "cup",
-      "item": "grated pecorino Romano cheese (or Parmesan cheese)",
-      "note": null
+      "item": "grated pecorino Romano cheese",
+      "note": "or Parmesan cheese"
     },
     {
       "qty": 2.0,
       "unit": null,
-      "item": "garlic cloves (finely chopped or grated)",
-      "note": null
+      "item": "garlic cloves",
+      "note": "finely chopped or grated"
     },
     {
       "qty": 1.0,
       "unit": "tsp",
-      "item": "salt (or 2 teaspoons Diamond brand kosher salt (see note below))",
-      "note": null
+      "item": "salt",
+      "note": "or 2 teaspoons Diamond brand kosher salt (see note below)"
     },
     {
       "qty": 1.0,
@@ -54,20 +54,20 @@
     {
       "qty": 1.0,
       "unit": "lb",
-      "item": "ground pork (or veal)",
-      "note": null
+      "item": "ground pork",
+      "note": "or veal"
     },
     {
       "qty": 0.25,
       "unit": "cup",
-      "item": "grated onion (optional)",
-      "note": null
+      "item": "grated onion",
+      "note": "optional"
     },
     {
       "qty": 0.3333333333333333,
       "unit": "cup",
-      "item": "chopped parsley (or basil)",
-      "note": null
+      "item": "chopped parsley",
+      "note": "or basil"
     },
     {
       "qty": null,

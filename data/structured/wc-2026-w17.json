@@ -6,14 +6,14 @@
     {
       "qty": 1.0,
       "unit": null,
-      "item": "kg/ 2 lb  potatoes (skin on weight) ( - Aus: Sebago (dirt brushed)",
-      "note": "US: Yukon Gold, Russet, UK: Maris Piper, King Edwards (Note 1))"
+      "item": "kg/ 2 lb  potatoes",
+      "note": "skin on weight) ( - Aus: Sebago (dirt brushed), US: Yukon Gold, Russet, UK: Maris Piper, King Edwards (Note 1)"
     },
     {
       "qty": 0.75,
       "unit": "tsp",
-      "item": "salt (",
-      "note": "kosher/cooking salt (or 1/2 tsp table salt))"
+      "item": "salt",
+      "note": "kosher/cooking salt (or 1/2 tsp table salt)"
     },
     {
       "qty": 0.5,
@@ -24,14 +24,14 @@
     {
       "qty": 15.0,
       "unit": null,
-      "item": "g/ 1 tbsp  clarified butter / ghee or normal butter (",
-      "note": "melted (Note 2))"
+      "item": "g/ 1 tbsp  clarified butter / ghee or normal butter",
+      "note": "melted (Note 2)"
     },
     {
       "qty": 60.0,
       "unit": null,
-      "item": "g/ 4 tbsp   clarified butter / ghee (",
-      "note": "separated (sub half butter, half vegetable oil) (Note 2))"
+      "item": "g/ 4 tbsp   clarified butter / ghee",
+      "note": "separated (sub half butter, half vegetable oil) (Note 2)"
     }
   ],
   "steps": [

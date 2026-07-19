@@ -6,8 +6,8 @@
     {
       "qty": 4.5,
       "unit": "tsp",
-      "item": "powdered gelatin (unflavored and unsweetened)",
-      "note": null
+      "item": "powdered gelatin",
+      "note": "unflavored and unsweetened"
     },
     {
       "qty": 0.5,
@@ -24,8 +24,8 @@
     {
       "qty": 0.5,
       "unit": "cup",
-      "item": "agave syrup",
-      "note": "divided (or substitute light corn syrup)"
+      "item": "agave syrup, divided",
+      "note": "or substitute light corn syrup"
     },
     {
       "qty": 0.25,
@@ -36,8 +36,8 @@
     {
       "qty": 2.0,
       "unit": "tsp",
-      "item": "vanilla bean paste (see note)",
-      "note": null
+      "item": "vanilla bean paste",
+      "note": "see note"
     },
     {
       "qty": null,

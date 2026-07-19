@@ -6,8 +6,8 @@
     {
       "qty": 1.0,
       "unit": null,
-      "item": "and 3/4 cups (219g) all-purpose flour (spooned &amp; leveled)",
-      "note": null
+      "item": "and 3/4 cups",
+      "note": "219g) all-purpose flour (spooned &amp; leveled"
     },
     {
       "qty": 0.75,
@@ -42,14 +42,8 @@
     {
       "qty": 2.0,
       "unit": "tsp",
-      "item": "espresso powder (optional)",
-      "note": null
-    },
-    {
-      "qty": 0.5,
-      "unit": "cup",
-      "item": "(113g/120ml) vegetable oil (or canola oil or melted coconut oil)",
-      "note": null
+      "item": "espresso powder",
+      "note": "optional"
     },
     {
       "qty": 2.0,
@@ -85,12 +79,6 @@
       "qty": 3.0,
       "unit": null,
       "item": "and 1/2 cups (420g) confectioners&#8217; sugar",
-      "note": null
-    },
-    {
-      "qty": 0.75,
-      "unit": "cup",
-      "item": "(64g) unsweetened cocoa powder (natural or Dutch-process)",
       "note": null
     },
     {

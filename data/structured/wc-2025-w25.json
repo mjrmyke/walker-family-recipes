@@ -6,26 +6,26 @@
     {
       "qty": 2.0,
       "unit": "tbsp",
-      "item": "olive oil (divided)",
-      "note": null
+      "item": "olive oil",
+      "note": "divided"
     },
     {
       "qty": 2.0,
       "unit": "tbsp",
-      "item": "butter (divided)",
-      "note": null
+      "item": "butter",
+      "note": "divided"
     },
     {
       "qty": 8.0,
       "unit": null,
-      "item": "oz. mushrooms (I used sliced baby bella)",
-      "note": null
+      "item": "oz. mushrooms",
+      "note": "I used sliced baby bella"
     },
     {
       "qty": 1.0,
       "unit": null,
-      "item": "large boneless/skinless chicken breast (about ¾ lb.)",
-      "note": null
+      "item": "large boneless/skinless chicken breast",
+      "note": "about ¾ lb."
     },
     {
       "qty": null,
@@ -48,8 +48,8 @@
     {
       "qty": 3.0,
       "unit": "clove",
-      "item": "garlic (minced)",
-      "note": null
+      "item": "garlic",
+      "note": "minced"
     },
     {
       "qty": 6.0,
@@ -66,8 +66,8 @@
     {
       "qty": 2.0,
       "unit": "tsp",
-      "item": "hot sauce (I use Frank’s hot sauce)",
-      "note": null
+      "item": "hot sauce",
+      "note": "I use Frank’s hot sauce"
     },
     {
       "qty": 2.0,
@@ -82,16 +82,10 @@
       "note": null
     },
     {
-      "qty": 2.0,
-      "unit": null,
-      "item": "(3 oz.) packets instant Ramen noodles (don’t use flavor packet)",
-      "note": null
-    },
-    {
       "qty": 6.0,
       "unit": null,
-      "item": "leaves Bok Choy (roughly chopped)",
-      "note": null
+      "item": "leaves Bok Choy",
+      "note": "roughly chopped"
     },
     {
       "qty": 0.75,
@@ -132,8 +126,8 @@
     {
       "qty": null,
       "unit": null,
-      "item": "Soft boiled eggs (see notes)",
-      "note": null
+      "item": "Soft boiled eggs",
+      "note": "see notes"
     }
   ],
   "steps": [

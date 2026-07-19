@@ -6,8 +6,8 @@
     {
       "qty": 8.0,
       "unit": null,
-      "item": "ears of corn (",
-      "note": "hulled)"
+      "item": "ears of corn",
+      "note": "hulled"
     },
     {
       "qty": 4.0,
@@ -30,14 +30,14 @@
     {
       "qty": 2.0,
       "unit": null,
-      "item": "small onions (",
-      "note": "chopped)"
+      "item": "small onions",
+      "note": "chopped"
     },
     {
       "qty": 10.0,
       "unit": null,
-      "item": "oz. queso paraguayo ((Paraguayan cheese))",
-      "note": null
+      "item": "oz. queso paraguayo",
+      "note": "(Paraguayan cheese)"
     },
     {
       "qty": 0.5,
@@ -60,8 +60,8 @@
     {
       "qty": null,
       "unit": null,
-      "item": "Square pan ((8 inches / 20cm))",
-      "note": null
+      "item": "Square pan",
+      "note": "(8 inches / 20cm)"
     }
   ],
   "steps": [

@@ -12,20 +12,20 @@
     {
       "qty": 0.25,
       "unit": "cup",
-      "item": "hot sauce (divided (like Cholula))",
-      "note": null
+      "item": "hot sauce",
+      "note": "divided (like Cholula)"
     },
     {
       "qty": 1.0,
       "unit": "cup",
-      "item": "chopped tomatoes (about two romas)",
-      "note": null
+      "item": "chopped tomatoes",
+      "note": "about two romas"
     },
     {
       "qty": 0.5,
       "unit": "cup",
-      "item": "chopped jalapeños (about 2 large jalapeños)",
-      "note": null
+      "item": "chopped jalapeños",
+      "note": "about 2 large jalapeños"
     },
     {
       "qty": 0.5,
@@ -60,8 +60,8 @@
     {
       "qty": 4.0,
       "unit": null,
-      "item": "drops red food coloring (optional)",
-      "note": null
+      "item": "drops red food coloring",
+      "note": "optional"
     }
   ],
   "steps": [

@@ -36,12 +36,6 @@
     {
       "qty": 0.5,
       "unit": "cup",
-      "item": "(8 tablespoons) butter (melted)",
-      "note": null
-    },
-    {
-      "qty": 0.5,
-      "unit": "cup",
       "item": "oil",
       "note": null
     },
@@ -60,8 +54,8 @@
     {
       "qty": null,
       "unit": null,
-      "item": "honey and extra butter for serving (optional)",
-      "note": null
+      "item": "honey and extra butter for serving",
+      "note": "optional"
     }
   ],
   "steps": [

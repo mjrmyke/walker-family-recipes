@@ -6,20 +6,20 @@
     {
       "qty": 2.0,
       "unit": null,
-      "item": "bananas (sliced)",
-      "note": null
+      "item": "bananas",
+      "note": "sliced"
     },
     {
       "qty": 1.0,
       "unit": "tsp",
-      "item": "butter (for cooking pancakes)",
-      "note": null
+      "item": "butter",
+      "note": "for cooking pancakes"
     },
     {
       "qty": 1.5,
       "unit": "cup",
-      "item": "all purpose flour (maida)",
-      "note": null
+      "item": "all purpose flour",
+      "note": "maida"
     },
     {
       "qty": 1.0,

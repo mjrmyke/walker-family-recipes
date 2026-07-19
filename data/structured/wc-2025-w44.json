@@ -6,20 +6,20 @@
     {
       "qty": 2.0,
       "unit": "lb",
-      "item": "beef chuck roast or beef stew meat ((cut into 2-inch chunks) )",
-      "note": null
+      "item": "beef chuck roast or beef stew meat",
+      "note": "(cut into 2-inch chunks)"
     },
     {
       "qty": 2.0,
       "unit": null,
-      "item": "onions (diced)",
-      "note": null
+      "item": "onions",
+      "note": "diced"
     },
     {
       "qty": 4.0,
       "unit": null,
-      "item": "carrots (julienned )",
-      "note": null
+      "item": "carrots",
+      "note": "julienned"
     },
     {
       "qty": 0.5,
@@ -30,8 +30,8 @@
     {
       "qty": 3.0,
       "unit": "cup",
-      "item": "Jasmine Rice (rinsed)",
-      "note": null
+      "item": "Jasmine Rice",
+      "note": "rinsed"
     },
     {
       "qty": 4.0,
@@ -42,8 +42,8 @@
     {
       "qty": 1.0,
       "unit": null,
-      "item": "head garlic (sliced crosswise)",
-      "note": null
+      "item": "head garlic",
+      "note": "sliced crosswise"
     },
     {
       "qty": 1.0,

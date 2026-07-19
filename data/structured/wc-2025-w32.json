@@ -18,14 +18,14 @@
     {
       "qty": 1.0,
       "unit": null,
-      "item": "avocado",
-      "note": "(sliced)"
+      "item": "avocado,",
+      "note": "sliced"
     },
     {
       "qty": 2.0,
       "unit": null,
-      "item": "oranges (peeled and sliced into rings)",
-      "note": null
+      "item": "oranges",
+      "note": "peeled and sliced into rings"
     },
     {
       "qty": 2.0,
@@ -48,8 +48,8 @@
     {
       "qty": 2.0,
       "unit": "tbsp",
-      "item": "fresh lemon juice (or lime juice)",
-      "note": null
+      "item": "fresh lemon juice",
+      "note": "or lime juice"
     },
     {
       "qty": 2.0,

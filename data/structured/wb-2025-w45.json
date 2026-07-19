@@ -6,20 +6,20 @@
     {
       "qty": 0.25,
       "unit": "cup",
-      "item": "+1 1/2 teaspoons all-purpose flour ((35 g))",
-      "note": null
+      "item": "+1 1/2 teaspoons all-purpose flour",
+      "note": "(35 g)"
     },
     {
       "qty": 2.0,
       "unit": "tbsp",
-      "item": "sugar ((25 g))",
-      "note": null
+      "item": "sugar",
+      "note": "(25 g)"
     },
     {
       "qty": 0.25,
       "unit": "tsp",
-      "item": "baking powder ((1 g))",
-      "note": null
+      "item": "baking powder",
+      "note": "(1 g)"
     },
     {
       "qty": null,
@@ -30,26 +30,26 @@
     {
       "qty": 2.0,
       "unit": "tbsp",
-      "item": "butter (",
-      "note": "melted (28 g))"
+      "item": "butter",
+      "note": "melted (28 g)"
     },
     {
       "qty": 3.0,
       "unit": "tbsp",
-      "item": "milk ((45 ml))",
-      "note": null
+      "item": "milk",
+      "note": "(45 ml)"
     },
     {
       "qty": 0.5,
       "unit": "tsp",
-      "item": "vanilla extract ((2.5 ml))",
-      "note": null
+      "item": "vanilla extract",
+      "note": "(2.5 ml)"
     },
     {
       "qty": 1.0,
       "unit": "tsp",
-      "item": "sprinkles ((4 g))",
-      "note": null
+      "item": "sprinkles",
+      "note": "(4 g)"
     }
   ],
   "steps": [

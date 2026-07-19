@@ -12,8 +12,8 @@
     {
       "qty": null,
       "unit": null,
-      "item": "Salt and freshly ground black pepper",
-      "note": "(to taste)"
+      "item": "Salt and freshly ground black pepper,",
+      "note": "to taste"
     },
     {
       "qty": 0.5,
@@ -36,14 +36,14 @@
     {
       "qty": 4.0,
       "unit": "tbsp",
-      "item": "butter",
-      "note": "(melted)"
+      "item": "butter,",
+      "note": "melted"
     },
     {
       "qty": 4.0,
       "unit": "clove",
-      "item": "garlic",
-      "note": "(minced)"
+      "item": "garlic,",
+      "note": "minced"
     },
     {
       "qty": 2.0,
@@ -60,26 +60,26 @@
     {
       "qty": 1.0,
       "unit": null,
-      "item": "lemon",
-      "note": "(sliced into rounds, for garnish)"
+      "item": "lemon,",
+      "note": "sliced into rounds, for garnish"
     },
     {
       "qty": null,
       "unit": null,
-      "item": "Red pepper flakes",
-      "note": "(for garnish)"
+      "item": "Red pepper flakes,",
+      "note": "for garnish"
     },
     {
       "qty": null,
       "unit": null,
-      "item": "Chopped fresh parsley",
-      "note": "(for garnish)"
+      "item": "Chopped fresh parsley,",
+      "note": "for garnish"
     },
     {
       "qty": null,
       "unit": null,
-      "item": "Lemon slices",
-      "note": "(for garnish)"
+      "item": "Lemon slices,",
+      "note": "for garnish"
     }
   ],
   "steps": [

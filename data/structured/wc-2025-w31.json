@@ -48,8 +48,8 @@
     {
       "qty": 8.0,
       "unit": "lb",
-      "item": "bone-in pork shoulder (or 6-8 pound boneless)",
-      "note": null
+      "item": "bone-in pork shoulder",
+      "note": "or 6-8 pound boneless"
     },
     {
       "qty": 2.0,

@@ -30,20 +30,20 @@
     {
       "qty": null,
       "unit": null,
-      "item": "food coloring  (",
-      "note": "optional, to change the color of the dough)"
+      "item": "food coloring",
+      "note": "optional, to change the color of the dough"
     },
     {
       "qty": null,
       "unit": null,
-      "item": "Cornstarch (",
-      "note": "or potato starch (for dusting and rolling))"
+      "item": "Cornstarch",
+      "note": "or potato starch (for dusting and rolling)"
     },
     {
       "qty": null,
       "unit": null,
-      "item": "Ice cream (",
-      "note": "your favorite kind)"
+      "item": "Ice cream",
+      "note": "your favorite kind"
     }
   ],
   "steps": [

@@ -16,15 +16,15 @@
       "note": null
     },
     {
-      "qty": null,
-      "unit": null,
-      "item": "1½ cups panko breadcrumbs",
+      "qty": 1.5,
+      "unit": "cup",
+      "item": "panko breadcrumbs",
       "note": null
     },
     {
-      "qty": null,
-      "unit": null,
-      "item": "1¼ cups grated Parmesan cheese divided",
+      "qty": 1.25,
+      "unit": "cup",
+      "item": "grated Parmesan cheese divided",
       "note": null
     },
     {

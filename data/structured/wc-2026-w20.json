@@ -24,8 +24,8 @@
     {
       "qty": 2.5,
       "unit": "cup",
-      "item": "whipped topping (divided)",
-      "note": null
+      "item": "whipped topping",
+      "note": "divided"
     }
   ],
   "steps": [

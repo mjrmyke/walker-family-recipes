@@ -12,14 +12,14 @@
     {
       "qty": 24.0,
       "unit": "oz",
-      "item": "barbecue sauce (use your favorite)",
-      "note": null
+      "item": "barbecue sauce",
+      "note": "use your favorite"
     },
     {
       "qty": 6.0,
       "unit": "oz",
-      "item": "zesty Italian salad dressing (ingredients and recipe below",
-      "note": "or use store bought dressing)"
+      "item": "zesty Italian salad dressing",
+      "note": "ingredients and recipe below, or use store bought dressing"
     },
     {
       "qty": 0.25,

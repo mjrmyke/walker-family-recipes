@@ -36,14 +36,14 @@
     {
       "qty": 1.0,
       "unit": null,
-      "item": "bottle bbq sauce ((approx. 18oz))",
-      "note": null
+      "item": "bottle bbq sauce",
+      "note": "(approx. 18oz)"
     },
     {
       "qty": 4.0,
       "unit": "clove",
-      "item": "garlic",
-      "note": "(minced)"
+      "item": "garlic,",
+      "note": "minced"
     }
   ],
   "steps": [

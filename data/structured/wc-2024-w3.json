@@ -58,9 +58,9 @@
       "note": "vegetable, canola, etc"
     },
     {
-      "qty": null,
-      "unit": null,
-      "item": "1½ tsp Salt",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "Salt",
       "note": null
     },
     {
@@ -76,9 +76,9 @@
       "note": null
     },
     {
-      "qty": null,
-      "unit": null,
-      "item": "1½ tsp Kashmiri chilli powder",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "Kashmiri chilli powder",
       "note": null
     },
     {

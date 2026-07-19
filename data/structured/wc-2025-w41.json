@@ -6,44 +6,44 @@
     {
       "qty": 4.0,
       "unit": "tbsp",
-      "item": "vegetable oil (divided (or as needed))",
-      "note": null
+      "item": "vegetable oil",
+      "note": "divided (or as needed)"
     },
     {
       "qty": 1.0,
       "unit": null,
-      "item": "sweet yellow onion (halved and thinly sliced (2-inch slices))",
-      "note": null
+      "item": "sweet yellow onion",
+      "note": "halved and thinly sliced (2-inch slices)"
     },
     {
       "qty": 1.0,
       "unit": null,
-      "item": "red bell pepper (thinly sliced)",
-      "note": null
+      "item": "red bell pepper",
+      "note": "thinly sliced"
     },
     {
       "qty": 1.0,
       "unit": null,
-      "item": "green bell pepper (thinly sliced)",
-      "note": null
+      "item": "green bell pepper",
+      "note": "thinly sliced"
     },
     {
-      "qty": null,
+      "qty": 2.5,
       "unit": null,
-      "item": "2½ to 3 pounds petite sirloin (thinly sliced sirloin)",
-      "note": null
+      "item": "to 3 pounds petite sirloin",
+      "note": "thinly sliced sirloin"
     },
     {
       "qty": 1.5,
       "unit": "tsp",
-      "item": "Lawry's Seasoned Salt (or other all-purpose seasoning",
-      "note": "divided)"
+      "item": "Lawry's Seasoned Salt",
+      "note": "or other all-purpose seasoning, divided"
     },
     {
       "qty": 1.0,
       "unit": "tsp",
-      "item": "garlic pepper (divided)",
-      "note": null
+      "item": "garlic pepper",
+      "note": "divided"
     },
     {
       "qty": 8.0,
@@ -60,8 +60,8 @@
     {
       "qty": 7.0,
       "unit": "oz",
-      "item": "sliced Provolone cheese ((7 1-ounce slices) I used Tillamook Farmstyle Thick Cut)",
-      "note": null
+      "item": "sliced Provolone cheese",
+      "note": "(7 1-ounce slices) I used Tillamook Farmstyle Thick Cut"
     }
   ],
   "steps": [

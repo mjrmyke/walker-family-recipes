@@ -6,8 +6,8 @@
     {
       "qty": 2.0,
       "unit": "kg",
-      "item": "/ 4 lb pork shoulder (pork butt) (",
-      "note": "skinless, boneless (5lb/2.5kg bone in) (Note 1))"
+      "item": "/ 4 lb pork shoulder",
+      "note": "pork butt) (, skinless, boneless (5lb/2.5kg bone in) (Note 1)"
     },
     {
       "qty": 2.5,
@@ -24,14 +24,14 @@
     {
       "qty": 1.0,
       "unit": null,
-      "item": "onion (",
-      "note": "chopped)"
+      "item": "onion",
+      "note": "chopped"
     },
     {
       "qty": 1.0,
       "unit": null,
-      "item": "jalapeno (",
-      "note": "deseeded, chopped)"
+      "item": "jalapeno",
+      "note": "deseeded, chopped"
     },
     {
       "qty": 4.0,
@@ -42,8 +42,8 @@
     {
       "qty": 0.75,
       "unit": "cup",
-      "item": "juice from orange (2 oranges)",
-      "note": null
+      "item": "juice from orange",
+      "note": "2 oranges"
     },
     {
       "qty": 1.0,

@@ -24,62 +24,62 @@
     {
       "qty": 1.5,
       "unit": "tsp",
-      "item": "yellow mustard (or to taste)",
-      "note": null
+      "item": "yellow mustard",
+      "note": "or to taste"
     },
     {
       "qty": 2.0,
       "unit": "tsp",
-      "item": "brown sugar (or to taste*)",
-      "note": null
+      "item": "brown sugar",
+      "note": "or to taste*"
     },
     {
       "qty": 1.0,
       "unit": "tbsp",
-      "item": "extra light olive oil (or any high-heat cooking oil)",
-      "note": null
+      "item": "extra light olive oil",
+      "note": "or any high-heat cooking oil"
     },
     {
       "qty": 1.0,
       "unit": "lb",
-      "item": "lean ground beef (85%-90% lean)",
-      "note": null
+      "item": "lean ground beef",
+      "note": "85%-90% lean"
     },
     {
       "qty": 0.5,
       "unit": "tsp",
-      "item": "fine sea salt (or to taste)",
-      "note": null
+      "item": "fine sea salt",
+      "note": "or to taste"
     },
     {
       "qty": 0.25,
       "unit": "tsp",
-      "item": "freshly ground black pepper (or to taste)",
-      "note": null
+      "item": "freshly ground black pepper",
+      "note": "or to taste"
     },
     {
       "qty": 1.0,
       "unit": null,
-      "item": "small onion (finely chopped)",
-      "note": null
+      "item": "small onion",
+      "note": "finely chopped"
     },
     {
       "qty": 0.5,
       "unit": null,
-      "item": "small green bell pepper (seeded and finely diced",
-      "note": "or use 1/2 cup grated carrot)"
+      "item": "small green bell pepper",
+      "note": "seeded and finely diced, or use 1/2 cup grated carrot"
     },
     {
       "qty": 3.0,
       "unit": null,
-      "item": "garlic cloves (minced)",
-      "note": null
+      "item": "garlic cloves",
+      "note": "minced"
     },
     {
       "qty": 5.0,
       "unit": null,
-      "item": "hamburger buns (toasted if desired)",
-      "note": null
+      "item": "hamburger buns",
+      "note": "toasted if desired"
     }
   ],
   "steps": [

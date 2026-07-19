@@ -5,18 +5,6 @@
   "ingredients": [
     {
       "qty": 1.0,
-      "unit": null,
-      "item": "(15.25-ounce) box white cake mix",
-      "note": "(plus any ingredients listed on box)"
-    },
-    {
-      "qty": 1.0,
-      "unit": null,
-      "item": "(3-ounce) box strawberry Jell-O",
-      "note": "( (or raspberry or cherry))"
-    },
-    {
-      "qty": 1.0,
       "unit": "cup",
       "item": "boiling water",
       "note": null
@@ -26,12 +14,6 @@
       "unit": "cup",
       "item": "cold water",
       "note": null
-    },
-    {
-      "qty": 1.0,
-      "unit": null,
-      "item": "(8-ounce) tub whipped topping",
-      "note": "((or 2 cups whipped cream))"
     }
   ],
   "steps": [

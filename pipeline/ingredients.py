@@ -26,6 +26,7 @@ def parse_quantity(text: str):
     if not text:
         return None
     text = text.split("-")[0].split("–")[0].strip()  # ranges -> low end
+    text = re.sub(rf"(\d)([{_FRAC_CHARS}])", r"\1 \2", text)  # split glued "1½" -> "1 ½"
     total = 0.0
     matched = False
     for tok in text.split():
@@ -41,10 +42,7 @@ def parse_quantity(text: str):
 
 def parse_ingredient_line(line: str):
     line = line.strip().lstrip("-•*").strip()
-    note = None
-    if "," in line:
-        line, note = [p.strip() for p in line.split(",", 1)]
-    # leading quantity: digits, unicode fractions, slashes, ranges
+    # leading quantity: digits, unicode fractions, slashes, ranges (incl. glued "1½")
     m = re.match(rf"^([\d\s./{_FRAC_CHARS}–-]+)\s*(.*)$", line)
     qty, rest = None, line
     if m and parse_quantity(m.group(1)) is not None:
@@ -54,6 +52,17 @@ def parse_ingredient_line(line: str):
     parts = rest.split()
     if parts and parts[0].lower() in _UNIT_LOOKUP:
         unit = _UNIT_LOOKUP[parts[0].lower()]; rest = " ".join(parts[1:])
+    # note: a trailing parenthetical (taken outer-most, so nested "(, x (~ y))" works),
+    # else a trailing comma clause
+    note = None
+    op = rest.find("(")
+    stripped = rest.rstrip()
+    if op != -1 and stripped.endswith(")"):
+        inner = rest[op + 1: stripped.rfind(")")].strip().lstrip(",").strip()
+        note = inner or None
+        rest = rest[:op].strip()
+    elif "," in rest:
+        rest, note = [p.strip() for p in rest.split(",", 1)]
     # trailing "to taste" becomes a note
     if not note and rest.lower().endswith("to taste"):
         rest = rest[: -len("to taste")].strip(); note = "to taste"

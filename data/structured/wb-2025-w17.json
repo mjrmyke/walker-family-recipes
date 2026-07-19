@@ -6,8 +6,8 @@
     {
       "qty": 1.0,
       "unit": "cup",
-      "item": "unsalted butter (softened)",
-      "note": null
+      "item": "unsalted butter",
+      "note": "softened"
     },
     {
       "qty": 0.6666666666666666,
@@ -24,8 +24,8 @@
     {
       "qty": 1.0,
       "unit": null,
-      "item": "large egg yolk (lightly beaten)",
-      "note": null
+      "item": "large egg yolk",
+      "note": "lightly beaten"
     },
     {
       "qty": 2.0,
@@ -48,8 +48,8 @@
     {
       "qty": 3.0,
       "unit": "cup",
-      "item": "powdered sugar (sifted)",
-      "note": null
+      "item": "powdered sugar",
+      "note": "sifted"
     },
     {
       "qty": 3.0,
@@ -72,14 +72,14 @@
     {
       "qty": 0.25,
       "unit": "tsp",
-      "item": "almond extract (or your preferred flavoring)",
-      "note": null
+      "item": "almond extract",
+      "note": "or your preferred flavoring"
     },
     {
       "qty": null,
       "unit": null,
-      "item": "gel food coloring (pink",
-      "note": "blue, and purple)"
+      "item": "gel food coloring",
+      "note": "pink, blue, and purple"
     }
   ],
   "steps": [

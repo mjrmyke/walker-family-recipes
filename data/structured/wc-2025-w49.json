@@ -6,8 +6,8 @@
     {
       "qty": 340.0,
       "unit": "g",
-      "item": "of Ribeye (12 ounces)",
-      "note": null
+      "item": "of Ribeye",
+      "note": "12 ounces"
     },
     {
       "qty": 1.0,
@@ -84,8 +84,8 @@
     {
       "qty": 6.0,
       "unit": null,
-      "item": "slices of Cheese (Cheddar",
-      "note": "Provolone, or Gruyère)"
+      "item": "slices of Cheese",
+      "note": "Cheddar, Provolone, or Gruyère"
     }
   ],
   "steps": [

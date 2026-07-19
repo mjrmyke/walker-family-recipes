@@ -6,8 +6,8 @@
     {
       "qty": 2.0,
       "unit": null,
-      "item": "small apples",
-      "note": "peeled and chopped (1 large apples works too)"
+      "item": "small apples, peeled and chopped",
+      "note": "1 large apples works too"
     },
     {
       "qty": 2.0,
@@ -24,8 +24,8 @@
     {
       "qty": 2.0,
       "unit": "tbsp",
-      "item": "brown sugar (you can adjust this to taste)",
-      "note": null
+      "item": "brown sugar",
+      "note": "you can adjust this to taste"
     },
     {
       "qty": 1.0,

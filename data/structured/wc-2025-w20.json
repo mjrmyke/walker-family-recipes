@@ -6,8 +6,8 @@
     {
       "qty": 3.0,
       "unit": "cup",
-      "item": "diced fresh pineapple (about 1 medium)",
-      "note": null
+      "item": "diced fresh pineapple",
+      "note": "about 1 medium"
     },
     {
       "qty": 1.0,
@@ -18,8 +18,8 @@
     {
       "qty": null,
       "unit": null,
-      "item": "&frac12; cup chopped red onion (about &frac12; small onion)",
-      "note": null
+      "item": "&frac12; cup chopped red onion",
+      "note": "about &frac12; small onion"
     },
     {
       "qty": null,

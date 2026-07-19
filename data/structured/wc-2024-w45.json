@@ -6,8 +6,8 @@
     {
       "qty": 6.0,
       "unit": null,
-      "item": "large chicken breasts (boneless and skinless)",
-      "note": null
+      "item": "large chicken breasts",
+      "note": "boneless and skinless"
     },
     {
       "qty": 0.5,
@@ -30,8 +30,8 @@
     {
       "qty": 0.5,
       "unit": "tsp",
-      "item": "ground black pepper (freshly ground)",
-      "note": null
+      "item": "ground black pepper",
+      "note": "freshly ground"
     },
     {
       "qty": 2.0,
@@ -48,14 +48,14 @@
     {
       "qty": 0.5,
       "unit": null,
-      "item": "medium yellow onion (small)",
-      "note": null
+      "item": "medium yellow onion",
+      "note": "small"
     },
     {
       "qty": 4.0,
       "unit": null,
-      "item": "garlic cloves (minced)",
-      "note": null
+      "item": "garlic cloves",
+      "note": "minced"
     },
     {
       "qty": 0.3333333333333333,
@@ -66,14 +66,14 @@
     {
       "qty": 2.0,
       "unit": null,
-      "item": "lemons (1 for juice and zest",
-      "note": "and 1 to be sliced)"
+      "item": "lemons",
+      "note": "1 for juice and zest, and 1 to be sliced"
     },
     {
       "qty": null,
       "unit": null,
-      "item": "parsley (chopped",
-      "note": "fresh)"
+      "item": "parsley",
+      "note": "chopped, fresh"
     }
   ],
   "steps": [

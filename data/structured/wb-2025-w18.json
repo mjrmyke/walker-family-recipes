@@ -36,8 +36,8 @@
     {
       "qty": 2.0,
       "unit": null,
-      "item": "puff pastry sheets (typically 2 sheets come in one package)",
-      "note": null
+      "item": "puff pastry sheets",
+      "note": "typically 2 sheets come in one package"
     },
     {
       "qty": 1.0,

@@ -6,8 +6,8 @@
     {
       "qty": 500.0,
       "unit": null,
-      "item": "gr  Steak (Thinly Sliced Against the Grain)",
-      "note": null
+      "item": "gr  Steak",
+      "note": "Thinly Sliced Against the Grain"
     },
     {
       "qty": 2.0,
@@ -54,14 +54,14 @@
     {
       "qty": 2.0,
       "unit": null,
-      "item": "Medium Onions (Thinly Sliced)",
-      "note": null
+      "item": "Medium Onions",
+      "note": "Thinly Sliced"
     },
     {
       "qty": 2.0,
       "unit": null,
-      "item": "Tomatoes  (Peeled &amp; Grated)",
-      "note": null
+      "item": "Tomatoes",
+      "note": "Peeled &amp; Grated"
     },
     {
       "qty": 1.0,
@@ -96,8 +96,8 @@
     {
       "qty": null,
       "unit": null,
-      "item": "Grated Mango Pickle  (Optional)",
-      "note": null
+      "item": "Grated Mango Pickle",
+      "note": "Optional"
     }
   ],
   "steps": [

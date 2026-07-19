@@ -12,8 +12,8 @@
     {
       "qty": 1.0,
       "unit": "cup",
-      "item": "shredded apple",
-      "note": "about 1 large apple (I use Honeycrisp)"
+      "item": "shredded apple, about 1 large apple",
+      "note": "I use Honeycrisp"
     },
     {
       "qty": 2.0,
@@ -36,14 +36,14 @@
     {
       "qty": 0.25,
       "unit": "cup",
-      "item": "neutral oil (avocado or vegetable)",
-      "note": null
+      "item": "neutral oil",
+      "note": "avocado or vegetable"
     },
     {
       "qty": 0.5,
       "unit": "cup",
-      "item": "plain yogurt (I used Greek but regular works too)",
-      "note": null
+      "item": "plain yogurt",
+      "note": "I used Greek but regular works too"
     },
     {
       "qty": 1.0,
@@ -90,8 +90,8 @@
     {
       "qty": 1.0,
       "unit": "tbsp",
-      "item": "coarse sugar",
-      "note": "such turbinato (sugar in the raw) (or any granulated sugar)"
+      "item": "coarse sugar, such turbinato",
+      "note": "sugar in the raw) (or any granulated sugar"
     },
     {
       "qty": 0.125,

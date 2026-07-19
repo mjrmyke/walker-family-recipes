@@ -6,14 +6,14 @@
     {
       "qty": 0.5,
       "unit": "cup",
-      "item": "Banana (1 large banana)",
-      "note": null
+      "item": "Banana",
+      "note": "1 large banana"
     },
     {
       "qty": 0.75,
       "unit": "cup",
-      "item": "Self-Rising Flour ((note 1))",
-      "note": null
+      "item": "Self-Rising Flour",
+      "note": "(note 1)"
     },
     {
       "qty": 0.5,
@@ -24,14 +24,14 @@
     {
       "qty": 0.25,
       "unit": "cup",
-      "item": "Unrefined Cane Sugar ((note 2))",
-      "note": null
+      "item": "Unrefined Cane Sugar",
+      "note": "(note 2)"
     },
     {
       "qty": 2.0,
       "unit": "tbsp",
-      "item": "Coconut Oil (melted",
-      "note": "or melted vegan butter)"
+      "item": "Coconut Oil",
+      "note": "melted, or melted vegan butter"
     },
     {
       "qty": 2.0,

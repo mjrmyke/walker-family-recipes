@@ -30,8 +30,8 @@
     {
       "qty": 2.0,
       "unit": "tbsp",
-      "item": "butter (melted)",
-      "note": null
+      "item": "butter",
+      "note": "melted"
     },
     {
       "qty": 1.0,
@@ -54,8 +54,8 @@
     {
       "qty": null,
       "unit": null,
-      "item": "vegetable oil  (for frying)",
-      "note": null
+      "item": "vegetable oil",
+      "note": "for frying"
     },
     {
       "qty": 2.0,

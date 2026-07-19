@@ -12,8 +12,8 @@
     {
       "qty": 2.0,
       "unit": "tsp",
-      "item": "reduced sodium soy sauce (or tamari if gluten free)",
-      "note": null
+      "item": "reduced sodium soy sauce",
+      "note": "or tamari if gluten free"
     },
     {
       "qty": 3.0,
@@ -48,14 +48,14 @@
     {
       "qty": 3.0,
       "unit": "tbsp",
-      "item": "reduced sodium soy sauce (or tamari if gluten free)",
-      "note": null
+      "item": "reduced sodium soy sauce",
+      "note": "or tamari if gluten free"
     },
     {
       "qty": 1.0,
       "unit": "tbsp",
-      "item": "Hoisin sauce (can use gluten-free Hoisin sauce)",
-      "note": null
+      "item": "Hoisin sauce",
+      "note": "can use gluten-free Hoisin sauce"
     },
     {
       "qty": 1.0,
@@ -90,8 +90,8 @@
     {
       "qty": 2.0,
       "unit": null,
-      "item": "scallions",
-      "note": "(sliced)"
+      "item": "scallions,",
+      "note": "sliced"
     },
     {
       "qty": null,

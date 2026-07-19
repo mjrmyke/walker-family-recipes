@@ -36,14 +36,14 @@
     {
       "qty": 1.0,
       "unit": "tbsp",
-      "item": "ginger (",
-      "note": "finely minced)"
+      "item": "ginger",
+      "note": "finely minced"
     },
     {
       "qty": 3.0,
       "unit": "clove",
-      "item": "garlic (",
-      "note": "finely minced)"
+      "item": "garlic",
+      "note": "finely minced"
     },
     {
       "qty": 2.0,
@@ -54,8 +54,8 @@
     {
       "qty": 2.0,
       "unit": null,
-      "item": "large eggs (",
-      "note": "soft boiled)"
+      "item": "large eggs",
+      "note": "soft boiled"
     },
     {
       "qty": 1.0,
@@ -66,8 +66,8 @@
     {
       "qty": 0.25,
       "unit": "cup",
-      "item": "green onions (",
-      "note": "thinly sliced)"
+      "item": "green onions",
+      "note": "thinly sliced"
     }
   ],
   "steps": [

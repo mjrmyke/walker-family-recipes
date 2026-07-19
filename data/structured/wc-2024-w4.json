@@ -6,14 +6,14 @@
     {
       "qty": 7.0,
       "unit": null,
-      "item": "lemons (preferably organic)",
-      "note": null
+      "item": "lemons",
+      "note": "preferably organic"
     },
     {
       "qty": 2.625,
       "unit": "cup",
-      "item": "granulated sugar (divided use)",
-      "note": null
+      "item": "granulated sugar",
+      "note": "divided use"
     },
     {
       "qty": 1.125,

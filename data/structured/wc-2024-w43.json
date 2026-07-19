@@ -6,32 +6,32 @@
     {
       "qty": 2.0,
       "unit": "lb",
-      "item": "boneless skinless chicken thighs (cut into 2-inch pieces)",
-      "note": null
+      "item": "boneless skinless chicken thighs",
+      "note": "cut into 2-inch pieces"
     },
     {
       "qty": 2.0,
       "unit": "tbsp",
-      "item": "ghee (or coconut oil)",
-      "note": null
+      "item": "ghee",
+      "note": "or coconut oil"
     },
     {
       "qty": 1.0,
       "unit": null,
-      "item": "large  yellow onion (finely chopped)",
-      "note": null
+      "item": "large  yellow onion",
+      "note": "finely chopped"
     },
     {
       "qty": 1.0,
       "unit": "tbsp",
-      "item": "fresh ginger (grated)",
-      "note": null
+      "item": "fresh ginger",
+      "note": "grated"
     },
     {
       "qty": 1.0,
       "unit": "tbsp",
-      "item": "fresh garlic (minced)",
-      "note": null
+      "item": "fresh garlic",
+      "note": "minced"
     },
     {
       "qty": 0.5,
@@ -48,14 +48,14 @@
     {
       "qty": 3.0,
       "unit": null,
-      "item": "plum tomatoes  (pureed)",
-      "note": null
+      "item": "plum tomatoes",
+      "note": "pureed"
     },
     {
       "qty": 1.0,
       "unit": "can",
-      "item": "unsweetened full fat coconut milk (allow these to separate - DO NOT shake. Best if left in fridge overnight)",
-      "note": null
+      "item": "unsweetened full fat coconut milk",
+      "note": "allow these to separate - DO NOT shake. Best if left in fridge overnight"
     },
     {
       "qty": 2.0,
@@ -72,26 +72,26 @@
     {
       "qty": 2.0,
       "unit": "tbsp",
-      "item": "kasoori methi (dried fenugreek leaves)",
-      "note": null
+      "item": "kasoori methi",
+      "note": "dried fenugreek leaves"
     },
     {
       "qty": 2.0,
       "unit": "tsp",
-      "item": "sugar (skip for paleo)",
-      "note": null
+      "item": "sugar",
+      "note": "skip for paleo"
     },
     {
-      "qty": null,
-      "unit": null,
-      "item": "1½ teaspoon kosher salt",
+      "qty": 1.5,
+      "unit": "tsp",
+      "item": "kosher salt",
       "note": null
     },
     {
       "qty": 0.5,
       "unit": "cup",
-      "item": "cilantro (chopped",
-      "note": "for garnish)"
+      "item": "cilantro",
+      "note": "chopped, for garnish"
     }
   ],
   "steps": [

@@ -6,8 +6,8 @@
     {
       "qty": 3.5,
       "unit": "cup",
-      "item": "100% fruit juice (divided)",
-      "note": null
+      "item": "100% fruit juice",
+      "note": "divided"
     },
     {
       "qty": 2.0,
@@ -18,8 +18,8 @@
     {
       "qty": 0.5,
       "unit": "cup",
-      "item": "boiled water (or use boiled fruit juice)",
-      "note": null
+      "item": "boiled water",
+      "note": "or use boiled fruit juice"
     }
   ],
   "steps": [

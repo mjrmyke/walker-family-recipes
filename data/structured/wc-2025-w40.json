@@ -24,20 +24,14 @@
     {
       "qty": 1.0,
       "unit": null,
-      "item": "pomegranate",
-      "note": "peeled and seeds separated (see Note)"
+      "item": "pomegranate, peeled and seeds separated",
+      "note": "see Note"
     },
     {
       "qty": 0.25,
       "unit": null,
       "item": "red onion",
       "note": "sliced thin"
-    },
-    {
-      "qty": 1.0,
-      "unit": null,
-      "item": "(8 ounce) package crumbled feta cheese ((goat cheese is also great))",
-      "note": null
     },
     {
       "qty": 1.0,

@@ -66,8 +66,8 @@
     {
       "qty": null,
       "unit": null,
-      "item": "Hot sauce (optional)",
-      "note": null
+      "item": "Hot sauce",
+      "note": "optional"
     }
   ],
   "steps": [

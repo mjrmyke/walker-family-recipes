@@ -12,8 +12,8 @@
     {
       "qty": 4.0,
       "unit": "tbsp",
-      "item": "unsalted butter (softened)",
-      "note": null
+      "item": "unsalted butter",
+      "note": "softened"
     },
     {
       "qty": 2.0,
@@ -54,8 +54,8 @@
     {
       "qty": null,
       "unit": null,
-      "item": "Vanilla ice cream or whipped cream (for serving)",
-      "note": null
+      "item": "Vanilla ice cream or whipped cream",
+      "note": "for serving"
     }
   ],
   "steps": [

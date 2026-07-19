@@ -12,14 +12,14 @@
     {
       "qty": 5.0,
       "unit": "oz",
-      "item": "ube jam (see notes)",
-      "note": null
+      "item": "ube jam",
+      "note": "see notes"
     },
     {
       "qty": 4.0,
       "unit": "tsp",
-      "item": "ube extract (1 20-ml bottle)",
-      "note": null
+      "item": "ube extract",
+      "note": "1 20-ml bottle"
     },
     {
       "qty": 1.0,
@@ -30,8 +30,8 @@
     {
       "qty": 2.0,
       "unit": "cup",
-      "item": "heavy cream (whipped to medium/stiff peaks)",
-      "note": null
+      "item": "heavy cream",
+      "note": "whipped to medium/stiff peaks"
     }
   ],
   "steps": [

@@ -12,44 +12,44 @@
     {
       "qty": 2.0,
       "unit": null,
-      "item": "garlic cloves (",
-      "note": "finely minced)"
+      "item": "garlic cloves",
+      "note": "finely minced"
     },
     {
       "qty": 0.5,
       "unit": null,
-      "item": "onion (",
-      "note": "finely chopped)"
+      "item": "onion",
+      "note": "finely chopped"
     },
     {
       "qty": 0.5,
       "unit": null,
-      "item": "red capsicum / bell peppers (",
-      "note": "diced (~ 3/4 cup))"
+      "item": "red capsicum / bell peppers",
+      "note": "diced (~ 3/4 cup)"
     },
     {
       "qty": 0.5,
       "unit": "cup",
-      "item": "peas (",
-      "note": "frozen)"
+      "item": "peas",
+      "note": "frozen"
     },
     {
       "qty": 3.0,
       "unit": "cup",
-      "item": "day old jasmine rice (",
-      "note": "cooked (Note 1))"
+      "item": "day old jasmine rice",
+      "note": "cooked (Note 1)"
     },
     {
       "qty": 1.5,
       "unit": "cup",
-      "item": "pineapple pieces (",
-      "note": "fresh or canned drained (~ 220g) (Note 2))"
+      "item": "pineapple pieces",
+      "note": "fresh or canned drained (~ 220g) (Note 2)"
     },
     {
       "qty": 0.5,
       "unit": "cup",
-      "item": "green onion (",
-      "note": "sliced)"
+      "item": "green onion",
+      "note": "sliced"
     },
     {
       "qty": 1.0,
@@ -78,8 +78,8 @@
     {
       "qty": 1.5,
       "unit": "tbsp",
-      "item": "soy sauce (",
-      "note": "light or all purpose (not dark soy))"
+      "item": "soy sauce",
+      "note": "light or all purpose (not dark soy)"
     },
     {
       "qty": 1.5,
@@ -90,8 +90,8 @@
     {
       "qty": 1.0,
       "unit": "tbsp",
-      "item": "Thai Seasoning (Gold Mountain)",
-      "note": null
+      "item": "Thai Seasoning",
+      "note": "Gold Mountain"
     }
   ],
   "steps": [

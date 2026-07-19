@@ -6,8 +6,8 @@
     {
       "qty": 2.0,
       "unit": "lb",
-      "item": "boneless (skinless chicken thighs- cut into 1-2 inch pieces)",
-      "note": null
+      "item": "boneless",
+      "note": "skinless chicken thighs- cut into 1-2 inch pieces"
     },
     {
       "qty": 3.0,
@@ -24,8 +24,8 @@
     {
       "qty": 0.3333333333333333,
       "unit": "cup",
-      "item": "tamarind juice (or use 2 teaspoon tamarind paste + water)",
-      "note": null
+      "item": "tamarind juice",
+      "note": "or use 2 teaspoon tamarind paste + water"
     },
     {
       "qty": 2.0,
@@ -54,8 +54,8 @@
     {
       "qty": 1.0,
       "unit": "tbsp",
-      "item": "cornstarch (dissolved in 1/4 cup of water)",
-      "note": null
+      "item": "cornstarch",
+      "note": "dissolved in 1/4 cup of water"
     }
   ],
   "steps": [

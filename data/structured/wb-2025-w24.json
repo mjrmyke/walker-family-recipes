@@ -18,14 +18,14 @@
     {
       "qty": 1.25,
       "unit": "cup",
-      "item": "graham cracker crumbs (from about 8 to 10 graham cracker sheets)",
-      "note": null
+      "item": "graham cracker crumbs",
+      "note": "from about 8 to 10 graham cracker sheets"
     },
     {
       "qty": 6.0,
       "unit": "tbsp",
-      "item": "unsalted butter (melted)",
-      "note": null
+      "item": "unsalted butter",
+      "note": "melted"
     },
     {
       "qty": 3.0,
@@ -36,8 +36,8 @@
     {
       "qty": 0.5,
       "unit": "tsp",
-      "item": "cinnamon (optional)",
-      "note": null
+      "item": "cinnamon",
+      "note": "optional"
     },
     {
       "qty": 0.125,

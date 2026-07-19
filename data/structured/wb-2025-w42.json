@@ -12,8 +12,8 @@
     {
       "qty": 1.0,
       "unit": null,
-      "item": "package (0.25 oz active dry yeast or instant yeast)",
-      "note": null
+      "item": "package",
+      "note": "0.25 oz active dry yeast or instant yeast"
     },
     {
       "qty": 1.0,
@@ -24,8 +24,8 @@
     {
       "qty": 1.0,
       "unit": "cup",
-      "item": "warm water (110°F)",
-      "note": null
+      "item": "warm water",
+      "note": "110°F"
     },
     {
       "qty": 1.0,

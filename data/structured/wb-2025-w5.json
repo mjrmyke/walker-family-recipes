@@ -6,8 +6,8 @@
     {
       "qty": 3.5,
       "unit": "cup",
-      "item": "all-purpose flour or bread flour ((I make mine with all-purpose flour))",
-      "note": null
+      "item": "all-purpose flour or bread flour",
+      "note": "(I make mine with all-purpose flour)"
     },
     {
       "qty": 1.0,
@@ -18,20 +18,20 @@
     {
       "qty": 5.0,
       "unit": "oz",
-      "item": "unsalted butter (",
-      "note": "very cold, diced)"
+      "item": "unsalted butter",
+      "note": "very cold, diced"
     },
     {
       "qty": 5.0,
       "unit": "oz",
-      "item": "lard (",
-      "note": "very cold (can substitute butter but lard makes the flakiest crust))"
+      "item": "lard",
+      "note": "very cold (can substitute butter but lard makes the flakiest crust)"
     },
     {
       "qty": null,
       "unit": null,
-      "item": "How to Render Lard ((click link to learn how to make it yourself.  It&#x27;s super easy and much cheaper than store-bought!))",
-      "note": null
+      "item": "How to Render Lard",
+      "note": "(click link to learn how to make it yourself.  It&#x27;s super easy and much cheaper than store-bought!)"
     },
     {
       "qty": 0.6666666666666666,
@@ -42,26 +42,26 @@
     {
       "qty": 1.0,
       "unit": "lb",
-      "item": "beef skirt steak or sirloin (",
-      "note": "cut into small cubes)"
+      "item": "beef skirt steak or sirloin",
+      "note": "cut into small cubes"
     },
     {
       "qty": 1.0,
       "unit": "lb",
-      "item": "firm",
-      "note": "waxy potato (e.g. Yukon Gold)"
+      "item": "firm, waxy potato",
+      "note": "e.g. Yukon Gold"
     },
     {
       "qty": 8.0,
       "unit": "oz",
-      "item": "rutabaga (",
-      "note": "peeled and diced in 1/4 inch cubes, or thinly sliced according to preference)"
+      "item": "rutabaga",
+      "note": "peeled and diced in 1/4 inch cubes, or thinly sliced according to preference"
     },
     {
       "qty": 7.0,
       "unit": "oz",
-      "item": "yellow onion (",
-      "note": "chopped)"
+      "item": "yellow onion",
+      "note": "chopped"
     },
     {
       "qty": null,
@@ -72,20 +72,20 @@
     {
       "qty": null,
       "unit": null,
-      "item": "unsalted butter ((for cutting in slices to lay inside the pasties))",
-      "note": null
+      "item": "unsalted butter",
+      "note": "(for cutting in slices to lay inside the pasties)"
     },
     {
       "qty": null,
       "unit": null,
-      "item": "all-purpose flour ((for sprinkling inside the pasties))",
-      "note": null
+      "item": "all-purpose flour",
+      "note": "(for sprinkling inside the pasties)"
     },
     {
       "qty": 1.0,
       "unit": null,
-      "item": "large egg (",
-      "note": "lightly beaten)"
+      "item": "large egg",
+      "note": "lightly beaten"
     }
   ],
   "steps": [

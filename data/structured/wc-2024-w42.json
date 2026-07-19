@@ -12,26 +12,26 @@
     {
       "qty": 1.0,
       "unit": "lb",
-      "item": "poblano peppers",
-      "note": "roughly chopped, seeds and stems discarded (about 3 peppers)"
+      "item": "poblano peppers, roughly chopped, seeds and stems discarded",
+      "note": "about 3 peppers"
     },
     {
       "qty": 12.0,
       "unit": "oz",
-      "item": "tomatillos",
-      "note": "husks discarded, quartered (about 4 tomatillos)"
+      "item": "tomatillos, husks discarded, quartered",
+      "note": "about 4 tomatillos"
     },
     {
       "qty": 10.0,
       "unit": "oz",
-      "item": "white onion",
-      "note": "roughly chopped (about 1 medium)"
+      "item": "white onion, roughly chopped",
+      "note": "about 1 medium"
     },
     {
       "qty": 6.0,
       "unit": "oz",
-      "item": "Anaheim or Cubanelle peppers",
-      "note": "roughly chopped, seeds and stems discarded (about 2 peppers)"
+      "item": "Anaheim or Cubanelle peppers, roughly chopped, seeds and stems discarded",
+      "note": "about 2 peppers"
     },
     {
       "qty": 2.0,

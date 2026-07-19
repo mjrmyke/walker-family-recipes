@@ -42,8 +42,8 @@
     {
       "qty": 0.25,
       "unit": "cup",
-      "item": "Almond Milk (or other non-dairy Milk)",
-      "note": null
+      "item": "Almond Milk",
+      "note": "or other non-dairy Milk"
     },
     {
       "qty": null,

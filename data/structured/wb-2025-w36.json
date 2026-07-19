@@ -6,26 +6,26 @@
     {
       "qty": 2.0,
       "unit": null,
-      "item": "sticks unsalted butter (softened)",
-      "note": null
+      "item": "sticks unsalted butter",
+      "note": "softened"
     },
     {
       "qty": 8.0,
       "unit": "clove",
-      "item": "black garlic (mashed)",
-      "note": null
+      "item": "black garlic",
+      "note": "mashed"
     },
     {
       "qty": 0.75,
       "unit": "cup",
-      "item": "parmesan cheese (shredded)",
-      "note": null
+      "item": "parmesan cheese",
+      "note": "shredded"
     },
     {
       "qty": 0.25,
       "unit": "cup",
-      "item": "italian parsley (finely chopped)",
-      "note": null
+      "item": "italian parsley",
+      "note": "finely chopped"
     },
     {
       "qty": 0.25,

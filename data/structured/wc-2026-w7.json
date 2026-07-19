@@ -6,8 +6,8 @@
     {
       "qty": 2.0,
       "unit": null,
-      "item": "to 3 very ripe bananas",
-      "note": "peeled (about 1 1/4 to 1 1/2 cups mashed)"
+      "item": "to 3 very ripe bananas, peeled",
+      "note": "about 1 1/4 to 1 1/2 cups mashed"
     },
     {
       "qty": 0.3333333333333333,
@@ -30,8 +30,8 @@
     {
       "qty": 0.75,
       "unit": "cup",
-      "item": "sugar (1/2 cup if you would like it less sweet",
-      "note": "1 cup if more sweet)"
+      "item": "sugar",
+      "note": "1/2 cup if you would like it less sweet, 1 cup if more sweet"
     },
     {
       "qty": 1.0,

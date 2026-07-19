@@ -24,8 +24,8 @@
     {
       "qty": 2.0,
       "unit": "tbsp",
-      "item": "tomato paste (optional)",
-      "note": null
+      "item": "tomato paste",
+      "note": "optional"
     },
     {
       "qty": 2.0,
