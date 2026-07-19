@@ -16,15 +16,15 @@
       "note": "chopped"
     },
     {
-      "qty": null,
-      "unit": null,
-      "item": "&frac12; cup chopped red onion",
-      "note": "about &frac12; small onion"
+      "qty": 0.5,
+      "unit": "cup",
+      "item": "chopped red onion",
+      "note": "about ½ small onion"
     },
     {
-      "qty": null,
-      "unit": null,
-      "item": "&frac14; cup chopped fresh cilantro",
+      "qty": 0.25,
+      "unit": "cup",
+      "item": "chopped fresh cilantro",
       "note": null
     },
     {
@@ -36,13 +36,13 @@
     {
       "qty": 3.0,
       "unit": "tbsp",
-      "item": "lime juice (from about 1 &frac12; limes)",
+      "item": "lime juice (from about 1 ½ limes)",
       "note": "or more if needed"
     },
     {
-      "qty": null,
-      "unit": null,
-      "item": "&frac14; teaspoon fine sea salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "fine sea salt",
       "note": null
     }
   ],

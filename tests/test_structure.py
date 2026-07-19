@@ -21,6 +21,14 @@ def test_structure_from_external_builds_body():
     assert "chicken" in b["tags"]
     assert b["description"] == "Crispy chicken in a tangy glaze."   # first sentence
 
+def test_external_decodes_html_entities():
+    ext = {**EXT, "description": "It&#39;s great &amp; easy. More text.",
+           "ingredients": ["2 cups flour &amp; sugar"], "steps": ["Mix &amp; bake."]}
+    b = structure_from_external(POST, ext)
+    assert b["description"] == "It's great & easy."
+    assert b["ingredients"][0]["item"] == "flour & sugar"
+    assert b["steps"] == ["Mix & bake."]
+
 def test_external_defaults_servings_when_missing():
     b = structure_from_external(POST, {**EXT, "servings": None})
     assert b["servings"] == 4
