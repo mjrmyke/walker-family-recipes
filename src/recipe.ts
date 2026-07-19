@@ -1,11 +1,11 @@
 import type { Recipe } from "./types";
 import { formatQty } from "./scale";
-import { fullDate, emojiFor, escapeHtml, hasRealImage } from "./util";
+import { fullDate, emojiFor, escapeHtml, hasRealImage, asset } from "./util";
 import { getChecked, setChecked, resetChecked } from "./checklist";
 
 function hero(r: Recipe): string {
   if (hasRealImage(r)) {
-    return `<img src="/${r.image}" alt="${escapeHtml(r.dish)}" onerror="this.remove()">
+    return `<img src="${asset(r.image)}" alt="${escapeHtml(r.dish)}" onerror="this.remove()">
       <div class="emo">${emojiFor(r)}</div>`;
   }
   return `<div class="emo">${emojiFor(r)}</div>`;

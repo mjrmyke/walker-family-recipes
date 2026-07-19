@@ -1,12 +1,12 @@
 import type { Recipe } from "./types";
-import { monthYear, emojiFor, escapeHtml, hasRealImage } from "./util";
+import { monthYear, emojiFor, escapeHtml, hasRealImage, asset } from "./util";
 
 function thumb(r: Recipe): string {
   const badge = r.photoOnly
     ? `<div class="badge photo">photo</div>`
     : `<div class="badge">${escapeHtml(r.theme)}</div>`;
   if (hasRealImage(r)) {
-    return `<img src="/${r.image}" alt="${escapeHtml(r.dish)}" loading="lazy"
+    return `<img src="${asset(r.image)}" alt="${escapeHtml(r.dish)}" loading="lazy"
         onerror="this.remove()"><div class="emo">${emojiFor(r)}</div>${badge}`;
   }
   return `<div class="emo">${emojiFor(r)}</div>${badge}`;

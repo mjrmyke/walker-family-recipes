@@ -33,3 +33,8 @@ export function escapeHtml(s: string): string {
 export function hasRealImage(r: Recipe): boolean {
   return !!r.image && !r.image.endsWith("placeholder.webp");
 }
+
+/** Resolve a public asset path against the app's base URL (handles GitHub Pages subpath). */
+export function asset(path: string): string {
+  return import.meta.env.BASE_URL + path;
+}
