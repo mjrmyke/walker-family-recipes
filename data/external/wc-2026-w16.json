@@ -1,0 +1,25 @@
+{
+  "id": "wc-2026-w16",
+  "recipe_url": "https://www.loveandlemons.com/chimichurri-sauce/#wprm-recipe-container-44654",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Chimichurri Sauce",
+  "description": null,
+  "ingredients": [
+    "⅓ cup extra-virgin olive oil",
+    "2 tablespoons white wine vinegar",
+    "1 garlic clove minced",
+    "½ teaspoon sea salt",
+    "¼ teaspoon dried oregano",
+    "¼ teaspoon red pepper flakes",
+    "¼ teaspoon smoked paprika",
+    "½ cup finely chopped fresh flat-leaf parsley (from about 1 bunch of parsley, coarse stems removed)"
+  ],
+  "steps": [
+    "In a small bowl , whisk together the olive oil, 1 tablespoon of the vinegar, garlic, salt, oregano, red pepper flakes, and smoked paprika. Stir in the parsley. Alternatively, you could combine the ingredients in a mortar and pestle or with a few pulses in a food processor .",
+    "Season to taste, adding the remaining 1 tablespoon vinegar if desired for a tangier flavor. Serve as a sauce over roasted or grilled vegetables."
+  ],
+  "servings": 4,
+  "extractor": "wprm"
+}

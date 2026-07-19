@@ -1,0 +1,39 @@
+{
+  "id": "wc-2024-w16",
+  "recipe_url": "https://litecravings.com/wprm_print/4670",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Chicken Shawarma with Garlic Sauce",
+  "description": null,
+  "ingredients": [
+    "2 pounds boneless, skinless chicken breast (buy cutlets to skip a step)",
+    "2 tablespoons olive oil",
+    "1 lemon, zested and juiced",
+    "3 tablespoons fat free chicken stock",
+    "3 garlic cloves, minced",
+    "2 teaspoons cumin",
+    "2 teaspoons smoked paprika",
+    "2 teaspoons ground coriander",
+    "1/4 teaspoon cinnamon",
+    "1 teaspoon kosher salt",
+    "ground pepper to taste",
+    "2/3 cup nonfat, plain Greek yogurt",
+    "2 garlic cloves, grated",
+    "1 teaspoon olive oil",
+    "2 tablespoons lemon juice",
+    "3-4 tablespoons almond milk or skim milk",
+    "1/2 teaspoon each kosher salt and black pepper",
+    "pita, tomatoes, cucumber, parsley, iceberg lettuce"
+  ],
+  "steps": [
+    "Cut chicken breasts in half length-wise (or buy chicken cutlets). Mix all marinade ingredients together in a large bowl and add chicken.",
+    "Coat chicken completely with marinade. Cover bowl and refrigerate for at least 2 hours or up to 24 hours.",
+    "In a small bowl, mix all sauce ingredients together. Add more or less milk to reach your desired consistency. Refrigerate for at least an hour. It will get better the longer it sits and will last in your refrigerator for up to 5 days.",
+    "Remove chicken from marinade. Discard the marinade and pat the chicken dry with paper towels.",
+    "FOR THE GRILL or SKILLET: Preheat grill or skillet to medium-high. Cook chicken for 3-4 minutes per side. Rest chicken, covered with tin foil, for 5 minutes before serving.",
+    "FOR THE AIR FRYER: Preheat air fryer to 370F. Cook chicken cutlets for 5 minutes, then slip and cook for another 4-5 minutes. Rest chicken, covered with tin foil, for 5 minutes before serving."
+  ],
+  "servings": 6,
+  "extractor": "wprm"
+}

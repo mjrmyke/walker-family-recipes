@@ -1,0 +1,32 @@
+{
+  "id": "wc-2024-w48",
+  "recipe_url": "https://www.allrecipes.com/recipe/233686/tex-mex-chicken-casserole/",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Tex-Mex Chicken Casserole",
+  "description": "This creamy, comforting Tex-Mex chicken casserole recipe with a nacho cheese-flavored corn chip crust is a version of the King Ranch chicken casserole.",
+  "ingredients": [
+    "1 (10 ounce) bag nacho cheese-flavored corn chips (such as Doritos®), crushed",
+    "1 tablespoon butter",
+    "1 small onion, finely chopped",
+    "1 (14.5 ounce) can diced tomatoes",
+    "1 (10.75 ounce) can condensed cream of chicken soup",
+    "1 (10.75 ounce) can cream of mushroom soup",
+    "1 (4.5 ounce) can chopped green chiles",
+    "0.33333334326744 cup milk",
+    "2 tablespoons sour cream",
+    "1 teaspoon chili powder",
+    "1 teaspoon ground cumin",
+    "2.5 cups chopped cooked chicken",
+    "1 (8 ounce) package shredded sharp Cheddar cheese"
+  ],
+  "steps": [
+    "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch baking dish.",
+    "Spread corn chip crumbs over bottom of the baking dish; press crumbs into place.",
+    "Melt butter in a large skillet over medium-high heat. Add onion; cook and stir until tender, 6 to 7 minutes.",
+    "Combine diced tomatoes, cream of chicken soup. cream of mushroom soup, green chiles, milk, sour cream, chili powder, and cumin in a large bowl; stir in chicken and onion to combine. Pour over corn chips; top with Cheddar cheese.",
+    "Bake in the preheated oven until bubbly and cheese is melted, 55 to 60 minutes. Let stand for 10 minutes before serving."
+  ],
+  "servings": 8
+}

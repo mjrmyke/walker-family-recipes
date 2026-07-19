@@ -1,0 +1,25 @@
+{
+  "id": "wc-2026-w20",
+  "recipe_url": "https://thissillygirlskitchen.com/jello-cloud-mousse/",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Easy Jello Mousse Cloud Dessert",
+  "description": "This Jello Mousse whips jello and whipped topping into a fluffy, no-bake cloud dessert layered in a glass, a fun and easy treat for any party.",
+  "ingredients": [
+    "½ Cup boiling water",
+    "1  85 g package jello, berry blue flavor",
+    "⅔ Cup ice water",
+    "2 1/2 Cups whipped topping (divided)"
+  ],
+  "steps": [
+    "Boil ½ Cup water, add jello, and whisk until dissolved (about 1-2 minutes); take off the heat.",
+    "In a ⅔ Cup measure, add in ½ Cup of ice cubes and fill with cold water. Pour ice water into the jello mixture. Whisk to combine.",
+    "Whisk 1½ Cups of the whipped topping into the jello. Pour into a bowl and place in the fridge for 1 and a half hours to set. It will have a mousse-like consistency.",
+    "Break up the mixture with a whisk until smooth. Fold in 1/2 Cup more whipped topping.",
+    "Place the mixture into a piping bag. Using a small glass, pipe jello mix 1/3 of the way up the glass.",
+    "Add small dollops around the outside of the glass using the remaining whipped topping.",
+    "Repeat twice, ending with the jello mixture. Add a dollop of whipped topping on top. Serve and enjoy!"
+  ],
+  "servings": 8
+}

@@ -1,0 +1,27 @@
+{
+  "id": "wc-2026-w3",
+  "recipe_url": "https://www.simplyrecipes.com/recipes/fresh_tomato_salsa/",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Fresh Salsa (Pico de Gallo)",
+  "description": "Homemade pico de gallo is so delicious, easy to make, and never goes to waste.",
+  "ingredients": [
+    "2 to 3 medium-sized fresh tomatoes (1 to 1 1/2 pounds), stems removed",
+    "1/2 red onion",
+    "2 serrano or 1 jalapeño pepper, stems, ribs, and seeds removed (less or more to taste)",
+    "Juice of 1 lime",
+    "1/2 cup chopped cilantro",
+    "Salt and pepper to taste",
+    "Pinch dried oregano (crumble in your fingers before adding), or more to taste",
+    "Pinch ground cumin, or more to taste"
+  ],
+  "steps": [
+    "Roughly chop the tomatoes, chile peppers, and onions. Be careful while handling the chile peppers. Use a plastic baggie or disposable gloves to handle them, or wash your hands thoroughly with soap and hot water after handling, and avoid touching your eyes for several hours. Set aside some of the seeds from the peppers. If the salsa isn&#39;t hot enough, you can add a few more for more heat.",
+    "Place all of the ingredients in the bowl of a food processor fitted with the blade. Pulse only a few times, just enough to finely dice the ingredients and not enough to purée. If you don&#39;t have a food processor, you can finely dice by hand.",
+    "Place in a serving bowl. Add salt and pepper to taste. If the chiles make the salsa too hot, add some more chopped tomato. If it&#39;s not hot enough, carefully add a few of the seeds from the chiles, or add a little more ground cumin. If you like, let the salsa sit for an hour (room temperature or chilled) for the flavors to combine.",
+    "Serve with chips, tortillas, tacos, burritos, tostadas, quesadillas, or pinto beans, or black beans. The salsa will keep refrigerated for up to 5 days.",
+    "Enjoy!"
+  ],
+  "servings": 16
+}

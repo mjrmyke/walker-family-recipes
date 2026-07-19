@@ -1,0 +1,32 @@
+{
+  "id": "wc-2026-w18",
+  "recipe_url": "https://dinnerthendessert.com/spicy-ramen/",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Spicy Ramen Recipe",
+  "description": "Easy Spicy Ramen recipe with a rich homemade spicy broth and instant noodles. A quick and delicious bowl of ramen soup in about 15 minutes!",
+  "ingredients": [
+    "4 cups chicken broth",
+    "2 tablespoons hoisin sauce",
+    "2 tablespoons low sodium soy sauce",
+    "1 tablespoon Sriracha",
+    "1 tablespoon sesame oil",
+    "1 tablespoon ginger (, finely minced)",
+    "3 cloves garlic (, finely minced)",
+    "2 packages ramen",
+    "2 large eggs (, soft boiled)",
+    "1 tablespoons sesame seeds",
+    "1/4 cup green onions (, thinly sliced)"
+  ],
+  "steps": [
+    "Add the chicken broth, hoisin sauce, soy sauce, sriracha, sesame oil, ginger and garlic to a large pot on medium heat.",
+    "Bring to a simmer.",
+    "Add in the ramen noodles (discard the packets).",
+    "Boil for 4-5 minutes.",
+    "Serve in a bowl.",
+    "Cut the soft boiled eggs in half and place cut side up in the soup.",
+    "Top with sesame seeds, green onions and a bit more Sriracha if desired."
+  ],
+  "servings": 4
+}

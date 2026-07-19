@@ -1,0 +1,30 @@
+{
+  "id": "wc-2026-w15",
+  "recipe_url": "https://tarasmulticulturaltable.com/shish-taouk-syrian-chicken-skewers/",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Shish Taouk (Syrian Chicken Skewers)",
+  "description": "A recipe for Shish Taouk (Syrian Chicken Skewers) from the cookbook, An Edible Mosaic: Middle Eastern Fare with Extraordinary Flair.",
+  "ingredients": [
+    "1/4 cup plain yogurt",
+    "2 tablespoons lemon juice",
+    "2 tablespoons olive oil",
+    "2 tablespoons tomato paste (optional)",
+    "2 teaspoons paprika",
+    "1/4 teaspoon ground cayenne pepper",
+    "1/4 teaspoon ground allspice",
+    "1/4 teaspoon black pepper",
+    "3 cloves garlic",
+    "1/2 teaspoon salt",
+    "1 1/2 pounds boneless, skinless chicken breasts"
+  ],
+  "steps": [
+    "In a medium bowl, combine yogurt, lemon juice, olive oil, tomato paste, paprika, cayenne, allspice, and black pepper.",
+    "Using a mortar and pestle, crush garlic cloves with the salt. Add to the marinade.",
+    "Cut chicken into 1\"-2\" pieces. Coat with the marinade and refrigerate 1-4 hours.",
+    "Pierce the chicken onto the skewers, wiping off any excess marinade. Grill until the chicken is cooked through, about 10 minutes, turning after 5 minutes.",
+    "Serve with flatbread, vegetables, and garlic mayonnaise (toum)."
+  ],
+  "servings": 3
+}

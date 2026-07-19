@@ -1,0 +1,36 @@
+{
+  "id": "wb-2025-w26",
+  "recipe_url": "https://www.chefspencil.com/timbits/",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Timbits",
+  "description": "These classic doughnut come in chocolate, powdered sugar, honey dip, old fashioned, and more, and they are a staple of Canadian culture.",
+  "ingredients": [
+    "2 ½ cups all-purpose flour",
+    "2 cups sugar",
+    "1 tbsp baking powder",
+    "½ tsp salt",
+    "2 tbsp butter (melted)",
+    "1  egg",
+    "1 cup milk",
+    "1 tsp vanilla extract",
+    "vegetable oil  (for frying)",
+    "2 cups powdered sugar",
+    "¼ cup hot water",
+    "1 tsp vanilla extract"
+  ],
+  "steps": [
+    "In a mixing bowl, combine the flour, sugar, baking powder, and salt.",
+    "In a separate bowl, whisk together milk, butter, and egg until smooth. Pour the wet mixture into the dry ingredients and whisk until just combined.",
+    "Mix until a soft dough forms. Do not overmix; just combine until the ingredients are incorporated.",
+    "Take a deep, heavy-bottomed pan and add enough oil for frying. Place it over low to medium heat and let it heat until the oil reaches a temperature of approximately 350°F (175˚C).",
+    "Slowly drop in balls of batter using 2 spoons or a scoop and let them rise to the surface.",
+    "Fry 6-8 Timbits at a time for 3-4 minutes, turning them once halfway through, until they are golden brown and crispy. Using a skimmer, transfer the timbits from oil to a cooling rack. Line the cooling rack with paper towels first.",
+    "In a separate bowl, mix the powdered sugar, hot water, and vanilla extract until you have a smooth glaze. You can add food coloring if desired to achieve the classic Tim Hortons colors.",
+    "While the Timbits are still warm, dip them into the glaze, ensuring they are evenly coated.",
+    "Place the glazed Timbits back on the parchment paper to allow the glaze to set.",
+    "Allow the glaze to harden, and then your homemade Timbits are ready to be enjoyed. Serve them fresh and warm."
+  ],
+  "servings": 6
+}

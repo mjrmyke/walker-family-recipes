@@ -1,0 +1,37 @@
+{
+  "id": "wc-2024-w46",
+  "recipe_url": "https://www.cuisineandcocktails.com/air-fryer-chicken-wings/",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Air Fryer Hot Wings",
+  "description": "Crispy Air Fryer Hot Wings with an easy homemade buffalo sauce is the perfect Super Bowl dish and lighter than deep frying!",
+  "ingredients": [
+    "2.5  lb chicken wings (fresh or frozen) (separated if whole, thawed if frozen)",
+    "2 tsp cayenne (divided)",
+    "2 tsp garlic powder (divided)",
+    "2  tsp onion powder (divided)",
+    "1/2 tsp salt",
+    "1 tsp fresh ground pepper",
+    "1 tsp chili powder",
+    "1/2 tsp oregano",
+    "1 stick butter",
+    "12 oz bottle of Frank&#39;s red hot (or similar)",
+    "2 tbsp Worcestershire sauce",
+    "celery, carrots, ranch, bleu cheese (for serving )"
+  ],
+  "steps": [
+    "Rinse wings in cold water and pat dry.",
+    "In small bowl mix together 1 tsp cayenne, 1 tsp garlic powder, 1 tsp onion powder, salt and 1/2 tsp ground pepper.",
+    "Rub wings with this seasoning.",
+    "Preheat air fryer to 400 degrees for 2 minutes. Spray with nonstick.",
+    "Add wings in a single layer not overcrowding. Might have to work in batches (see notes).",
+    "Cook 12 minutes on side then flip and cook 10-15 more minutes.",
+    "Meanwhile in a small saucepan melt butter over medium heat. Add hot sauce, Worcestershire sauce, chili powder, oregano, 1 tsp cayenne, 1 tsp garlic powder, and 1 tsp onion powder.",
+    "Bring to slight boil, reduce heat and simmer for 8 minutes.",
+    "Remove wings to a paper towel lined plate. Based on size of air fryer you might have to work in batches.",
+    "Transfer wings to a large bowl and toss in hot buffalo sauce.",
+    "Serve with carrots, celery and dressing on side."
+  ],
+  "servings": 5
+}

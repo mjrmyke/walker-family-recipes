@@ -1,0 +1,33 @@
+{
+  "id": "wc-2024-w19",
+  "recipe_url": "https://www.tastesoflizzyt.com/wprm_print/apple-dumplings",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Apple Dumplings",
+  "description": null,
+  "ingredients": [
+    "2 cups all-purpose flour 267 grams",
+    "2 1/2 teaspoons baking powder",
+    "1/2 teaspoons salt",
+    "2/3 cup salted butter softened",
+    "1/2 cup 2% milk 4 ounces",
+    "6 apples peeled and cored",
+    "2 cups brown sugar 400 grams",
+    "2 cups water 16 ounces",
+    "1/4 cup salted butter 2 ounces",
+    "1/2 teaspoon ground cinnamon"
+  ],
+  "steps": [
+    "In a medium size bowl, combine the flour, baking powder and salt. 2 cups all-purpose flour , 2 1/2 teaspoons baking powder , 1/2 teaspoons salt",
+    "Mix in the butter, then add in the milk and mix just until a soft dough forms. Divide the dough into 6 balls. 2/3 cup salted butter , 1/2 cup 2% milk",
+    "Roll out each ball of dough on a floured surface. Place an apple in the center of each piece of dough. Fold the dough around the apple and press it together to form a ball. 6 apples",
+    "Spray a 9x13 pan with cooking spray. Place the dumplings in the prepared pan. Preheat the oven to 350º Fahrenheit.",
+    "In a small saucepan over medium-low heat, combine the brown sugar, water, butter and cinnamon. Heat it just until it barely starts boiling, stirring often. 2 cups brown sugar , 2 cups water , 1/4 cup salted butter , 1/2 teaspoon ground cinnamon",
+    "Pour this mixture over the dumplings.",
+    "Bake in the preheated oven for 30-40 minutes, or until the apples are soft and the dough is golden brown. You can baste the dumplings with the syrup several times during baking if you'd like.",
+    "Serve warm with a scoop of vanilla ice cream."
+  ],
+  "servings": 6,
+  "extractor": "wprm"
+}

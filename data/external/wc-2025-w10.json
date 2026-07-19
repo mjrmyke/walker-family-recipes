@@ -1,0 +1,31 @@
+{
+  "id": "wc-2025-w10",
+  "recipe_url": "https://iankewks.com/adobo-fried-rice/",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Filipino Adobo Fried Rice",
+  "description": "A fusion of the classic Filipino adobo dish and fried rice makes this a delicious and hearty meal. It's easy enough to prepare and perfect for any time of the day!",
+  "ingredients": [
+    "2 cups cooked, day-old rice",
+    "0.5 lbs pork belly, sliced into small chunks",
+    "3 cloves garlic, minced",
+    "2 tbsp soy sauce",
+    "1 tbsp brown sugar",
+    "2 tsp vinegar",
+    "1/4 tsp ground black pepper",
+    "2  bay leaves",
+    "1/2 cup water",
+    "1  green onion, chopped",
+    "Fried egg",
+    "Green onions, chopped"
+  ],
+  "steps": [
+    "Heat the pork belly over medium heat, stirring occasionally to avoid burning. Continue cooking slowly to render out the fats until the pork is lightly crisp and golden brown.",
+    "Add in the minced garlic, stir and sauté in the rendered fat until golden and fragrant.",
+    "Add in the soy sauce, brown sugar, vinegar, black pepper, bay leaves, and water. Bring to a boil, then let simmer until the adobo liquid thickens and concentrates into a sauce, about 5-7 minutes.",
+    "Add in the rice. Stir until all the grains are evenly coated with the adobo sauce. Toss in the green onions and give the rice a final stir fry.",
+    "Serve warm and top with a fried egg and more green onions. Enjoy!"
+  ],
+  "servings": 2
+}

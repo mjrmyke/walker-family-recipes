@@ -1,0 +1,31 @@
+{
+  "id": "wc-2024-w49",
+  "recipe_url": "https://diethood.com/garlic-butter-oven-baked-tilapia/",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "GARLIC BUTTER OVEN BAKED TILAPIA",
+  "description": "Light, nutritious tilapia fillets are seasoned with garlic, butter, and lemon and baked to perfection.",
+  "ingredients": [
+    "4  tilapia fillets",
+    "Salt and freshly ground black pepper, (to taste)",
+    "½ teaspoon paprika",
+    "½ teaspoon dried thyme",
+    "½ teaspoon dried oregano",
+    "4 tablespoons butter, (melted)",
+    "4 cloves garlic, (minced)",
+    "2 tablespoons lemon juice",
+    "¼ teaspoon lemon zest",
+    "1  lemon, (sliced into rounds, for garnish)",
+    "Red pepper flakes, (for garnish)",
+    "Chopped fresh parsley, (for garnish)",
+    "Lemon slices, (for garnish)"
+  ],
+  "steps": [
+    "Preheat oven to 400°F. Season tilapia with salt, pepper, paprika, thyme, and oregano; arrange fish in a 9x13 baking dish.",
+    "In a mixing bowl, whisk together melted butter, garlic, lemon juice, and lemon zest; pour over tilapia.",
+    "Bake tilapia for 10 to 12 minutes, or until fish flakes and is fork-tender.",
+    "Garnish with pepper flakes, parsley, and lemon slices. Serve."
+  ],
+  "servings": 4
+}

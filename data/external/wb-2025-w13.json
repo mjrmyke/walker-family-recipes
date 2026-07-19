@@ -1,0 +1,29 @@
+{
+  "id": "wb-2025-w13",
+  "recipe_url": "https://ifoodreal.com/wprm_print/healthy-chocolate-chip-cookies",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Healthy Chocolate Chip Cookies",
+  "description": null,
+  "ingredients": [
+    "1/2 cup unsalted butter softened at room temperature and packed",
+    "1/2 cup cane or coconut sugar",
+    "1 large egg",
+    "1 teaspoon pure vanilla extract",
+    "1/2 teaspoon baking soda",
+    "1/4 teaspoon salt",
+    "1 1/4 cups whole wheat or spelt flour",
+    "1/3 cup dark chocolate chips divided"
+  ],
+  "steps": [
+    "In a large bowl, add butter and sugar; beat with a mixer until creamy.",
+    "Add egg and vanilla extract, beat until combined. Add baking soda, salt and flour; beat until cookie dough is formed. Add 1/4 cup chocolate chips and stir with spatula.",
+    "Place cookie dough in the freezer to chill for 20 minutes. In the meanwhile, preheat oven to 350 degrees F and line 2 cookie sheets with unbleached parchment paper or silicone baking mats.",
+    "Scoop dough with a regular scoop, roll into balls and place on prepared baking sheets 3 inches apart. Cookies spread.",
+    "Bake for 10 minutes and remove while cookies appear underbaked, puffy and light in color. Strategically place remaining 2 tablespoons of chocolate chips into cookies while they are still hot.",
+    "Let cookies cool on a baking sheet for 15 minutes before transferring onto a cooling rack to cool more. As cookies cool, you will see delicious grooves covering chocolate chips like a blanket appearing."
+  ],
+  "servings": 12,
+  "extractor": "wprm"
+}

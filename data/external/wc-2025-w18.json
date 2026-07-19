@@ -1,0 +1,22 @@
+{
+  "id": "wc-2025-w18",
+  "recipe_url": "https://www.allrecipes.com/recipe/278811/stir-fried-taiwanese-cabbage/",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Stir-Fried Taiwanese Cabbage",
+  "description": "Taiwanese cabbage (aka flat cabbage) is cooked with fresh ginger, garlic, red chile pepper, and rice wine vinegar in this flavorful stir-fry.",
+  "ingredients": [
+    "1 tablespoon avocado oil",
+    "3 cloves garlic, minced",
+    "1 (1 inch) piece fresh ginger root, peeled and thinly sliced",
+    "5 cups Taiwanese cabbage, leaves separated and cut into 1 1/2-inch squares",
+    "1 small red chile pepper, thinly sliced",
+    "1 tablespoon rice wine vinegar",
+    "0.25 teaspoon kosher salt, or to taste"
+  ],
+  "steps": [
+    "Heat oil in a wok or a large skillet over medium-high heat. Add garlic and ginger; cook and stir for about 30 seconds. Add cabbage and chile pepper; stir quickly, mixing in garlic and ginger. Stir-fry until cabbage becomes translucent and volume is reduced by half, but without it losing texture, 3 to 4 minutes. Stir in rice vinegar and season with salt."
+  ],
+  "servings": 2
+}

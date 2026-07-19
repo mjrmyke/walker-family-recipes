@@ -1,0 +1,23 @@
+{
+  "id": "wb-2025-w23",
+  "recipe_url": "https://theunlikelybaker.com/homemade-ube-ice-cream/",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Ube Ice Cream",
+  "description": "Ube ice cream is sweet, earthy, delicious and wonderfully purple! With just 5 ingredients and not needing an ice cream maker, it’s also very easy to make at home.",
+  "ingredients": [
+    "1 10-oz can condensed milk",
+    "5 oz ube jam (see notes)",
+    "4 tsp ube extract (1 20-ml bottle)",
+    "1 tsp vanilla extract",
+    "2 cups heavy cream (whipped to medium/stiff peaks)"
+  ],
+  "steps": [
+    "In a large bowl, stir condensed milk, ube jam, ube extract and vanilla extract until fully incorporated.",
+    "Take a generous dollop of whipped cream and fold into your ube mixture to lighten it.",
+    "Take your lightened ube mixture and fold into your whipped cream until combined.",
+    "Transfer into a freezer-safe container, smoothen the top and cover with plastic wrap. Freeze overnight."
+  ],
+  "servings": 12
+}

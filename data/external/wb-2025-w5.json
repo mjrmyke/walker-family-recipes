@@ -1,0 +1,34 @@
+{
+  "id": "wb-2025-w5",
+  "recipe_url": "https://www.daringgourmet.com/authentic-cornish-pasty-recipe/#recipe",
+  "ok": true,
+  "reason": null,
+  "http_status": 200,
+  "name": "Authentic Cornish Pasty Recipe",
+  "description": "A flaky pastry crust filled with savory meat and vegetables, the Cornish Pasty is comfort food at its best!",
+  "ingredients": [
+    "3 1/2  cups all-purpose flour or bread flour ((I make mine with all-purpose flour))",
+    "1 teaspoon salt",
+    "5 ounces unsalted butter (, very cold, diced)",
+    "5 ounces lard (, very cold (can substitute butter but lard makes the flakiest crust))",
+    "How to Render Lard ((click link to learn how to make it yourself.  It&#x27;s super easy and much cheaper than store-bought!))",
+    "2/3 cup ice cold water",
+    "1 pound beef skirt steak or sirloin  (, cut into small cubes)",
+    "1 pound firm, waxy potato (e.g. Yukon Gold)",
+    "8 ounces rutabaga  (, peeled and diced in 1/4 inch cubes, or thinly sliced according to preference)",
+    "7  ounces yellow onion (, chopped)",
+    "salt and pepper to taste",
+    "unsalted butter ((for cutting in slices to lay inside the pasties))",
+    "all-purpose flour ((for sprinkling inside the pasties))",
+    "1  large egg (, lightly beaten)"
+  ],
+  "steps": [
+    "To Make the Shortcrust Pastry:  Place the flour and salt in a food processor and pulse a few times until combined.  Add the cold butter and lard and pulse a few more times until the mixture resembles coarse crumbs.  Add the water a little at a time, pulsing between additions, until the mixture begins to come together.  DO NOT over-mix the dough or the pastry crust will be tough and won&#39;t be flaky.  Form the dough into a ball, wrap in plastic wrap, and refrigerate for at least 3 hours before using (this is crucial).  (Can be refrigerated for a few days or frozen for up to 3 months.)",
+    "To Make the Cornish Pasties:  Preheat the oven to 350 degrees F.Cut it into 6 equal pieces (rolling the dough into a log and then cutting makes this easier).  Wrap and keep the other 5 pieces chilled in the fridge while you&#39;re working on one at a time.  Roll the dough out on a lightly floured work surface to a 8 inch circle that&#39;s about 1/8 inch thick.  You can use an 8-inch plate as your guide and cut the dough around it to form your circle.",
+    "Layer the filling (see note at end):  Put layer of potatoes down the center of the pastry circle, leaving about 3/4 inch space on the top and bottom edges of the pastry dough.  Lightly sprinkle with salt and pepper.  Next add a layer of rutabagas, onions and finally the beef, adding a light sprinkling of salt and pepper between each layer.  Lay a couple pats of butter on top of the beef and sprinkle a little flour over the filling.",
+    "Wet the tips of your fingers and lightly moisten the edges of the pastry dough.  For this next part work gently so that the filling doesn&#x27;t puncture through the dough.  If this happens, patch up the hole with some of the scrap pieces of pastry dough.  Bring the sides up and seal the pasty down the middle.  Turn the pasty onto its side and crimp the edges in traditional Cornish fashion (see blog post pictures as a visual).",
+    "Assemble the remaining pasties and lay them on a lined baking sheet.  Use a sharp knife to cut a slit in the center of each pasty.  Lightly brush each pasty with the beaten egg mixture.",
+    "Bake the Cornish pasties on the middle rack for 40-50 minutes until golden in color.  Remove from the oven and let them sit for about 10 minutes (they will be very hot inside) before eating.  They can be reheated in the oven (recommended for a crispier crust) or microwave.  NOTE:  Depending on how full you stuff the pasties you may have leftover filling.  No worries, just fry it up together or add it to soup and enjoy it as a separate meal."
+  ],
+  "servings": 6
+}
