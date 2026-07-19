@@ -1,6 +1,7 @@
 import "./style.css";
 import { recipes, allTags, byId } from "./data";
 import { apply } from "./filter";
+import { sortRecipes, type SortMode } from "./sort";
 import { renderGrid } from "./cards";
 import { renderRecipe } from "./recipe";
 import { escapeHtml } from "./util";
@@ -11,7 +12,7 @@ const TAGS = allTags();
 const TAG_COUNTS = new Map<string, number>();
 for (const r of recipes) for (const t of r.tags) TAG_COUNTS.set(t, (TAG_COUNTS.get(t) ?? 0) + 1);
 
-const state = { q: "", tags: new Set<string>() };
+const state = { q: "", tags: new Set<string>(), sort: "newest" as SortMode };
 
 function renderIndex(): void {
   app.innerHTML = `<div class="wrap">
@@ -20,8 +21,15 @@ function renderIndex(): void {
       <span class="sub">52 weeks of cooking &amp; baking</span>
     </header>
     <div class="controls">
-      <input class="search" id="search" placeholder="Search recipes, ingredients, themes…"
-             value="${escapeHtml(state.q)}" autocomplete="off">
+      <div class="searchrow">
+        <input class="search" id="search" placeholder="Search recipes, ingredients, themes…"
+               value="${escapeHtml(state.q)}" autocomplete="off">
+        <select class="sort" id="sort" aria-label="Sort recipes">
+          <option value="newest">Newest first</option>
+          <option value="oldest">Oldest first</option>
+          <option value="az">A–Z</option>
+        </select>
+      </div>
       <div class="tags" id="tags"></div>
     </div>
     <div class="count" id="count"></div>
@@ -32,6 +40,8 @@ function renderIndex(): void {
   const count = app.querySelector<HTMLElement>("#count")!;
   const tagsEl = app.querySelector<HTMLElement>("#tags")!;
   const searchEl = app.querySelector<HTMLInputElement>("#search")!;
+  const sortEl = app.querySelector<HTMLSelectElement>("#sort")!;
+  sortEl.value = state.sort;
 
   const drawTags = () => {
     tagsEl.innerHTML =
@@ -43,7 +53,7 @@ function renderIndex(): void {
   };
 
   const update = () => {
-    const list = apply(recipes, state.q, state.tags);
+    const list = sortRecipes(apply(recipes, state.q, state.tags), state.sort);
     const active = [...state.tags];
     count.innerHTML =
       state.q || active.length
@@ -56,6 +66,10 @@ function renderIndex(): void {
 
   searchEl.addEventListener("input", () => {
     state.q = searchEl.value;
+    update();
+  });
+  sortEl.addEventListener("change", () => {
+    state.sort = sortEl.value as SortMode;
     update();
   });
   tagsEl.addEventListener("click", (e) => {
