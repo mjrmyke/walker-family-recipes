@@ -1,7 +1,8 @@
 import { defineConfig } from "vite";
 
-// Local dev/preview serve at "/"; the production build targets the GitHub Pages
-// project subpath. import.meta.env.BASE_URL reflects this everywhere.
-export default defineConfig(({ command }) => ({
-  base: command === "build" ? "/walker-family-recipes/" : "/",
-}));
+// Served at the root of recipes.mykewalker.com (a GitHub Pages custom domain),
+// so base is "/" for both dev and build. import.meta.env.BASE_URL reflects this
+// everywhere via asset() in src/util.ts.
+export default defineConfig({
+  base: "/",
+});
